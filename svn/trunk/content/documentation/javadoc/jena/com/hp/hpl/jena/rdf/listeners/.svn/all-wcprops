@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/listeners
+END
+ObjectListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/listeners/ObjectListener.html
+END
+ChangedListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/listeners/ChangedListener.html
+END
+NullListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/listeners/NullListener.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/listeners/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/listeners/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/listeners/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/listeners/package-tree.html
+END
+StatementListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/listeners/StatementListener.html
+END

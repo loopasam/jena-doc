@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use
+END
+LiteralRequiredException.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/LiteralRequiredException.html
+END
+ResourceFactory.Interface.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ResourceFactory.Interface.html
+END
+RDFList.ApplyFn.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RDFList.ApplyFn.html
+END
+ModelMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ModelMaker.html
+END
+ModelChangedListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ModelChangedListener.html
+END
+Alt.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Alt.html
+END
+Statement.Util.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Statement.Util.html
+END
+ModelSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ModelSource.html
+END
+ListIndexException.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ListIndexException.html
+END
+RDFErrorHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RDFErrorHandler.html
+END
+ModelReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ModelReader.html
+END
+ModelFactoryBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ModelFactoryBase.html
+END
+Resource.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Resource.html
+END
+ModelFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ModelFactory.html
+END
+DoesNotReifyException.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/DoesNotReifyException.html
+END
+NsIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/NsIterator.html
+END
+SimpleSelector.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/SimpleSelector.html
+END
+RDFVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RDFVisitor.html
+END
+Literal.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Literal.html
+END
+ReifiedStatement.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ReifiedStatement.html
+END
+InfModel.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/InfModel.html
+END
+RDFReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RDFReader.html
+END
+Model.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Model.html
+END
+ModelCon.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ModelCon.html
+END
+RDFList.ReduceFn.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RDFList.ReduceFn.html
+END
+StmtIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/StmtIterator.html
+END
+ResIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ResIterator.html
+END
+StatementBoundaryBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/StatementBoundaryBase.html
+END
+RDFReaderF.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RDFReaderF.html
+END
+RDFList.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RDFList.html
+END
+ResourceRequiredException.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ResourceRequiredException.html
+END
+HasNoModelException.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/HasNoModelException.html
+END
+RDFWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RDFWriter.html
+END
+StatementBoundary.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/StatementBoundary.html
+END
+AnonId.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/AnonId.html
+END
+EmptyListException.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/EmptyListException.html
+END
+SeqIndexBoundsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/SeqIndexBoundsException.html
+END
+ModelGetter.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ModelGetter.html
+END
+EmptyListUpdateException.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/EmptyListUpdateException.html
+END
+RDFWriterF.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RDFWriterF.html
+END
+ResourceFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ResourceFactory.html
+END
+Selector.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Selector.html
+END
+RDFNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RDFNode.html
+END
+Container.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Container.html
+END
+Property.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Property.html
+END
+Seq.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Seq.html
+END
+StatementTripleBoundary.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/StatementTripleBoundary.html
+END
+Bag.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Bag.html
+END
+ModelExtract.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ModelExtract.html
+END
+AltHasNoDefaultException.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/AltHasNoDefaultException.html
+END
+ResourceF.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ResourceF.html
+END
+RSIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/RSIterator.html
+END
+NodeIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/NodeIterator.html
+END
+InvalidListException.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/InvalidListException.html
+END
+ModelGraphInterface.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/ModelGraphInterface.html
+END
+Statement.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/model/class-use/Statement.html
+END

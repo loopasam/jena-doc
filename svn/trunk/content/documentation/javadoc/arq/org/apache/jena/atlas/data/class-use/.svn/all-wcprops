@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use
+END
+ThresholdPolicy.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/ThresholdPolicy.html
+END
+BagFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/BagFactory.html
+END
+DistinctDataNet.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/DistinctDataNet.html
+END
+DataBag.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/DataBag.html
+END
+SortedDataBag.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/SortedDataBag.html
+END
+ThresholdPolicyFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/ThresholdPolicyFactory.html
+END
+DistinctDataBag.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/DistinctDataBag.html
+END
+SerializationFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/SerializationFactory.html
+END
+ThresholdPolicyCount.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/ThresholdPolicyCount.html
+END
+ThresholdPolicyMemory.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/ThresholdPolicyMemory.html
+END
+AbstractDataBag.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/AbstractDataBag.html
+END
+DefaultDataBag.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/data/class-use/DefaultDataBag.html
+END

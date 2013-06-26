@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use
+END
+WriterStreamRDFFlat.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/WriterStreamRDFFlat.html
+END
+TriGWriterBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/TriGWriterBase.html
+END
+NTriplesWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/NTriplesWriter.html
+END
+TriGWriterBlocks.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/TriGWriterBlocks.html
+END
+TriGWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/TriGWriter.html
+END
+RDFJSONWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/RDFJSONWriter.html
+END
+TurtleWriterBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/TurtleWriterBase.html
+END
+TurtleShell.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/TurtleShell.html
+END
+NullWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/NullWriter.html
+END
+TriGWriterFlat.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/TriGWriterFlat.html
+END
+TurtleWriterBlocks.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/TurtleWriterBlocks.html
+END
+RDFXMLAbbrevWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/RDFXMLAbbrevWriter.html
+END
+WriterDatasetRIOTBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/WriterDatasetRIOTBase.html
+END
+TurtleWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/TurtleWriter.html
+END
+RDFXMLPlainWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/RDFXMLPlainWriter.html
+END
+WriterStreamRDFBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/WriterStreamRDFBase.html
+END
+WriterStreamRDFTuples.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/WriterStreamRDFTuples.html
+END
+SinkEntityOutput.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/SinkEntityOutput.html
+END
+WriterStreamRDFBlocks.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/WriterStreamRDFBlocks.html
+END
+TurtleWriterFlat.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/TurtleWriterFlat.html
+END
+WriterConst.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/WriterConst.html
+END
+WriterGraphRIOTBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/WriterGraphRIOTBase.html
+END
+NQuadsWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/NQuadsWriter.html
+END
+WriterStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/writer/class-use/WriterStream.html
+END

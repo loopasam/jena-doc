@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/package-summary.html
+END
+ModTDBAssembler.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/ModTDBAssembler.html
+END
+ModLocation.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/ModLocation.html
+END
+ModTDBGraphStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/ModTDBGraphStore.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/package-tree.html
+END
+CmdSub.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/CmdSub.html
+END
+CmdTDB.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/CmdTDB.html
+END
+CmdTDBGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/CmdTDBGraph.html
+END
+ModTDBDataset.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/ModTDBDataset.html
+END
+CmdSub.Exec.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/CmdSub.Exec.html
+END
+ModModel.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/ModModel.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/package-frame.html
+END

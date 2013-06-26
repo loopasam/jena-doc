@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http
+END
+DatasetGraphAccessorBasic.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http/DatasetGraphAccessorBasic.html
+END
+HttpSC.Code.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http/HttpSC.Code.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http/package-frame.html
+END
+HttpSC.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http/HttpSC.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http/package-use.html
+END
+DatasetAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http/DatasetAdapter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http/package-tree.html
+END
+DatasetGraphAccessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http/DatasetGraphAccessor.html
+END
+DatasetGraphAccessorHTTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/http/DatasetGraphAccessorHTTP.html
+END

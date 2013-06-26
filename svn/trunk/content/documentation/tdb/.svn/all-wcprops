@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1454706/jena/site/trunk/content/documentation/tdb
+END
+datasets.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/tdb/datasets.mdtext
+END
+java_api.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/tdb/java_api.mdtext
+END
+dynamic_datasets.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1376985/jena/site/trunk/content/documentation/tdb/dynamic_datasets.mdtext
+END
+assembler.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1443950/jena/site/trunk/content/documentation/tdb/assembler.mdtext
+END
+tdb_system.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1454704/jena/site/trunk/content/documentation/tdb/tdb_system.mdtext
+END
+quadfilter.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1444710/jena/site/trunk/content/documentation/tdb/quadfilter.mdtext
+END
+commands.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1399746/jena/site/trunk/content/documentation/tdb/commands.mdtext
+END
+tdb_transactions.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/tdb/tdb_transactions.mdtext
+END
+value_canonicalization.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/tdb/value_canonicalization.mdtext
+END
+architecture.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/tdb/architecture.mdtext
+END
+optimizer.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1408848/jena/site/trunk/content/documentation/tdb/optimizer.mdtext
+END
+requirements.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1454704/jena/site/trunk/content/documentation/tdb/requirements.mdtext
+END
+configuration.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1454705/jena/site/trunk/content/documentation/tdb/configuration.mdtext
+END
+index.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1454704/jena/site/trunk/content/documentation/tdb/index.mdtext
+END

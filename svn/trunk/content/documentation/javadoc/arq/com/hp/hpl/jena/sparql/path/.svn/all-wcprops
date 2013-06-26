@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path
+END
+PathVisitorBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathVisitorBase.html
+END
+P_Seq.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Seq.html
+END
+PathVisitorByType.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathVisitorByType.html
+END
+PathVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathVisitor.html
+END
+PathLib.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathLib.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/package-summary.html
+END
+PathCompiler.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathCompiler.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/package-tree.html
+END
+P_Shortest.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Shortest.html
+END
+P_Path0.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Path0.html
+END
+P_Path2.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Path2.html
+END
+P_Mod.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Mod.html
+END
+P_Alt.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Alt.html
+END
+P_ZeroOrMoreN.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_ZeroOrMoreN.html
+END
+P_OneOrMoreN.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_OneOrMoreN.html
+END
+P_ZeroOrMore1.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_ZeroOrMore1.html
+END
+P_NegPropSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_NegPropSet.html
+END
+P_OneOrMore1.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_OneOrMore1.html
+END
+PathPropertyFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathPropertyFunction.html
+END
+P_ReverseLink.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_ReverseLink.html
+END
+PathParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathParser.html
+END
+P_Multi.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Multi.html
+END
+P_Link.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Link.html
+END
+P_FixedLength.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_FixedLength.html
+END
+PathFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathFactory.html
+END
+PathBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathBase.html
+END
+PathWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathWriter.html
+END
+P_Inverse.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Inverse.html
+END
+Path.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/Path.html
+END
+P_Path1.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Path1.html
+END
+P_Distinct.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Distinct.html
+END
+P_ZeroOrOne.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_ZeroOrOne.html
+END

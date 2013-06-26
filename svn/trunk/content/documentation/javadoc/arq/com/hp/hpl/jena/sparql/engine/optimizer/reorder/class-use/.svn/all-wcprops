@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use
+END
+ReorderFixed.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use/ReorderFixed.html
+END
+ReorderWeighted.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use/ReorderWeighted.html
+END
+ReorderTransformationBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use/ReorderTransformationBase.html
+END
+ReorderProc.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use/ReorderProc.html
+END
+ReorderProcIndexes.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use/ReorderProcIndexes.html
+END
+Reorderable.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use/Reorderable.html
+END
+ReorderLib.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use/ReorderLib.html
+END
+ReorderTransformation.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use/ReorderTransformation.html
+END
+PatternElements.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use/PatternElements.html
+END
+PatternTriple.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/optimizer/reorder/class-use/PatternTriple.html
+END

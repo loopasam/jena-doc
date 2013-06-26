@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/validation
+END
+UpdateValidator.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/validation/UpdateValidator.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/validation/package-tree.html
+END
+IRIValidator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/validation/IRIValidator.html
+END
+QueryValidator.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/validation/QueryValidator.html
+END
+DataValidator.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/validation/DataValidator.html
+END
+ValidatorBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/validation/ValidatorBase.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/validation/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/validation/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/validation/package-summary.html
+END

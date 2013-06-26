@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot
+END
+WebContent.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/WebContent.html
+END
+WriterDatasetRIOTFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/WriterDatasetRIOTFactory.html
+END
+RDFFormatVariant.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RDFFormatVariant.html
+END
+RiotNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RiotNotFoundException.html
+END
+RiotWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RiotWriter.html
+END
+RDFDataMgr.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RDFDataMgr.html
+END
+SysRIOT.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/SysRIOT.html
+END
+RIOT.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RIOT.html
+END
+WriterDatasetRIOT.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/WriterDatasetRIOT.html
+END
+RDFParserRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RDFParserRegistry.html
+END
+Lang.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/Lang.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/package-frame.html
+END
+RDFFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RDFFormat.html
+END
+WriterGraphRIOTFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/WriterGraphRIOTFactory.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/package-summary.html
+END
+RiotParseException.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RiotParseException.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/package-tree.html
+END
+ReaderRIOTFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/ReaderRIOTFactory.html
+END
+LangBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/LangBuilder.html
+END
+ReaderRIOTBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/ReaderRIOTBase.html
+END
+RiotException.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RiotException.html
+END
+WriterGraphRIOT.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/WriterGraphRIOT.html
+END
+ReaderRIOT.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/ReaderRIOT.html
+END
+RiotReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RiotReader.html
+END
+RDFWriterRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RDFWriterRegistry.html
+END
+RDFLanguages.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/RDFLanguages.html
+END
+IO_Jena.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/IO_Jena.html
+END

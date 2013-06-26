@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/package-use.html
+END
+GraphStoreFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/GraphStoreFactory.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/package-tree.html
+END
+UpdateFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/UpdateFactory.html
+END
+UpdateRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/UpdateRequest.html
+END
+UpdateProcessorStreaming.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/UpdateProcessorStreaming.html
+END
+GraphStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/GraphStore.html
+END
+UpdateExecutionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/UpdateExecutionFactory.html
+END
+UpdateAction.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/UpdateAction.html
+END
+UpdateException.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/UpdateException.html
+END
+Update.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/Update.html
+END
+UpdateProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/UpdateProcessor.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/package-frame.html
+END

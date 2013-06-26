@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/class-use
+END
+Params.Pair.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/class-use/Params.Pair.html
+END
+Service.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/class-use/Service.html
+END
+HttpParams.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/class-use/HttpParams.html
+END
+Params.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/class-use/Params.html
+END
+QueryExceptionHTTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/class-use/QueryExceptionHTTP.html
+END
+HttpQuery.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/class-use/HttpQuery.html
+END
+QueryEngineHTTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/class-use/QueryEngineHTTP.html
+END
+HttpContentType.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/class-use/HttpContentType.html
+END

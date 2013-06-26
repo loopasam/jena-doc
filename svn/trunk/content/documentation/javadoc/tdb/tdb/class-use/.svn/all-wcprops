@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use
+END
+tdbrecovery.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/tdbrecovery.html
+END
+tdbstats.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/tdbstats.html
+END
+tdbclean.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/tdbclean.html
+END
+tdbupdate.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/tdbupdate.html
+END
+CmdRewriteIndex.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/CmdRewriteIndex.html
+END
+tdbbackup.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/tdbbackup.html
+END
+tdbconfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/tdbconfig.html
+END
+tdbdump.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/tdbdump.html
+END
+tdbnode.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/tdbnode.html
+END
+tdbquery.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/tdbquery.html
+END
+tdbloader.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/class-use/tdbloader.html
+END

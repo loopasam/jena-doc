@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/parser/class-use
+END
+ParseException.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/parser/class-use/ParseException.html
+END
+JavaCharStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/parser/class-use/JavaCharStream.html
+END
+SSE_ParserCoreTokenManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/parser/class-use/SSE_ParserCoreTokenManager.html
+END
+SSE_ParserCoreConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/parser/class-use/SSE_ParserCoreConstants.html
+END
+SSE_ParserCore.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/parser/class-use/SSE_ParserCore.html
+END
+Token.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/parser/class-use/Token.html
+END
+TokenMgrError.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/parser/class-use/TokenMgrError.html
+END

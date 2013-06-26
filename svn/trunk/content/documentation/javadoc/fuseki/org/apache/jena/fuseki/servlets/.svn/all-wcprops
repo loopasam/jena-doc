@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets
+END
+HttpAction.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/HttpAction.html
+END
+SimpleVelocityServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SimpleVelocityServlet.html
+END
+HttpServletResponseTracker.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/HttpServletResponseTracker.html
+END
+ResponseOps.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/ResponseOps.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/package-frame.html
+END
+ConcurrencyPolicyMRSW.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/ConcurrencyPolicyMRSW.html
+END
+SPARQL_Protocol.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_Protocol.html
+END
+SPARQL_UberServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_UberServlet.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/package-tree.html
+END
+SPARQL_UberServlet.ReadOnly.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_UberServlet.ReadOnly.html
+END
+SPARQL_UberServlet.AccessByConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_UberServlet.AccessByConfig.html
+END
+SPARQL_Upload.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_Upload.html
+END
+SPARQL_REST_RW.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_REST_RW.html
+END
+NullOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/NullOutputStream.html
+END
+DumpServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/DumpServlet.html
+END
+REST_Quads.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/REST_Quads.html
+END
+ServletBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/ServletBase.html
+END
+ResponseModel.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/ResponseModel.html
+END
+SPARQL_REST_R.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_REST_R.html
+END
+SPARQL_QueryGeneral.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_QueryGeneral.html
+END
+SPARQL_Query.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_Query.html
+END
+SPARQL_QueryDataset.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_QueryDataset.html
+END
+SPARQL_REST.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_REST.html
+END
+SPARQL_ServletBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_ServletBase.html
+END
+SPARQL_Update.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_Update.html
+END
+SimpleVelocity.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SimpleVelocity.html
+END
+SPARQL_UberServlet.ReadWrite.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/SPARQL_UberServlet.ReadWrite.html
+END
+ResponseResultSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/ResponseResultSet.html
+END
+ResponseCallback.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/servlets/ResponseCallback.html
+END

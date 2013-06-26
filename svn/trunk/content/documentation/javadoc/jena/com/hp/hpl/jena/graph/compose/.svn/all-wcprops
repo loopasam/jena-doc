@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose
+END
+PolyadicPrefixMappingImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/PolyadicPrefixMappingImpl.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/package-tree.html
+END
+Union.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/Union.html
+END
+Delta.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/Delta.html
+END
+Difference.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/Difference.html
+END
+DisjointUnion.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/DisjointUnion.html
+END
+Dyadic.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/Dyadic.html
+END
+CompositionBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/CompositionBase.html
+END
+MultiUnion.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/MultiUnion.html
+END
+Polyadic.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/Polyadic.html
+END
+Intersection.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/Intersection.html
+END
+MultiUnion.MultiUnionStatisticsHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/MultiUnion.MultiUnionStatisticsHandler.html
+END

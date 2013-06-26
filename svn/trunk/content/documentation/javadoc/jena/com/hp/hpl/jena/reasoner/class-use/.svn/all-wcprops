@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use
+END
+InfGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/InfGraph.html
+END
+StandardValidityReport.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/StandardValidityReport.html
+END
+Derivation.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/Derivation.html
+END
+FinderUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/FinderUtil.html
+END
+ReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/ReasonerFactory.html
+END
+ReasonerRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/ReasonerRegistry.html
+END
+Finder.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/Finder.html
+END
+FGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/FGraph.html
+END
+BaseInfGraph.InfTransactionHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/BaseInfGraph.InfTransactionHandler.html
+END
+Reasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/Reasoner.html
+END
+BaseInfGraph.InfFindSafeCapabilities.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/BaseInfGraph.InfFindSafeCapabilities.html
+END
+BaseInfGraph.InfCapabilities.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/BaseInfGraph.InfCapabilities.html
+END
+ValidityReport.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/ValidityReport.html
+END
+IllegalParameterException.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/IllegalParameterException.html
+END
+BaseInfGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/BaseInfGraph.html
+END
+ValidityReport.Report.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/ValidityReport.Report.html
+END
+TriplePattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/TriplePattern.html
+END
+ReasonerException.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/class-use/ReasonerException.html
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use
+END
+BuilderOp.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderOp.html
+END
+BuilderExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderExpr.html
+END
+BuilderExec.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderExec.html
+END
+BuilderNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderNode.html
+END
+BuilderTable.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderTable.html
+END
+BuilderResultSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderResultSet.html
+END
+BuilderPath.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderPath.html
+END
+BuilderGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderGraph.html
+END
+ExprBuildException.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/ExprBuildException.html
+END
+BuilderLib.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderLib.html
+END
+BuildException.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuildException.html
+END
+BuilderPrefixMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderPrefixMapping.html
+END
+BuilderBinding.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderBinding.html
+END
+BuilderOp.Build.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderOp.Build.html
+END
+BuilderExpr.Build.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/builders/class-use/BuilderExpr.Build.html
+END

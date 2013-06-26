@@ -1,0 +1,78 @@
+Title: Reading and Writing RDF in Apache Jena
+
+This page details the setup of RDF I/O technology (RIOT).
+
+* [Formats](#formats)
+* [Commands](#command-line-tools)
+* [Reading RDF in Jena](rdf-input.html)
+* [Writing RDF in Jena](rdf-output.html)
+* [Additional details on working with RDF/XML](rdfxml_howto.html)
+
+## Formats
+
+The following RDF formats are supported by Jena. In addition, other syntaxes
+can be integrated into both the parser and writer registries.
+
+- Turtle
+- RDF/XML
+- N-Triples
+- RDF/JSON
+- TriG
+- N-Quads
+
+RDF/JSON is not JSON-LD - it is a direct encoding of RDF triples in JSON.
+See the [description of RDF/JSON](rdf-json.html).
+
+## Command line tools
+
+There are scripts in Jena download to run these commands.
+
+- `riot` - parse, guessing the syntax from the file extension.
+    Assumed N-Quads/N-Triples from stdin.
+- `turtle`, `ntriples`, `nquads`, `trig`, `rdfxml` - parse a particular language
+
+These can be called directly as Java programs:
+
+The file extensions understood are:
+
+| &nbsp;Extension&nbsp; |&nbsp; Language&nbsp; |
+|-----------|-----------|
+| `.ttl`    | Turtle    |
+| `.nt`     | N-Triples |
+| `.nq`     | N-Quads   |
+| `.trig`   | TriG      |
+| `.rdf`    | RDF/XML   |
+| `.owl`    | RDF/XML   |
+
+`.n3` is supported but only as a synonym for Turtle.
+
+In addition, if the extension is `.gz` the file is assumed to be gzip
+compressed. The file name is examined for an inner extension. For
+example, `.nt.gz` is gzip compressed N-Triples.
+
+These scripts call java programs in the `riotcmd` package. For example:
+
+    java -cp ... riotcmd.riot file.ttl
+
+The scripts all accept the same arguments (type `"riot --help"` to
+get command line reminders):
+
+-   `--validate`: Checking mode: same as `--strict --sink --check=true`
+-   `--check=true/false`: Run with checking of literals and IRIs either on or off.
+-   `--sink`: No output of triples or quads.
+-   `--time`: Output timing information.
+
+To aid in checking for errors in UTF8-encoded files, there is a
+utility which reads a file of bytes as UTF8 and checks the encoding.
+
+-   `utf8` -- read bytes as UTF8
+
+## Inference
+
+RIOT support creation of inferred triples during the parsing
+process:
+
+    riotcmd.infer --rdfs VOCAB FILE FILE ...
+
+Output will contain the base data and triples inferred based on
+RDF subclass, subproperty, domain and range declarations.

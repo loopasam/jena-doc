@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use
+END
+QueryCompiler1.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/QueryCompiler1.html
+END
+FormatterSimpleSQLServer.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/FormatterSimpleSQLServer.html
+END
+FormatterSimplePGSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/FormatterSimplePGSQL.html
+END
+SQLBridgeFactory1.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/SQLBridgeFactory1.html
+END
+CodecSimple.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/CodecSimple.html
+END
+TupleLoaderSimple.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/TupleLoaderSimple.html
+END
+StoreSimpleDerby.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/StoreSimpleDerby.html
+END
+StoreSimpleMySQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/StoreSimpleMySQL.html
+END
+StoreSimpleOracle.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/StoreSimpleOracle.html
+END
+SlotCompiler1.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/SlotCompiler1.html
+END
+SQLBridge1.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/SQLBridge1.html
+END
+StoreSimpleDB2.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/StoreSimpleDB2.html
+END
+StoreSimpleHSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/StoreSimpleHSQL.html
+END
+StoreSimpleH2.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/StoreSimpleH2.html
+END
+FormatterSimpleOracle.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/FormatterSimpleOracle.html
+END
+FormatterSimpleMySQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/FormatterSimpleMySQL.html
+END
+FormatterSimpleDerby.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/FormatterSimpleDerby.html
+END
+FormatterSimpleHSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/FormatterSimpleHSQL.html
+END
+FormatterSimpleDB2.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/FormatterSimpleDB2.html
+END
+EncoderDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/EncoderDecoder.html
+END
+FormatterSimpleH2.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/FormatterSimpleH2.html
+END
+StoreBase1.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/StoreBase1.html
+END
+TableDescSPO.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/TableDescSPO.html
+END
+QueryCompilerFactory1.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/QueryCompilerFactory1.html
+END
+FormatterSimple.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/FormatterSimple.html
+END
+StoreSimplePGSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/StoreSimplePGSQL.html
+END
+StoreSimpleSQLServer.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout1/class-use/StoreSimpleSQLServer.html
+END

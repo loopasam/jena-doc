@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use
+END
+FN_SecondsFromDateTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_SecondsFromDateTime.html
+END
+substr.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/substr.html
+END
+FN_StrConcat.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_StrConcat.html
+END
+FN_Not.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_Not.html
+END
+min.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/min.html
+END
+FN_MonthsFromDuration.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_MonthsFromDuration.html
+END
+max.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/max.html
+END
+eval.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/eval.html
+END
+FN_StrStartsWith.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_StrStartsWith.html
+END
+sqrt.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/sqrt.html
+END
+FN_StrContains.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_StrContains.html
+END
+FN_StrSubstring.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_StrSubstring.html
+END
+namespace.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/namespace.html
+END
+FN_StrLength.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_StrLength.html
+END
+FN_Ceiling.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_Ceiling.html
+END
+FN_YearsFromDuration.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_YearsFromDuration.html
+END
+FN_StrLowerCase.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_StrLowerCase.html
+END
+FN_StrEndsWith.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_StrEndsWith.html
+END
+FN_DayFromDateTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_DayFromDateTime.html
+END
+FN_MinutesFromDuration.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_MinutesFromDuration.html
+END
+FN_StrUpperCase.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_StrUpperCase.html
+END
+now.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/now.html
+END
+FN_Matches.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_Matches.html
+END
+pi.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/pi.html
+END
+FN_SecondsFromDuration.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_SecondsFromDuration.html
+END
+evenInteger.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/evenInteger.html
+END
+FN_DaysFromDuration.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_DaysFromDuration.html
+END
+substring.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/substring.html
+END
+sha1sum.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/sha1sum.html
+END
+FN_YearFromDateTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_YearFromDateTime.html
+END
+FN_HoursFromDateTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_HoursFromDateTime.html
+END
+e.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/e.html
+END
+bnode.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/bnode.html
+END
+FN_Abs.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_Abs.html
+END
+strjoin.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/strjoin.html
+END
+localname.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/localname.html
+END
+print.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/print.html
+END
+SystemVar.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/SystemVar.html
+END
+FN_BEV.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_BEV.html
+END
+struuid.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/struuid.html
+END
+FN_StrEncodeForURI.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_StrEncodeForURI.html
+END
+FN_Floor.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_Floor.html
+END
+wait.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/wait.html
+END
+uuid.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/uuid.html
+END
+langeq.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/langeq.html
+END
+strlen.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/strlen.html
+END
+FN_MinutesFromDateTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_MinutesFromDateTime.html
+END
+FN_MonthFromDateTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_MonthFromDateTime.html
+END
+FN_Round.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_Round.html
+END
+date.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/date.html
+END
+FN_HoursFromDuration.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_HoursFromDuration.html
+END
+FN_TimezoneFromDateTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/library/class-use/FN_TimezoneFromDateTime.html
+END

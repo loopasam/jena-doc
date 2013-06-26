@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql
+END
+SDBExceptionSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/SDBExceptionSQL.html
+END
+TableUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/TableUtils.html
+END
+TableDump.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/TableDump.html
+END
+ResultSetJDBC.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/ResultSetJDBC.html
+END
+SQLUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/SQLUtils.html
+END
+SDBConnectionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/SDBConnectionFactory.html
+END
+DataSourceSDB.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/DataSourceSDB.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/package-frame.html
+END
+RS.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/RS.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/package-use.html
+END
+SDBConnectionHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/SDBConnectionHolder.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/package-summary.html
+END
+SDBConnectionDesc.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/SDBConnectionDesc.html
+END
+SDBConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/SDBConnection.html
+END
+FunctionsSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/FunctionsSQL.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/package-tree.html
+END
+SQLUtilsStd.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/SQLUtilsStd.html
+END
+MySQLEngineType.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/MySQLEngineType.html
+END
+SQLCommand.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/SQLCommand.html
+END
+JDBC.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/sql/JDBC.html
+END

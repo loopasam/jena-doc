@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use
+END
+CacheSetLRU.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheSetLRU.html
+END
+Cache0.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/Cache0.html
+END
+Cache1.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/Cache1.html
+END
+CacheWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheWrapper.html
+END
+CacheLRU.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheLRU.html
+END
+CacheUnbounded.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheUnbounded.html
+END
+CacheWithGetter.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheWithGetter.html
+END
+Getter.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/Getter.html
+END
+CacheSetSync.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheSetSync.html
+END
+CacheStatsSimple.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheStatsSimple.html
+END
+CacheSimple.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheSimple.html
+END
+CacheStatsAtomic.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheStatsAtomic.html
+END
+CacheSetWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheSetWrapper.html
+END
+CacheSync.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/class-use/CacheSync.html
+END

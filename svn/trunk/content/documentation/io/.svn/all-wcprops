@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1483882/jena/site/trunk/content/documentation/io
+END
+index.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1462241/jena/site/trunk/content/documentation/io/index.mdtext
+END
+rdf-input.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1462241/jena/site/trunk/content/documentation/io/rdf-input.mdtext
+END
+rdf-output.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1483882/jena/site/trunk/content/documentation/io/rdf-output.mdtext
+END
+arp_standalone.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1427439/jena/site/trunk/content/documentation/io/arp_standalone.mdtext
+END
+DOM2Jena.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/io/DOM2Jena.java
+END
+rdfxml_howto.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1462217/jena/site/trunk/content/documentation/io/rdfxml_howto.mdtext
+END
+riot.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1451598/jena/site/trunk/content/documentation/io/riot.html
+END
+arp_sax.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1427439/jena/site/trunk/content/documentation/io/arp_sax.mdtext
+END
+rdf-json.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1427439/jena/site/trunk/content/documentation/io/rdf-json.html
+END
+arp.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1462217/jena/site/trunk/content/documentation/io/arp.mdtext
+END

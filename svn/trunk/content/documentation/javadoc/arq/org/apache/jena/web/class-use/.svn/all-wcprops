@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/web/class-use
+END
+HttpSC.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/web/class-use/HttpSC.html
+END
+DatasetAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/web/class-use/DatasetAdapter.html
+END
+JenaHttpNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/web/class-use/JenaHttpNotFoundException.html
+END
+DatasetGraphAccessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/web/class-use/DatasetGraphAccessor.html
+END
+DatasetGraphAccessorHTTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/web/class-use/DatasetGraphAccessorHTTP.html
+END
+DatasetGraphAccessorBasic.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/web/class-use/DatasetGraphAccessorBasic.html
+END
+JenaHttpException.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/web/class-use/JenaHttpException.html
+END
+HttpSC.Code.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/web/class-use/HttpSC.Code.html
+END

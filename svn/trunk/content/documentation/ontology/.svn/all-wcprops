@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1423404/jena/site/trunk/content/documentation/ontology
+END
+index.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1423404/jena/site/trunk/content/documentation/ontology/index.mdtext
+END
+ont-model-layers.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/ontology/ont-model-layers.png
+END
+eswc-classes.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/ontology/eswc-classes.png
+END
+camera-classes.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/ontology/camera-classes.png
+END
+ont-model-layers-import.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/ontology/ont-model-layers-import.png
+END
+toc-test.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/ontology/toc-test.mdtext
+END
+simple-hierarchy.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/ontology/simple-hierarchy.png
+END
+direct-hierarchy.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/ontology/direct-hierarchy.png
+END

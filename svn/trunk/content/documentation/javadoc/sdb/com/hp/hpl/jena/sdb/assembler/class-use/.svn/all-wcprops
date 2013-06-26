@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use
+END
+SDBConnectionDescAssembler.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/SDBConnectionDescAssembler.html
+END
+SDBModelAssembler.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/SDBModelAssembler.html
+END
+AssemblerVocab.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/AssemblerVocab.html
+END
+MissingException.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/MissingException.html
+END
+TypeNotUniqueException.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/TypeNotUniqueException.html
+END
+BadDescriptionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/BadDescriptionException.html
+END
+StoreDescAssembler.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/StoreDescAssembler.html
+END
+CommandAssemblerException.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/CommandAssemblerException.html
+END
+DatasetStoreAssembler.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/DatasetStoreAssembler.html
+END
+QueryAssembler.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/QueryAssembler.html
+END

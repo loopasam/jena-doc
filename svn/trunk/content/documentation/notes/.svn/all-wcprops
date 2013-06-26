@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1427439/jena/site/trunk/content/documentation/notes
+END
+iri.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/notes/iri.mdtext
+END
+model-factory.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1427439/jena/site/trunk/content/documentation/notes/model-factory.mdtext
+END
+rdf-frames.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/notes/rdf-frames.mdtext
+END
+file-manager.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1337964/jena/site/trunk/content/documentation/notes/file-manager.mdtext
+END
+index.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/notes/index.mdtext
+END
+concurrency-howto.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/notes/concurrency-howto.mdtext
+END
+reification_previous.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1425911/jena/site/trunk/content/documentation/notes/reification_previous.mdtext
+END
+event-handler-howto.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1380470/jena/site/trunk/content/documentation/notes/event-handler-howto.mdtext
+END
+jena-internals.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/notes/jena-internals.mdtext
+END
+sse.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/notes/sse.mdtext
+END
+reification.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1425914/jena/site/trunk/content/documentation/notes/reification.mdtext
+END
+typed-literals.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1423404/jena/site/trunk/content/documentation/notes/typed-literals.mdtext
+END

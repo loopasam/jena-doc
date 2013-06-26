@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/compiler/rewrite
+END
+QuadBlockRewrite.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/compiler/rewrite/QuadBlockRewrite.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/compiler/rewrite/package-tree.html
+END
+QBR_SubType.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/compiler/rewrite/QBR_SubType.html
+END
+QBR_SubProperty.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/compiler/rewrite/QBR_SubProperty.html
+END
+QuadBlockRewriteCompiler.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/compiler/rewrite/QuadBlockRewriteCompiler.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/compiler/rewrite/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/compiler/rewrite/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/compiler/rewrite/package-summary.html
+END

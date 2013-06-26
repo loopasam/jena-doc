@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use
+END
+RDFReaderFactoryRIOT.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/RDFReaderFactoryRIOT.html
+END
+JenaReadersWriters.RDFWriterRIOT_NTriples.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFWriterRIOT_NTriples.html
+END
+JenaReadersWriters.RDFWriterRIOT_Turtle1.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFWriterRIOT_Turtle1.html
+END
+JenaReadersWriters.RDFWriterRIOT_Turtle2.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFWriterRIOT_Turtle2.html
+END
+JenaReadersWriters.RDFWriterRIOT_N3Plain.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFWriterRIOT_N3Plain.html
+END
+RDFReaderRIOT.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/RDFReaderRIOT.html
+END
+JenaReadersWriters.RDFWriterRIOT_RDFJSON.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFWriterRIOT_RDFJSON.html
+END
+RDFReaderRIOT_ARP.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/RDFReaderRIOT_ARP.html
+END
+JenaReadersWriters.RDFReaderRIOT_NT.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFReaderRIOT_NT.html
+END
+JenaReadersWriters.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.html
+END
+AdapterLocator.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/AdapterLocator.html
+END
+RDFWriterRIOT.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/RDFWriterRIOT.html
+END
+JenaReadersWriters.RDFWriterRIOT_Turtle.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFWriterRIOT_Turtle.html
+END
+JenaReadersWriters.RDFWriterRIOT_N3_PP.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFWriterRIOT_N3_PP.html
+END
+JenaReadersWriters.RDFWriterRIOT_N3.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFWriterRIOT_N3.html
+END
+AdapterRDFWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/AdapterRDFWriter.html
+END
+JenaReadersWriters.RDFReaderRIOT_RDFXML.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFReaderRIOT_RDFXML.html
+END
+JenaReadersWriters.RDFWriterRIOT_N3Triples.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFWriterRIOT_N3Triples.html
+END
+AdapterFileManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/AdapterFileManager.html
+END
+JenaReadersWriters.RDFWriterRIOT_N3TriplesAlt.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFWriterRIOT_N3TriplesAlt.html
+END
+AdapterLocationMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/AdapterLocationMapper.html
+END
+JenaReadersWriters.RDFReaderRIOT_TTL.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFReaderRIOT_TTL.html
+END
+JenaReadersWriters.RDFReaderRIOT_RDFJSON.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/adapters/class-use/JenaReadersWriters.RDFReaderRIOT_RDFJSON.html
+END

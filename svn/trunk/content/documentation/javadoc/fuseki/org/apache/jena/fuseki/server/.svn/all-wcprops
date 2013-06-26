@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server
+END
+DatasetRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/DatasetRegistry.html
+END
+FusekiErrorHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/FusekiErrorHandler.html
+END
+FusekiVocab.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/FusekiVocab.html
+END
+DatasetRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/DatasetRef.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/package-tree.html
+END
+SPARQLServer.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/SPARQLServer.html
+END
+FusekiConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/FusekiConfig.html
+END
+ServerConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/ServerConfig.html
+END
