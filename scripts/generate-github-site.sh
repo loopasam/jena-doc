@@ -11,6 +11,6 @@ cd content/
 # TODO: do that for the images too
 grep -rl --include="*.html" 'href="/' . | xargs sed -i 's/href=\"\//href=\"\/jena-doc\//g'
 cd ..
-cp content/* $1
+cp -R content/* $1
 # Clean the temp folder
 sudo rm -R content/
