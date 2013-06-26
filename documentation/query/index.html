@@ -1,0 +1,295 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE- 2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+  <link href="/css/jena.css" rel="stylesheet" type="text/css">
+
+  <title>Apache Jena - ARQ - A SPARQL Processor for Jena</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+  <script src="/js/jena-navigation.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <div id="header">
+    <div id="logoblock">
+    <img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
+    </div>
+
+    <div id="titleblock">
+      <h1 class="title">Apache Jena</h1>
+      <div id="topmenu" class="tabbar round-10">
+        <ul>
+        <li class="round-top-8"><a class="round-top-8" href="/index.html" id="home_menu">Home</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/help_and_support/index.html">Support</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/getting_started/index.html">Getting started</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/tutorials/index.html">Tutorials</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/documentation/index.html">Documentation</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="navigation" class="clear">
+  <h1 id="quick-links">Quick links</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/download/index.html">Downloads</a></li>
+<li><a href="/help_and_support/index.html">Help and support</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Report a bug</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/getting_involved/index.html">Getting involved</a></li>
+<li><a href="/documentation/">Documentation</a></li>
+</ul>
+<h1 id="about-jena">About Jena</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/about_jena/about.html">About Jena</a></li>
+<li><a href="/about_jena/architecture.html">Architecture</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/about_jena/team.html">Project team</a></li>
+<li><a href="/about_jena/contributions.html">Related projects</a></li>
+</ul>
+<h1 id="download">Download</h1>
+<ul>
+<li><a href="/download/index.html">Downloading Jena</a></li>
+<li><a href="/download/maven.html">Using Maven</a></li>
+<li><a href="/download/osgi.html">Using OSGi</a></li>
+</ul>
+<h1 id="help-and-support">Help and support</h1>
+<ul>
+<li><a href="/help_and_support/index.html">Getting help</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Bugs and suggestions</a></li>
+</ul>
+<h1 id="getting-started">Getting Started</h1>
+<ul>
+<li><a href="/getting_started/index.html">A first Jena project</a></li>
+<li><a href="/getting_started/rdf_api.html">RDF API overview</a></li>
+<li><a href="/getting_started/sparql.html">Querying RDF with SPARQL</a></li>
+<li><a href="/getting_started/fuseki.html">Serving RDF over HTTP</a></li>
+<li><a href="/getting_started/tell_me_how.html">Tell me how to ...</a></li>
+</ul>
+<h1 id="tutorials">Tutorials</h1>
+<ul>
+<li><a href="/tutorials/index.html">Tutorials index</a></li>
+<li><a href="/tutorials/rdf_api.html">RDF tutorial</a></li>
+<li><a href="/tutorials/sparql.html">SPARQL queries</a></li>
+<li><a href="/tutorials/using_jena_with_eclipse.html">Using Jena with Eclipse</a></li>
+</ul>
+<h1 id="documentation">Documentation</h1>
+<ul>
+<li><a href="/documentation/index.html">Overview</a></li>
+<li><a href="/documentation/javadoc/">Javadoc</a></li>
+<li><a href="/documentation/rdf/index.html">RDF</a></li>
+<li><a href="/documentation/io/index.html">I/O</a></li>
+<li><a href="/documentation/query/index.html">SPARQL (ARQ)</a><ul>
+<li><a href="/documentation/query/app_api.html">Application API</a></li>
+<li><a href="/documentation/query/cmds.html">Command line utilities</a></li>
+</ul>
+</li>
+<li><a href="/documentation/query/text-query.html">Text Search</a></li>
+<li><a href="/documentation/tdb/index.html">TDB</a><ul>
+<li><a href="/documentation/tdb/tdb_transactions.html">API for Transactions</a></li>
+<li><a href="/documentation/tdb/assembler.html">Dataset Assembler</a></li>
+</ul>
+</li>
+<li><a href="/documentation/serving_data/index.html">Fuseki: Serving Data</a></li>
+<li><a href="/documentation/ontology/index.html">Ontology</a></li>
+<li><a href="/documentation/inference/index.html">Inference</a></li>
+<li><a href="/documentation/assembler/index.html">Assembler</a><ul>
+<li><a href="/documentation/assembler/assembler-howto.html">Assembler how-to</a></li>
+<li><a href="/documentation/assembler/inside-assemblers.html">Inside assemblers</a></li>
+</ul>
+</li>
+<li><a href="/documentation/sdb/index.html">SDB</a></li>
+<li><a href="/documentation/notes/index.html">Notes</a><ul>
+<li><a href="/documentation/notes/concurrency-howto.html">Concurrency how-to</a></li>
+<li><a href="/documentation/notes/event-handler-howto.html">Event handler how-to</a></li>
+<li><a href="/documentation/notes/file-manager.html">File manager how-to</a></li>
+<li><a href="/documentation/notes/model-factory.html">Model factory how-to</a></li>
+<li><a href="/documentation/notes/rdf-frames.html">RDF frames</a></li>
+<li><a href="/documentation/notes/reification.html">Reification how-to</a></li>
+<li><a href="/documentation/notes/typed-literals.html">Typed literals how-to</a></li>
+<li><a href="/documentation/notes/iri.html">Support for IRI's</a></li>
+<li><a href="/documentation/notes/sse.html">SSE</a></li>
+</ul>
+</li>
+<li><a href="/documentation/tools/index.html">Tools</a><ul>
+<li><a href="/documentation/tools/schemagen.html">schemagen</a></li>
+<li><a href="/documentation/tools/eyeball-getting-started.html">eyeball</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="getting-involved">Getting Involved</h1>
+<ul>
+<li><a href="/getting_involved/index.html">Contributing to Jena</a><ul>
+<li><a href="/getting_involved/reviewing_contributions.html">Reviewing Contributions</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="asf-links">ASF links</h1>
+<ul>
+<li><a href="http://www.apache.org">Apache Software Foundation</a></li>
+<li><a href="http://www.apache.org/licenses/LICENSE-2.0">License</a></li>
+<li><a href="http://www.apache.org/foundation/thanks.html">Thanks</a></li>
+<li><a href="http://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+<li><a href="http://www.apache.org/security/">Security</a></li>
+</ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">ARQ - A SPARQL Processor for Jena</h1>
+    <p>ARQ is a query engine for <a href="http://jena.apache.org">Jena</a> that
+supports the
+<a href="http://www.w3.org/TR/sparql11-query/">SPARQL RDF Query language</a>.
+SPARQL is the query language developed by the W3C
+<a href="http://www.w3.org/2001/sw/DataAccess/">RDF Data Access Working Group</a>.</p>
+<h2 id="arq-features">ARQ Features</h2>
+<ul>
+<li>Standard SPARQL</li>
+<li>Free text search via Lucene</li>
+<li>SPARQL/Update</li>
+<li>Access and extension of the SPARQL algebra</li>
+<li>Support for custom filter functions</li>
+<li>Property functions for custom processing of semantic
+    relationships</li>
+<li>Aggregation, GROUP BY and assignment as SPARQL extensions</li>
+<li>Support for federated query</li>
+<li>Support for extension to other storage systems</li>
+<li>Client-support for remote access to any SPARQL endpoint</li>
+</ul>
+<h2 id="introduction">Introduction</h2>
+<ul>
+<li><a href="/tutorials/sparql.html">A Brief Tutorial on SPARQL</a></li>
+<li><a href="app_api.html">Application API</a> - covers the majority of
+    application usages</li>
+<li><a href="faq.html">Frequently Asked Questions</a></li>
+<li><a href="support.html">ARQ Support</a></li>
+<li>Application <a href="/documentation/javadoc/arq/index.html">javadoc</a></li>
+<li><a href="cmds.html">Command line utilities</a></li>
+<li><a href="logging.html">Logging</a></li>
+<li><a href="explain.html">Explaining queries</a></li>
+<li><a href="manipulating_sparql_using_arq.html">Tutorial: manipulating SPARQL using ARQ</a></li>
+<li><a href="service.html">Basic federated query (<code>SERVICE</code>)</a></li>
+</ul>
+<h2 id="advanced-sparql-use">Advanced SPARQL use</h2>
+<p>Features of ARQ that were formally ARQ extensions but are now legal SPARQL 1.1:</p>
+<ul>
+<li><a href="property_paths.html">Property paths</a></li>
+<li><a href="group-by.html">GROUP BY and counting</a></li>
+<li><a href="select_expr.html">SELECT expressions</a></li>
+<li><a href="sub-select.html">Sub-SELECT</a></li>
+<li><a href="negation.html">Negation</a></li>
+<li><a href="function_forms.html">Conditions in FILTERs</a></li>
+</ul>
+<p>Features of ARQ that are legal SPARQL syntax.</p>
+<ul>
+<li><a href="../larq/">Free text searches</a></li>
+<li><a href="rdf_lists.html">Accessing lists</a> (RDF collections)</li>
+<li>
+<p><a href="extension.html">Extension mechanisms</a></p>
+<ul>
+<li><a href="extension.html#valueFunctions">Filter Functions</a></li>
+<li><a href="extension.html#propertyFunctions">Property Functions</a></li>
+</ul>
+</li>
+<li>
+<p>Library</p>
+<ul>
+<li><a href="library-function.html">Filter function library</a></li>
+<li><a href="library-propfunc.html">Property function library</a></li>
+</ul>
+</li>
+<li>
+<p><a href="writing_functions.html">Writing ARQ FILTER functions</a></p>
+</li>
+<li><a href="sparql-remote.html">Querying remote SPARQL services</a></li>
+<li><a href="programmatic.html">Constructing queries programmatically</a></li>
+<li><a href="parameterized-sparql-strings.html">Parameterized query strings</a></li>
+<li><a href="algebra.html">ARQ and the SPARQL algebra</a></li>
+<li><a href="arq-query-eval.html">Extending ARQ query execution and accessing different storage implementations</a></li>
+</ul>
+<h2 id="extensions">Extensions</h2>
+<p>Feature of ARQ that go beyond SPARQL syntax. The default query
+language is standard SPARQL. These features require the query to be
+parsed with an explicit declaration of <code>Syntax.syntaxARQ</code>.</p>
+<ul>
+<li><a href="assignment.html">LET variable assignment</a></li>
+</ul>
+<h2 id="update">Update</h2>
+<p>ARQ supports the W3C standard SPARQL Update language as well as the
+precursor submission to W3C. Using the standard is preferred;
+support for the submission is for legacy use.</p>
+<ul>
+<li><a href="http://www.w3.org/TR/sparql11-update/">SPARQL Update</a></li>
+<li><a href="http://www.w3.org/Submission/SPARQL-Update/">SPARQL/Update Submission</a></li>
+<li><a href="update.html">The ARQ SPARQL/Update API</a></li>
+</ul>
+<h2 id="see-also">See Also</h2>
+<ul>
+<li><a href="../serving/data/index.html">Fuseki</a> - Server implementation of the SPARQL protocol.</li>
+<li><a href="../tdb">TDB - A SPARQL database for Jena</a>, a pure Java persistence layer for large graphs, high performance applications and embedded use.</li>
+<li><a href="../sdb">SDB - A SPARQL database for Jena</a>, using SQL databases.</li>
+</ul>
+<h2 id="w3c-documents">W3C Documents</h2>
+<ul>
+<li><a href="http://www.w3.org/TR/sparql11-query/">SPARQL Query Language specification</a></li>
+<li><a href="http://www.w3.org/TR/rdf-sparql-XMLres/">SPARQL Query Results XML Format</a></li>
+<li><a href="http://www.w3.org/TR/rdf-sparql-protocol/">SPARQL Protocol</a></li>
+</ul>
+<h2 id="articles">Articles</h2>
+<p>Articles and documentation elsewhere:</p>
+<ul>
+<li><a href="http://xml.com/lpt/a/2005/11/16/introducing-sparql-querying-semantic-web-tutorial.html">Introducing SPARQL: Querying the Semantic Web</a>
+    (<a href="http://www.xml.com/">xml.com</a> article by Leigh Dodds)</li>
+<li><a href="http://www.ibm.com/developerworks/xml/library/j-sparql/">Search RDF data with SPARQL</a>
+    (by Phil McCarthy) - article published on IBM developer works about
+    SPARQL and Jena.</li>
+<li><a href="http://www.ilrt.bris.ac.uk/people/cmdjb/2005/04-sparql/">SPARQL reference card</a>
+    (by <a href="http://www.ilrt.bristol.ac.uk/people/cmdjb/">Dave Beckett</a>)</li>
+<li><a href="http://www.ldodds.com/blog/archives/000251.html">Parameterised Queries with SPARQL and ARQ</a>
+    (by Leigh Dodds)</li>
+<li><a href="http://www.ldodds.com/blog/archives/000252.html">Writing an ARQ Extension Function</a>
+    (by Leigh Dodds)</li>
+</ul>
+<h2 id="miscellaneous-resources">Miscellaneous Resources</h2>
+<ul>
+<li><a href="http://www.w3.org/TeamSubmission/turtle/">Turtle</a> - a non-XML
+    RDF serialization</li>
+</ul>
+<h2 id="online-demo">Online Demo</h2>
+<p>Online <a href="http://www.sparql.org/query.html">Query Form</a> for
+experimenting with SPARQL queries.</p>
+  </div>
+
+  <div id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2011&ndash;2013 The Apache Software Foundation, Licensed under
+        the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br />
+        Apache Jena, Jena, the Apache Jena project logo,
+        Apache and the Apache feather logos are trademarks of The Apache Software Foundation.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>

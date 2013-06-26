@@ -1,0 +1,593 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE- 2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+  <link href="/css/jena.css" rel="stylesheet" type="text/css">
+
+  <title>Apache Jena - SPARQL S-Expressions (or &quot;SPARQL Syntax Expressions&quot;)</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+  <script src="/js/jena-navigation.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <div id="header">
+    <div id="logoblock">
+    <img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
+    </div>
+
+    <div id="titleblock">
+      <h1 class="title">Apache Jena</h1>
+      <div id="topmenu" class="tabbar round-10">
+        <ul>
+        <li class="round-top-8"><a class="round-top-8" href="/index.html" id="home_menu">Home</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/help_and_support/index.html">Support</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/getting_started/index.html">Getting started</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/tutorials/index.html">Tutorials</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/documentation/index.html">Documentation</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="navigation" class="clear">
+  <h1 id="quick-links">Quick links</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/download/index.html">Downloads</a></li>
+<li><a href="/help_and_support/index.html">Help and support</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Report a bug</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/getting_involved/index.html">Getting involved</a></li>
+<li><a href="/documentation/">Documentation</a></li>
+</ul>
+<h1 id="about-jena">About Jena</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/about_jena/about.html">About Jena</a></li>
+<li><a href="/about_jena/architecture.html">Architecture</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/about_jena/team.html">Project team</a></li>
+<li><a href="/about_jena/contributions.html">Related projects</a></li>
+</ul>
+<h1 id="download">Download</h1>
+<ul>
+<li><a href="/download/index.html">Downloading Jena</a></li>
+<li><a href="/download/maven.html">Using Maven</a></li>
+<li><a href="/download/osgi.html">Using OSGi</a></li>
+</ul>
+<h1 id="help-and-support">Help and support</h1>
+<ul>
+<li><a href="/help_and_support/index.html">Getting help</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Bugs and suggestions</a></li>
+</ul>
+<h1 id="getting-started">Getting Started</h1>
+<ul>
+<li><a href="/getting_started/index.html">A first Jena project</a></li>
+<li><a href="/getting_started/rdf_api.html">RDF API overview</a></li>
+<li><a href="/getting_started/sparql.html">Querying RDF with SPARQL</a></li>
+<li><a href="/getting_started/fuseki.html">Serving RDF over HTTP</a></li>
+<li><a href="/getting_started/tell_me_how.html">Tell me how to ...</a></li>
+</ul>
+<h1 id="tutorials">Tutorials</h1>
+<ul>
+<li><a href="/tutorials/index.html">Tutorials index</a></li>
+<li><a href="/tutorials/rdf_api.html">RDF tutorial</a></li>
+<li><a href="/tutorials/sparql.html">SPARQL queries</a></li>
+<li><a href="/tutorials/using_jena_with_eclipse.html">Using Jena with Eclipse</a></li>
+</ul>
+<h1 id="documentation">Documentation</h1>
+<ul>
+<li><a href="/documentation/index.html">Overview</a></li>
+<li><a href="/documentation/javadoc/">Javadoc</a></li>
+<li><a href="/documentation/rdf/index.html">RDF</a></li>
+<li><a href="/documentation/io/index.html">I/O</a></li>
+<li><a href="/documentation/query/index.html">SPARQL (ARQ)</a><ul>
+<li><a href="/documentation/query/app_api.html">Application API</a></li>
+<li><a href="/documentation/query/cmds.html">Command line utilities</a></li>
+</ul>
+</li>
+<li><a href="/documentation/query/text-query.html">Text Search</a></li>
+<li><a href="/documentation/tdb/index.html">TDB</a><ul>
+<li><a href="/documentation/tdb/tdb_transactions.html">API for Transactions</a></li>
+<li><a href="/documentation/tdb/assembler.html">Dataset Assembler</a></li>
+</ul>
+</li>
+<li><a href="/documentation/serving_data/index.html">Fuseki: Serving Data</a></li>
+<li><a href="/documentation/ontology/index.html">Ontology</a></li>
+<li><a href="/documentation/inference/index.html">Inference</a></li>
+<li><a href="/documentation/assembler/index.html">Assembler</a><ul>
+<li><a href="/documentation/assembler/assembler-howto.html">Assembler how-to</a></li>
+<li><a href="/documentation/assembler/inside-assemblers.html">Inside assemblers</a></li>
+</ul>
+</li>
+<li><a href="/documentation/sdb/index.html">SDB</a></li>
+<li><a href="/documentation/notes/index.html">Notes</a><ul>
+<li><a href="/documentation/notes/concurrency-howto.html">Concurrency how-to</a></li>
+<li><a href="/documentation/notes/event-handler-howto.html">Event handler how-to</a></li>
+<li><a href="/documentation/notes/file-manager.html">File manager how-to</a></li>
+<li><a href="/documentation/notes/model-factory.html">Model factory how-to</a></li>
+<li><a href="/documentation/notes/rdf-frames.html">RDF frames</a></li>
+<li><a href="/documentation/notes/reification.html">Reification how-to</a></li>
+<li><a href="/documentation/notes/typed-literals.html">Typed literals how-to</a></li>
+<li><a href="/documentation/notes/iri.html">Support for IRI's</a></li>
+<li><a href="/documentation/notes/sse.html">SSE</a></li>
+</ul>
+</li>
+<li><a href="/documentation/tools/index.html">Tools</a><ul>
+<li><a href="/documentation/tools/schemagen.html">schemagen</a></li>
+<li><a href="/documentation/tools/eyeball-getting-started.html">eyeball</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="getting-involved">Getting Involved</h1>
+<ul>
+<li><a href="/getting_involved/index.html">Contributing to Jena</a><ul>
+<li><a href="/getting_involved/reviewing_contributions.html">Reviewing Contributions</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="asf-links">ASF links</h1>
+<ul>
+<li><a href="http://www.apache.org">Apache Software Foundation</a></li>
+<li><a href="http://www.apache.org/licenses/LICENSE-2.0">License</a></li>
+<li><a href="http://www.apache.org/foundation/thanks.html">Thanks</a></li>
+<li><a href="http://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+<li><a href="http://www.apache.org/security/">Security</a></li>
+</ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">SPARQL S-Expressions (or &quot;SPARQL Syntax Expressions&quot;)</h1>
+    <p>A way to write down data structures in an RDF-centric syntax.</p>
+<p>But not an idea for another RDF serialization format.</p>
+<h2 id="contents">Contents</h2>
+<ul>
+<li><a href="#need">Need</a></li>
+<li><a href="#design-intent">Design Intent</a></li>
+<li><a href="#other-approaches">Other Approaches</a><ul>
+<li><a href="#rdf">RDF</a></li>
+<li><a href="#lisp">Lisp</a></li>
+<li><a href="#xml">XML</a></li>
+<li><a href="#json">JSON</a></li>
+</ul>
+</li>
+<li><a href="#design">Design</a><ul>
+<li><a href="#tokens">Tokens</a></li>
+<li><a href="#sse-comments">SSE Comments</a></li>
+<li><a href="#sse-escapes">SSE Escapes</a></li>
+<li><a href="#structures">Structures</a></li>
+</ul>
+</li>
+<li><a href="#tagged-structures">Tagged Structures</a><ul>
+<li><a href="#iri-resolution">IRI resolution</a><ul>
+<li><a href="#base">base</a></li>
+<li><a href="#prefix">prefix</a></li>
+<li><a href="#nesting">Nesting</a></li>
+</ul>
+</li>
+<li><a href="#links">Links</a></li>
+</ul>
+</li>
+<li><a href="#building-java-objects">Building Java Objects</a><ul>
+<li><a href="#sse-factory">SSE Factory</a></li>
+</ul>
+</li>
+<li><a href="#mapping-to-rdf">Mapping to RDF</a></li>
+<li><a href="#sse-files">SSE Files</a></li>
+<li><a href="#longer-examples">Longer Examples</a><ul>
+<li><a href="#query-1">Query 1</a></li>
+<li><a href="#complete-sparql-execution">Complete SPARQL Execution</a></li>
+</ul>
+</li>
+<li><a href="#sse-grammar">SSE Grammar</a></li>
+</ul>
+<h2 id="need">Need</h2>
+<p>The <a href="http://www.w3.org/TR/sparql11-query/#sparqlAlgebra">SPARQL algebra</a>
+defines the semantics of a SPARQL graph pattern. Every SPARQL query
+string (the syntax) is mapped to a SPARQL algebra expression.</p>
+<p>It is convenient to be able to print out such algebra expressions for
+discussion between people and for debugging. Further, if algebra
+expressions can be read back in as well, testing of specific parts of an
+implementation is also easier.</p>
+<p>This is an example of a general problem : how to express data structures
+where the basic elements of RDF are based on RDF nodes.</p>
+<p>RDF itself is often the most appropriate way to do this, but sometimes
+it isn't so convenient. An algebra expression is a tree, and order
+matters.</p>
+<p>When expressing a data structure, there are certain key structure that
+need to be expressible: arrays and maps, then sets and bags, but
+expression of a data structure is not the same as the high-level
+semantics of the data structure.</p>
+<p>A stack can be expressed as a list. And because we want to express the
+structure, and not express the operations on the structures, data
+structures that operational meaning don't enter the picture. There are
+no operations, no <em>push</em>, <em>pop</em> or <em>peek</em>.</p>
+<p>Note that this is to <em>express</em> a data structure, not <em>encode</em> or
+<em>repressent</em> it. By <em>express</em> we mean communicate it, between people or
+between cooperating machines. The structures are not completely
+self-representing. But we do discuss a way to express in RDF that does
+give a self-describing nature through the use of tagged structures.</p>
+<h2 id="design-intent">Design Intent</h2>
+<ul>
+<li>Concise (=> for people to write conveniently) format for data
+    structures</li>
+<li>RDF-centric</li>
+</ul>
+<p>Non-goals:</p>
+<ul>
+<li>to directly represent any data structure.</li>
+<li>to be another RDF syntax.</li>
+</ul>
+<p>So desirable features are:</p>
+<ul>
+<li>Concise syntax for RDF terms</li>
+<li>Datastructures</li>
+</ul>
+<h2 id="other-approaches">Other Approaches</h2>
+<h3 id="rdf">RDF</h3>
+<p>RDF is "map-centric" but not all data structures are conveniently
+expressible in maps. RDF has lists, and these lists have convenient
+syntax in Turtle or N3.</p>
+<p>If your data structure fits the RDF paradigm, then RDF is a better
+choice that SSE. <a href="#mapping-to-rdf">Below</a> is a possible mapping from SSE
+to RDF as Turtle.</p>
+<h3 id="lisp">Lisp</h3>
+<p>Lacks convenient syntax for the RDF terms themselves.</p>
+<p>SSE syntax is almost valid
+<a href="http://www.schemers.org" title="http://www.schemers.org">Scheme</a>; literal
+language tags and datatypes get split a separate list symbols but the
+information is recoverable. Scheme doesn't use <code>[]</code> lists or
+single-quoted strings.</p>
+<h3 id="xml">XML</h3>
+<p>Too verbose.</p>
+<h3 id="json">JSON</h3>
+<p><a href="http://json.org/" title="http://json.org/">JSON</a> provides values (strings,
+numbers, booleans, null), arrays and object (which are maps). <a href="http://www.w3.org/TR/rdf-sparql-json-res/" title="http://www.w3.org/TR/rdf-sparql-json-res/">SPARQL
+Query Results in
+JSON</a>
+shows how JSON might be used. It describes how RDF terms are encoded
+into further substructures. Alternatively, we could put encoded terms in
+strings like "&lt;http://w3.org/>" and have a parser-within-a-parser. But
+both these approaches do not make the writing of RDF terms as easy as it
+could be.</p>
+<h2 id="design">Design</h2>
+<p><a href="http://en.wikipedia.org/wiki/S-expression" title="http://en.wikipedia.org/wiki/S-expression">S-expressions</a>
+using RDF terms.</p>
+<p>The command <code>arq.qparse --print=op --file queryFile</code> will print the
+SPARQL algebra for the query in SSE format.</p>
+<h3 id="tokens">Tokens</h3>
+<p>Tokens are the atomic elements of the syntax.</p>
+<table>
+<thead>
+<tr>
+<th>Example</th>
+<th>Explaination</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>"abc"</code></td>
+<td>string</td>
+</tr>
+<tr>
+<td><code>"abc"@en</code></td>
+<td>string with language tag.</td>
+</tr>
+<tr>
+<td><code>123</code></td>
+<td>number, specifically an xsd;integer.</td>
+</tr>
+<tr>
+<td><code>&lt;http://example.org/&gt;</code></td>
+<td>IRI (or URI).</td>
+</tr>
+<tr>
+<td><code>_:abc</code></td>
+<td>blank node.</td>
+</tr>
+<tr>
+<td><code>?x</code></td>
+<td>variable</td>
+</tr>
+<tr>
+<td><code>?</code></td>
+<td>variable</td>
+</tr>
+<tr>
+<td><code>ex:thing</code></td>
+<td>prefixed name</td>
+</tr>
+<tr>
+<td><code>ex:123</code></td>
+<td>prefixed name</td>
+</tr>
+<tr>
+<td><code>SELECT</code></td>
+<td>symbol</td>
+</tr>
+<tr>
+<td><code>+</code></td>
+<td>symbol</td>
+</tr>
+<tr>
+<td><code>@xyz</code></td>
+<td>symbol</td>
+</tr>
+</tbody>
+</table>
+<p>For <code>?</code> (no name), a unique, internal name for a fresh variable will be
+allocated; every use of <code>?</code> is a different variable.</p>
+<p><code>??x</code> creates a non-distinguished variable. <code>??</code> creates a fresh
+non-distinguished variable.</p>
+<p><code>_:</code> creates a fresh blank node.</p>
+<p><code>@xyz</code> - this is a symbol because a language tags only follow a lexical
+form.</p>
+<p>Almost any sequence of characters which is not an RDF term or variable
+is a symbol that can be given special meaning by processing software.</p>
+<h3 id="sse-comments">SSE Comments</h3>
+<p><code>#</code> or <code>;</code> introduce comments, which run to the end of line, including
+the end-of-line characters.</p>
+<h3 id="sse-escapes">SSE Escapes</h3>
+<p><code>\u</code> and <code>\U</code> escape sequences for arbitrary Unicode codepoints. These
+apply to the input character stream before parsing. They don't, for
+example, permit a space in a symbol.</p>
+<p>Strings provide <code>\n</code>, <code>\t</code>, <code>\r</code>, <code>\b</code>, <code>\b</code>, <code>\f</code>, <code>\"</code>, <code>\'</code> and <code>\\</code>
+escape sequences as in SPARQL.</p>
+<h3 id="structures">Structures</h3>
+<p><code>(?x ns:p "abc")</code> - list of 3 elements: a variable, a prefixed name and
+a string</p>
+<div class="codehilite"><pre><span class="p">(</span><span class="n">bgp</span> 
+  <span class="p">[</span><span class="o">?</span><span class="n">x</span> <span class="n">ns</span><span class="o">:</span><span class="n">p</span> <span class="s">&quot;abc&quot;</span><span class="p">])</span>
+</pre></div>
+
+
+<p>A list of 2 elements: a symbol (<code>bgp</code>) and a list of 3 elements. Both
+<code>()</code> and <code>[]</code> delimit lists; they must match but otherwise it's a free
+choice. Convention is that compact lists use <code>[]</code>; large lists use <code>()</code>.</p>
+<h2 id="tagged-structures">Tagged Structures</h2>
+<p>The basic syntax defines tokens and lists. Higher level processing
+happens on this basic syntax and can be extended by interpreting the
+structure.</p>
+<p>Layers on top of the basic abstract syntax produce specialised data
+structures. This can be a transformation into a new SSE structure or the
+production of programming language objects.</p>
+<p>This is driven by tagged (data) objects in an SSE expression. The tag is
+a symbol and the elements of the data object are the rest of the list.</p>
+<div class="codehilite"><pre><span class="p">(</span><span class="o">+</span> <span class="mi">1</span> <span class="mi">2</span><span class="p">)</span>
+</pre></div>
+
+
+<p>is tagged with symbol <code>+</code></p>
+<div class="codehilite"><pre><span class="p">(</span><span class="n">triple</span> <span class="o">?</span><span class="n">s</span> <span class="o">?</span><span class="n">p</span> <span class="s">&quot;text&quot;</span><span class="err">@</span><span class="n">en</span><span class="p">)</span>
+</pre></div>
+
+
+<p>is tagged with symbol <code>triple</code></p>
+<h3 id="iri-resolution">IRI resolution</h3>
+<p>One such layer is IRI and prefix name resolution, using tags <code>base</code> and
+<code>prefix</code>.</p>
+<p>Basic syntax includes unresolved IRIs, (example <code>&lt;abc&gt;</code>) and prefixed
+names (example <code>foaf:name</code>). These are turned into absolute IRIs and the
+<code>base</code> and <code>prefix</code> tagged object wrappers are removed.</p>
+<p>This is sufficiently important that the SSE library handles this in an
+optimized fashion where the IRI processing directly rewrites the
+streamed output of the parser.</p>
+<h4 id="base"><code>base</code></h4>
+<div class="codehilite"><pre><span class="p">(</span><span class="nx">base</span> <span class="o">&lt;</span><span class="nx">http</span><span class="p">:</span><span class="c1">//example/&gt;</span>
+   <span class="p">(</span><span class="nx">triple</span> <span class="o">&lt;</span><span class="nx">xyz</span><span class="o">&gt;</span> <span class="o">?</span><span class="nx">p</span> <span class="s2">&quot;lex&quot;</span><span class="p">^^</span><span class="o">&lt;</span><span class="nx">thing</span><span class="o">&gt;</span><span class="p">))</span>
+</pre></div>
+
+
+<p>becomes</p>
+<div class="codehilite"><pre><span class="p">(</span><span class="n">triple</span> <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//example/xyz&gt; ?p &quot;lex&quot;^^&lt;http://example/thing&gt;)</span>
+</pre></div>
+
+
+<h4 id="prefix"><code>prefix</code></h4>
+<div class="codehilite"><pre><span class="p">(</span><span class="n">prefix</span> <span class="p">((</span><span class="o">:</span> <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//example/&gt;)</span>
+          <span class="p">(</span><span class="n">ns</span><span class="o">:</span> <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//example/ns#&gt;))</span>
+     <span class="p">(</span><span class="n">triple</span> <span class="o">:</span><span class="n">x</span> <span class="n">ns</span><span class="o">:</span><span class="n">p</span> <span class="s">&quot;lex&quot;</span><span class="o">^^</span><span class="n">ns</span><span class="o">:</span><span class="n">type</span><span class="p">))</span>
+</pre></div>
+
+
+<p>becomes</p>
+<div class="codehilite"><pre> <span class="p">(</span><span class="n">triple</span> <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//example/x&gt; &lt;http://example/ns#p&gt; &quot;lex&quot;^^&lt;http://example/ns#type&gt;)</span>
+</pre></div>
+
+
+<h4 id="nesting">Nesting</h4>
+<p>The tagged structures can be combined and nested. The base or prefixes
+declared only apply to the body of the data object.</p>
+<div class="codehilite"><pre> <span class="p">(</span><span class="nb">prefix</span> <span class="p">((:</span> <span class="o">&lt;</span><span class="nx">http</span><span class="p">:</span><span class="c1">//jena.hpl.hp.com/2007/&gt;)</span>
+             <span class="p">(</span><span class="nx">foaf</span><span class="p">:</span>  <span class="o">&lt;</span><span class="nx">http</span><span class="p">:</span><span class="c1">//xmlns.com/foaf/0.1/&gt;))</span>
+       <span class="p">(</span><span class="nx">triple</span> <span class="p">(</span><span class="nx">base</span> <span class="o">&lt;</span><span class="nx">http</span><span class="p">:</span><span class="c1">//jena.hpl.hp.com/&gt; &lt;afs&gt; foaf:name &quot;Andy&quot;)))</span>
+</pre></div>
+
+
+<p>Combined with the triple builder, this will produce a triple:</p>
+<div class="codehilite"><pre> <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//jena.hpl.hp.com/afs&gt; &lt;http://xmlns.com/foaf/0.1/name&gt; &quot;Andy&quot; .</span>
+</pre></div>
+
+
+<h3 id="links">Links</h3>
+<p><em>Not implemented</em></p>
+<p>Not all data structures can be conveniently expressed as nested lists.
+Sub-element sharing matters. A structure with shared elements can't be
+serialized as a strict tree and some form of reference is needed.</p>
+<p>Name a place in the structure: <code>(name@ symbol X)</code></p>
+<p>Link to it: <code>(@link symbol)</code></p>
+<p>The link layer will produce an SSE structure without these tags, having
+replaced all <code>name@</code> and <code>@link</code> with the shared structure <em>X</em>.</p>
+<p><em><code>@</code> is a convention for referencing.</em></p>
+<h2 id="building-java-objects">Building Java Objects</h2>
+<p>Builders are code classes that process the structure into Java objects.
+Writing builders is straight-forward because low-level parsing details
+have been taken care of in the basic syntax. A typical builder is a
+recursive-decent parser over the abstract syntax tree, coding one is
+primarily walking the structure, with a tagged object to Java instance
+mapping being applied.</p>
+<p>Some tagged objects with builders are:</p>
+<ul>
+<li><code>(triple S P O)</code> where <em>X</em> is an RDF node (RDF term or variable).</li>
+<li><code>(quad G S P O)</code></li>
+<li><code>(graph triple*)</code></li>
+<li><code>(graph@ URL)</code> — Read a URL.</li>
+</ul>
+<p><em>@@ Need to write the abstract syntax for each tagged object</em></p>
+<p>Many builders have convenience syntax. Triples can be abbreviated by
+omitting the tag <code>triple</code> because usually the fact it is a triple is
+clear.</p>
+<div class="codehilite"><pre><span class="p">(</span><span class="n">bgp</span> <span class="p">(</span><span class="n">triple</span> <span class="o">?</span><span class="n">s</span> <span class="o">?</span><span class="n">p</span> <span class="o">?</span><span class="n">o</span><span class="p">))</span> 
+<span class="p">(</span><span class="n">bgp</span> <span class="p">(</span><span class="o">?</span><span class="n">s</span> <span class="o">?</span><span class="n">p</span> <span class="o">?</span><span class="n">o</span><span class="p">))</span>
+</pre></div>
+
+
+<p>Quads have a similar abbreviation as 4-lists. In addition, <code>_</code> is a quad
+on the default graph.</p>
+<p>Elements for executing SPARQL:</p>
+<ul>
+<li>SPARQL algebra operators and basic graph patterns</li>
+<li>Filter expressions (in prefix notation <code>(+ 1 2)</code>)</li>
+<li>Query solutions (Bindings) and tables.</li>
+</ul>
+<h3 id="sse-factory">SSE Factory</h3>
+<p>The class <code>SSE</code> in package <code>com.hp.hpl.jena.sparql.sse</code> provides many
+convenience functions to call builders for RDF and SPARQL structures.</p>
+<div class="codehilite"><pre><span class="n">Node</span> <span class="n">n</span> <span class="o">=</span> <span class="n">SSE</span><span class="p">.</span><span class="n">parseNode</span><span class="p">(</span><span class="s">&quot;&lt;http://example/node&gt;&quot;</span><span class="p">)</span> <span class="p">;</span>
+<span class="n">Triple</span> <span class="n">t</span> <span class="o">=</span> <span class="n">SSE</span><span class="p">.</span><span class="n">parseTriple</span><span class="p">(</span><span class="s">&quot;(?s ?p ?o)&quot;</span><span class="p">)</span> <span class="p">;</span>
+<span class="n">Op</span> <span class="n">op</span> <span class="o">=</span> <span class="n">SSE</span><span class="p">.</span><span class="n">parseOp</span><span class="p">(</span><span class="s">&quot;(filter (&gt; ?v 123) (bgp (?s ?p ?v)))&quot;</span><span class="p">)</span> <span class="p">;</span>
+</pre></div>
+
+
+<p>Most of the operations have forms that allow a <code>PrefixMapping</code> to be
+specified - this is wrapped around the parser run so prefixed names can
+be used without explicit prefix declarations.</p>
+<p>There is a default prefix mapping with a few common prefixes: <code>rdf</code>,
+<code>rdfs</code>, <code>owl</code>, <code>xsd</code> and <code>fn</code> (the XPath/XQuery functions and operators
+namespace).</p>
+<h2 id="mapping-to-rdf">Mapping to RDF</h2>
+<p>The syntax of SSE is very close to Turtle lists because the syntax for
+IRIs and literals are the same.: to produce Turtle (outline):</p>
+<ol>
+<li>Replace symbols by IRIs: prepend a common URI and %-encode any
+    characters necesary.</li>
+<li>Replace variables by IRIs: prepend a common URI.</li>
+<li>Move prefixes to be <code>@prefix</code> directives.</li>
+<li>Put a dot at the end of the file.</li>
+</ol>
+<p>The result is an RDF model using only the properties <code>rdf:first</code> and
+<code>rdf:rest</code> so it records the data structure, but not what hthe data
+structure represents.</p>
+<h2 id="sse-files">SSE Files</h2>
+<p>The file extension is <code>.sse</code> and all files are UTF-8.</p>
+<p>A quick and pragmatic Emacs mode is given by:</p>
+<div class="codehilite"><pre><span class="p">;;</span> <span class="o">====</span> <span class="nx">SSE</span> <span class="nx">mode</span>
+<span class="p">(</span><span class="nx">define</span><span class="o">-</span><span class="nx">derived</span><span class="o">-</span><span class="nx">mode</span> <span class="nx">sse</span><span class="o">-</span><span class="nx">mode</span> <span class="nx">lisp</span><span class="o">-</span><span class="nx">mode</span> <span class="s2">&quot;SSE&quot;</span> <span class="nx">nil</span>
+   <span class="p">(</span><span class="nx">make</span><span class="o">-</span><span class="nx">local</span><span class="o">-</span><span class="nx">variable</span> <span class="s1">&#39;lisp-indent-function)</span>
+<span class="s1">   (setq lisp-indent-function &#39;</span><span class="nx">sse</span><span class="o">-</span><span class="nx">indent</span><span class="o">-</span><span class="kd">function</span><span class="p">)</span>
+   <span class="p">)</span>
+
+<span class="p">;;</span> <span class="nx">Everything</span> <span class="k">in</span> <span class="nx">SSE</span> <span class="nx">is</span> <span class="s2">&quot;def&quot;</span> <span class="nx">like</span>
+<span class="p">(</span><span class="nx">defun</span> <span class="nx">sse</span><span class="o">-</span><span class="nx">indent</span><span class="o">-</span><span class="kd">function</span> <span class="p">(</span><span class="nx">indent</span><span class="o">-</span><span class="nx">point</span> <span class="nx">state</span><span class="p">)</span>
+  <span class="p">(</span><span class="nx">lisp</span><span class="o">-</span><span class="nx">indent</span><span class="o">-</span><span class="nx">defform</span> <span class="nx">state</span> <span class="nx">indent</span><span class="o">-</span><span class="nx">point</span><span class="p">))</span>
+
+<span class="p">(</span><span class="nx">setq</span> <span class="nx">auto</span><span class="o">-</span><span class="nx">mode</span><span class="o">-</span><span class="nx">alist</span>
+       <span class="p">(</span><span class="nx">cons</span> <span class="err">&#39;</span><span class="p">(</span><span class="s2">&quot;\\.sse&quot;</span> <span class="p">.</span> <span class="nx">sse</span><span class="o">-</span><span class="nx">mode</span><span class="p">)</span> <span class="nx">auto</span><span class="o">-</span><span class="nx">mode</span><span class="o">-</span><span class="nx">alist</span><span class="p">))</span>
+</pre></div>
+
+
+<h2 id="longer-examples">Longer Examples</h2>
+<h3 id="query-1">Query 1</h3>
+<div class="codehilite"><pre><span class="n">PREFIX</span> <span class="n">foaf</span><span class="o">:</span>       <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//xmlns.com/foaf/0.1/&gt;</span>
+<span class="n">SELECT</span> <span class="n">DISTINCT</span> <span class="o">?</span><span class="n">name</span> <span class="o">?</span><span class="n">nick</span>
+<span class="p">{</span>
+    <span class="o">?</span><span class="n">x</span> <span class="n">foaf</span><span class="o">:</span><span class="n">mbox</span> <span class="o">&lt;</span><span class="n">mailt</span><span class="o">:</span><span class="n">person</span><span class="err">@</span><span class="n">server</span><span class="o">&gt;</span> <span class="p">.</span>
+    <span class="o">?</span><span class="n">x</span> <span class="n">foaf</span><span class="o">:</span><span class="n">name</span> <span class="o">?</span><span class="n">name</span> 
+    <span class="n">OPTIONAL</span> <span class="p">{</span> <span class="o">?</span><span class="n">x</span> <span class="n">foaf</span><span class="o">:</span><span class="n">nick</span> <span class="o">?</span><span class="n">nick</span> <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="p">(</span><span class="n">prefix</span> <span class="p">((</span><span class="n">foaf</span><span class="o">:</span> <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//xmlns.com/foaf/0.1/&gt;))</span>
+   <span class="p">(</span><span class="n">distinct</span>
+     <span class="p">(</span><span class="n">project</span> <span class="p">(</span><span class="o">?</span><span class="n">name</span> <span class="o">?</span><span class="n">nick</span><span class="p">)</span>
+       <span class="p">(</span><span class="n">leftjoin</span>
+         <span class="p">(</span><span class="n">BGP</span>
+           <span class="p">[</span><span class="n">triple</span> <span class="o">?</span><span class="n">x</span> <span class="n">foaf</span><span class="o">:</span><span class="n">mbox</span> <span class="o">&lt;</span><span class="n">mailto</span><span class="o">:</span><span class="n">person</span><span class="err">@</span><span class="n">server</span><span class="o">&gt;</span><span class="p">]</span>
+           <span class="p">[</span><span class="n">triple</span> <span class="o">?</span><span class="n">x</span> <span class="n">foaf</span><span class="o">:</span><span class="n">name</span> <span class="o">?</span><span class="n">name</span><span class="p">]</span>
+         <span class="p">)</span>
+         <span class="p">(</span><span class="n">BGP</span> <span class="p">[</span><span class="n">triple</span> <span class="o">?</span><span class="n">x</span> <span class="n">foaf</span><span class="o">:</span><span class="n">nick</span> <span class="o">?</span><span class="n">nick</span><span class="p">])</span>
+       <span class="p">))))</span>
+</pre></div>
+
+
+<h3 id="complete-sparql-execution">Complete SPARQL Execution</h3>
+<p>The following is a complete query execution, data and query. There is an
+inline dataset and a query of</p>
+<div class="codehilite"><pre> <span class="n">PREFIX</span> <span class="o">:</span> <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//example/&gt;</span>
+ <span class="n">SELECT</span> <span class="o">*</span> 
+ <span class="p">{</span>
+   <span class="n">GRAPH</span> <span class="o">:</span><span class="n">g1</span> <span class="p">{</span> <span class="o">?</span><span class="n">x</span> <span class="o">?</span><span class="n">p</span> <span class="o">?</span><span class="n">v</span> <span class="p">}</span>
+ <span class="p">}</span>
+</pre></div>
+
+
+<p>The tag <code>graph</code> is used twice, with different meanings. First, for an
+RDF graph, and second in <code>GRAPH</code> SPARQL pattern. In a data structrure,
+context sorts out the different usages.</p>
+<div class="codehilite"><pre><span class="p">(</span><span class="n">prefix</span> <span class="p">((</span><span class="o">:</span> <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//example/&gt;))</span>
+   <span class="p">(</span><span class="n">exec</span>
+     <span class="p">(</span><span class="n">dataset</span>
+       <span class="p">(</span><span class="k">default</span> <span class="p">(</span><span class="n">graph</span>
+          <span class="p">(</span><span class="o">:</span><span class="n">x</span> <span class="o">:</span><span class="n">p</span> <span class="mi">1</span><span class="p">)</span>
+          <span class="p">(</span><span class="o">:</span><span class="n">x</span> <span class="o">:</span><span class="n">p</span> <span class="mi">2</span><span class="p">)))</span>
+       <span class="p">(</span><span class="n">namedgraph</span> <span class="o">:</span><span class="n">g1</span>
+     <span class="p">(</span><span class="n">graph</span>
+       <span class="p">(</span><span class="o">:</span><span class="n">x</span> <span class="o">:</span><span class="n">gp</span> <span class="mi">1</span><span class="p">)</span>
+       <span class="p">(</span><span class="o">:</span><span class="n">x</span> <span class="o">:</span><span class="n">gp</span> <span class="mi">2</span><span class="p">)))</span>
+       <span class="p">(</span><span class="n">namedgraph</span> <span class="o">:</span><span class="n">g2</span>
+     <span class="p">(</span><span class="n">graph</span>
+       <span class="p">(</span><span class="o">:</span><span class="n">y</span> <span class="o">:</span><span class="n">gp</span> <span class="mi">1</span><span class="p">)</span>
+       <span class="p">(</span><span class="o">:</span><span class="n">y</span> <span class="o">:</span><span class="n">gp</span> <span class="mi">2</span><span class="p">)))</span>
+       <span class="p">)</span>
+
+     <span class="p">(</span><span class="n">graph</span> <span class="o">:</span><span class="n">g1</span>
+       <span class="p">(</span><span class="n">bgp</span> <span class="p">(</span><span class="o">?</span><span class="n">x</span> <span class="o">?</span><span class="n">p</span> <span class="o">?</span><span class="n">v</span><span class="p">)))</span>
+     <span class="p">))</span>
+</pre></div>
+
+
+<h2 id="sse-grammar">SSE Grammar</h2>
+<p><em>@@ insert grammar here</em></p>
+  </div>
+
+  <div id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2011&ndash;2013 The Apache Software Foundation, Licensed under
+        the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br />
+        Apache Jena, Jena, the Apache Jena project logo,
+        Apache and the Apache feather logos are trademarks of The Apache Software Foundation.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>

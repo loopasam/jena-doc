@@ -1,0 +1,283 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE- 2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+  <link href="/css/jena.css" rel="stylesheet" type="text/css">
+
+  <title>Apache Jena - Reification HowTo</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+  <script src="/js/jena-navigation.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <div id="header">
+    <div id="logoblock">
+    <img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
+    </div>
+
+    <div id="titleblock">
+      <h1 class="title">Apache Jena</h1>
+      <div id="topmenu" class="tabbar round-10">
+        <ul>
+        <li class="round-top-8"><a class="round-top-8" href="/index.html" id="home_menu">Home</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/help_and_support/index.html">Support</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/getting_started/index.html">Getting started</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/tutorials/index.html">Tutorials</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/documentation/index.html">Documentation</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="navigation" class="clear">
+  <h1 id="quick-links">Quick links</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/download/index.html">Downloads</a></li>
+<li><a href="/help_and_support/index.html">Help and support</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Report a bug</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/getting_involved/index.html">Getting involved</a></li>
+<li><a href="/documentation/">Documentation</a></li>
+</ul>
+<h1 id="about-jena">About Jena</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/about_jena/about.html">About Jena</a></li>
+<li><a href="/about_jena/architecture.html">Architecture</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/about_jena/team.html">Project team</a></li>
+<li><a href="/about_jena/contributions.html">Related projects</a></li>
+</ul>
+<h1 id="download">Download</h1>
+<ul>
+<li><a href="/download/index.html">Downloading Jena</a></li>
+<li><a href="/download/maven.html">Using Maven</a></li>
+<li><a href="/download/osgi.html">Using OSGi</a></li>
+</ul>
+<h1 id="help-and-support">Help and support</h1>
+<ul>
+<li><a href="/help_and_support/index.html">Getting help</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Bugs and suggestions</a></li>
+</ul>
+<h1 id="getting-started">Getting Started</h1>
+<ul>
+<li><a href="/getting_started/index.html">A first Jena project</a></li>
+<li><a href="/getting_started/rdf_api.html">RDF API overview</a></li>
+<li><a href="/getting_started/sparql.html">Querying RDF with SPARQL</a></li>
+<li><a href="/getting_started/fuseki.html">Serving RDF over HTTP</a></li>
+<li><a href="/getting_started/tell_me_how.html">Tell me how to ...</a></li>
+</ul>
+<h1 id="tutorials">Tutorials</h1>
+<ul>
+<li><a href="/tutorials/index.html">Tutorials index</a></li>
+<li><a href="/tutorials/rdf_api.html">RDF tutorial</a></li>
+<li><a href="/tutorials/sparql.html">SPARQL queries</a></li>
+<li><a href="/tutorials/using_jena_with_eclipse.html">Using Jena with Eclipse</a></li>
+</ul>
+<h1 id="documentation">Documentation</h1>
+<ul>
+<li><a href="/documentation/index.html">Overview</a></li>
+<li><a href="/documentation/javadoc/">Javadoc</a></li>
+<li><a href="/documentation/rdf/index.html">RDF</a></li>
+<li><a href="/documentation/io/index.html">I/O</a></li>
+<li><a href="/documentation/query/index.html">SPARQL (ARQ)</a><ul>
+<li><a href="/documentation/query/app_api.html">Application API</a></li>
+<li><a href="/documentation/query/cmds.html">Command line utilities</a></li>
+</ul>
+</li>
+<li><a href="/documentation/query/text-query.html">Text Search</a></li>
+<li><a href="/documentation/tdb/index.html">TDB</a><ul>
+<li><a href="/documentation/tdb/tdb_transactions.html">API for Transactions</a></li>
+<li><a href="/documentation/tdb/assembler.html">Dataset Assembler</a></li>
+</ul>
+</li>
+<li><a href="/documentation/serving_data/index.html">Fuseki: Serving Data</a></li>
+<li><a href="/documentation/ontology/index.html">Ontology</a></li>
+<li><a href="/documentation/inference/index.html">Inference</a></li>
+<li><a href="/documentation/assembler/index.html">Assembler</a><ul>
+<li><a href="/documentation/assembler/assembler-howto.html">Assembler how-to</a></li>
+<li><a href="/documentation/assembler/inside-assemblers.html">Inside assemblers</a></li>
+</ul>
+</li>
+<li><a href="/documentation/sdb/index.html">SDB</a></li>
+<li><a href="/documentation/notes/index.html">Notes</a><ul>
+<li><a href="/documentation/notes/concurrency-howto.html">Concurrency how-to</a></li>
+<li><a href="/documentation/notes/event-handler-howto.html">Event handler how-to</a></li>
+<li><a href="/documentation/notes/file-manager.html">File manager how-to</a></li>
+<li><a href="/documentation/notes/model-factory.html">Model factory how-to</a></li>
+<li><a href="/documentation/notes/rdf-frames.html">RDF frames</a></li>
+<li><a href="/documentation/notes/reification.html">Reification how-to</a></li>
+<li><a href="/documentation/notes/typed-literals.html">Typed literals how-to</a></li>
+<li><a href="/documentation/notes/iri.html">Support for IRI's</a></li>
+<li><a href="/documentation/notes/sse.html">SSE</a></li>
+</ul>
+</li>
+<li><a href="/documentation/tools/index.html">Tools</a><ul>
+<li><a href="/documentation/tools/schemagen.html">schemagen</a></li>
+<li><a href="/documentation/tools/eyeball-getting-started.html">eyeball</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="getting-involved">Getting Involved</h1>
+<ul>
+<li><a href="/getting_involved/index.html">Contributing to Jena</a><ul>
+<li><a href="/getting_involved/reviewing_contributions.html">Reviewing Contributions</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="asf-links">ASF links</h1>
+<ul>
+<li><a href="http://www.apache.org">Apache Software Foundation</a></li>
+<li><a href="http://www.apache.org/licenses/LICENSE-2.0">License</a></li>
+<li><a href="http://www.apache.org/foundation/thanks.html">Thanks</a></li>
+<li><a href="http://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+<li><a href="http://www.apache.org/security/">Security</a></li>
+</ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">Reification HowTo</h1>
+    <h2 id="introduction">Introduction</h2>
+<p>This document describes the Jena APi support for reification.
+it.  As always, consult the Javadoc for interface
+details.</p>
+<p>Reification in RDF and Jena is the ability to treat a <code>Statement</code>
+as a <code>Resource</code>, and hence to make assertions <em>about</em> that
+statement. A statement may be reified as many different resources,
+allowing different manifestations ("statings") of that statement to
+be treated differently if required.</p>
+<p>RDF represents a reified statement as four statements with
+particular RDF properties and objects: the statement <code>(S, P, O)</code>,
+reified by resource <code>R</code>, is represented by:</p>
+<ul>
+<li><code>R rdf:type rdf:Statement</code></li>
+<li><code>R rdf:subject S</code></li>
+<li><code>R rdf:predicate P</code></li>
+<li><code>R rdf:object O</code></li>
+</ul>
+<p>We shall call these four such statements a <em>reification quad</em> and
+the components <em>quadlets</em>. Users of reification in Jena may, by
+default, simply manipulate reified statements as these quads.
+However, just as for <code>Bag</code>, <code>Seq</code>, <code>Alt</code> and <code>RDF lists</code> in
+ordinary models, or ontology classes and individuals in
+<code>OntModel</code>s, Jena has additional support for manipulating reified
+statements. </p>
+<p>The interface <code>ReifiedStatement</code> is used to represent a reified
+statement as a Jena <code>Resource</code> that has direct access to the
+statement it reifies. The method</p>
+<ul>
+<li><code>ReifiedStatement::getStatement()</code></li>
+</ul>
+<p>returns the <code>Statement</code> that the resource is reifying. All the
+other <code>Resource</code> methods, of course, may be applied to a
+<code>ReifiedStatement</code>.</p>
+<h2 id="converting-resources-to-reified-statements">Converting resources to reified statements</h2>
+<p>If a resource <code>R</code> is associated with a reified statement, but might
+not itself be a <code>ReifiedStatement</code> object, the conversion method
+<code>RDFNode::as(Class)</code> can be used to find (or create) a
+<code>ReifiedStatement</code>:
+-   <code>(ReifiedStatement) R.as(ReifiedStatement.class)</code></p>
+<p>For example, a model that has been read in from an RDF/XML file may
+have reified statements: knowing the name of the resource allows a
+ReifiedStatement object to be constructed without knowing the
+statement itself.</p>
+<p>If there is no such associated reified statement, a
+<code>CannotReifyException</code> is thrown. To find out in advance if the
+conversion is possible, use the predicate
+<code>RDFNode::canAs(ReifiedStatement.class)</code>. (Jena only counts as "an
+associated reified statement" a resource with exactly one
+<code>rdf:subject</code>, <code>rdf:predicate</code>, and <code>rdf:object</code> which has
+<code>rdf:type rdf:Statement</code>. It can of course have <em>other</em>
+properties.)</p>
+<h2 id="testing-statements-for-reification">Testing statements for reification</h2>
+<p>You may wish to know if some <code>Statement</code> is reified. The methods
+<code>Statement::isReified()</code> and <code>Model::isReified(Statement)</code> return
+true if (and only if) the statement has been reified in the model.
+Note that the <code>Statement</code> method tests to see if the statement is
+reified in its own model, and the model method tests to see if the
+<code>Statement</code> is reified in <em>that</em> model; there is no test to see if
+a <code>Statement</code> is reified in any other models.</p>
+<h2 id="listing-reified-statements">Listing reified statements</h2>
+<p>Just as <code>listStatements</code> is used to find the statements present in
+some model, there are methods for finding the reified statements of
+a model. Each of them returns a <code>RSIterator</code> object, which is an
+iterator each of who's elements are <code>ReifiedStatement</code>s and for
+which the convenience method <code>nextRS()</code> will deliver a
+suitably-cast reified statement.
+-   <code>Statement::listReifiedStatements()</code> - all the reifications of
+    this statement in its model.
+-   <code>Model::listReifiedStatements()</code> - all the reified statements
+    in this model.
+-   <code>Model::listReifiedStatements(Statement s)</code> - all the reified
+    statements reifiying <code>s</code> in this model.</p>
+<h2 id="creating-reified-statements-directly">Creating reified statements directly</h2>
+<p>You do not have to create reified statements by asserting the
+quad into a <code>Model</code>; they can be created directly from their
+<code>Statement</code>s using one of the methods:
+-   <code>Statement::createReifiedStatement()</code>
+-   <code>Statement::createReifiedStatement(String)</code>
+-   <code>Model::createReifiedStatement(Statement)</code>
+-   <code>Model::createReifiedStatement(String,Statement)</code></p>
+<p>Each of these returns a <code>ReifiedStatement</code> who's <code>getStatement()</code>
+method delivers the original statement (actually, a <code>.equals()</code>
+statement; it may not be the identical statement object). If the creation
+method passed in a (non-null) <code>String</code>, the <code>ReifiedStatement</code> is a
+named resource and that string is its URI. Otherwise it is a
+newly-minted bnode. The methods on <code>Statement</code> create a reified
+statement in that statements model; those on <code>Model</code> create a
+reified statement in that model.</p>
+<p>It is not permitted for two different (non-equals) statements to be
+reified onto the same resource. An attempt to do so will generate
+an <code>AlreadyReifiedException</code>.</p>
+<p>The additional method <code>Model::getAnyReifiedStatement(Statement)</code>
+returns some reification of the supplied <code>Statement</code>; an existing
+one if possible, otherwise a fresh one (reified by a fresh bnode).</p>
+<h2 id="removing-reified-statements">Removing reified statements</h2>
+<p>There are two methods which remove all the reifications of a
+<code>Statement</code> in some <code>Model</code>:
+-   <code>Statement::removeReification()</code>
+-   <code>Model::removeAllReifications(Statement)</code></p>
+<p>All the reified statements in the model that reify the given
+statement are removed, whatever their reifying resource. To remove
+a particular reified statement only, use
+-   <code>Model::removeReification(ReifiedStatement)</code></p>
+<h2 id="reification-styles">Reification styles</h2>
+<p>Prior to version 2.10.0 of Jena, there were 3 styles of reificiation, 
+"standard", "minimal" and "convenient".  As of 2.10.0 and later, only 
+what was prviosuly the "standard" style is supported.</p>
+<p>The old documentation is <a href="reification_previous.html">still available</a>.</p>
+  </div>
+
+  <div id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2011&ndash;2013 The Apache Software Foundation, Licensed under
+        the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br />
+        Apache Jena, Jena, the Apache Jena project logo,
+        Apache and the Apache feather logos are trademarks of The Apache Software Foundation.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>
