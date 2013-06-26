@@ -31,3 +31,17 @@ Modifications are done on under `svn/trunk/`. Should be good to be merged with t
     sudo ./scripts/to-local-server.sh
 
 ### Publishing on GitHub pages
+
+    # Export the static site ready for the github pages in a folder
+    mkdir /home/samuel/Desktop/site
+    sudo ./scripts/generate-github-site.sh /home/samuel/Desktop/site
+    
+    # Then push to pages after commiting
+    git add *
+    git commit -m 'commit the master'
+    git push origin master
+    git checkout gh-pages
+    # Then copy the saved folder into the pages
+    git add *
+    git commit -m 'new version of the site'
+    git push origin gh-pages
