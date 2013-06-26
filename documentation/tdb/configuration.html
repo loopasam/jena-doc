@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE- 2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+  <link href="/css/jena.css" rel="stylesheet" type="text/css">
+
+  <title>Apache Jena - TDB Configuration</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+  <script src="/js/jena-navigation.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <div id="header">
+    <div id="logoblock">
+    <img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
+    </div>
+
+    <div id="titleblock">
+      <h1 class="title">Apache Jena</h1>
+      <div id="topmenu" class="tabbar round-10">
+        <ul>
+        <li class="round-top-8"><a class="round-top-8" href="/index.html" id="home_menu">Home</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/help_and_support/index.html">Support</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/getting_started/index.html">Getting started</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/tutorials/index.html">Tutorials</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/documentation/index.html">Documentation</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="navigation" class="clear">
+  <h1 id="quick-links">Quick links</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/download/index.html">Downloads</a></li>
+<li><a href="/help_and_support/index.html">Help and support</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Report a bug</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/getting_involved/index.html">Getting involved</a></li>
+<li><a href="/documentation/">Documentation</a></li>
+</ul>
+<h1 id="about-jena">About Jena</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/about_jena/about.html">About Jena</a></li>
+<li><a href="/about_jena/architecture.html">Architecture</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/about_jena/team.html">Project team</a></li>
+<li><a href="/about_jena/contributions.html">Related projects</a></li>
+</ul>
+<h1 id="download">Download</h1>
+<ul>
+<li><a href="/download/index.html">Downloading Jena</a></li>
+<li><a href="/download/maven.html">Using Maven</a></li>
+<li><a href="/download/osgi.html">Using OSGi</a></li>
+</ul>
+<h1 id="help-and-support">Help and support</h1>
+<ul>
+<li><a href="/help_and_support/index.html">Getting help</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Bugs and suggestions</a></li>
+</ul>
+<h1 id="getting-started">Getting Started</h1>
+<ul>
+<li><a href="/getting_started/index.html">A first Jena project</a></li>
+<li><a href="/getting_started/rdf_api.html">RDF API overview</a></li>
+<li><a href="/getting_started/sparql.html">Querying RDF with SPARQL</a></li>
+<li><a href="/getting_started/fuseki.html">Serving RDF over HTTP</a></li>
+<li><a href="/getting_started/tell_me_how.html">Tell me how to ...</a></li>
+</ul>
+<h1 id="tutorials">Tutorials</h1>
+<ul>
+<li><a href="/tutorials/index.html">Tutorials index</a></li>
+<li><a href="/tutorials/rdf_api.html">RDF tutorial</a></li>
+<li><a href="/tutorials/sparql.html">SPARQL queries</a></li>
+<li><a href="/tutorials/using_jena_with_eclipse.html">Using Jena with Eclipse</a></li>
+</ul>
+<h1 id="documentation">Documentation</h1>
+<ul>
+<li><a href="/documentation/index.html">Overview</a></li>
+<li><a href="/documentation/javadoc/">Javadoc</a></li>
+<li><a href="/documentation/rdf/index.html">RDF</a></li>
+<li><a href="/documentation/io/index.html">I/O</a></li>
+<li><a href="/documentation/query/index.html">SPARQL (ARQ)</a><ul>
+<li><a href="/documentation/query/app_api.html">Application API</a></li>
+<li><a href="/documentation/query/cmds.html">Command line utilities</a></li>
+</ul>
+</li>
+<li><a href="/documentation/query/text-query.html">Text Search</a></li>
+<li><a href="/documentation/tdb/index.html">TDB</a><ul>
+<li><a href="/documentation/tdb/tdb_transactions.html">API for Transactions</a></li>
+<li><a href="/documentation/tdb/assembler.html">Dataset Assembler</a></li>
+</ul>
+</li>
+<li><a href="/documentation/serving_data/index.html">Fuseki: Serving Data</a></li>
+<li><a href="/documentation/ontology/index.html">Ontology</a></li>
+<li><a href="/documentation/inference/index.html">Inference</a></li>
+<li><a href="/documentation/assembler/index.html">Assembler</a><ul>
+<li><a href="/documentation/assembler/assembler-howto.html">Assembler how-to</a></li>
+<li><a href="/documentation/assembler/inside-assemblers.html">Inside assemblers</a></li>
+</ul>
+</li>
+<li><a href="/documentation/sdb/index.html">SDB</a></li>
+<li><a href="/documentation/notes/index.html">Notes</a><ul>
+<li><a href="/documentation/notes/concurrency-howto.html">Concurrency how-to</a></li>
+<li><a href="/documentation/notes/event-handler-howto.html">Event handler how-to</a></li>
+<li><a href="/documentation/notes/file-manager.html">File manager how-to</a></li>
+<li><a href="/documentation/notes/model-factory.html">Model factory how-to</a></li>
+<li><a href="/documentation/notes/rdf-frames.html">RDF frames</a></li>
+<li><a href="/documentation/notes/reification.html">Reification how-to</a></li>
+<li><a href="/documentation/notes/typed-literals.html">Typed literals how-to</a></li>
+<li><a href="/documentation/notes/iri.html">Support for IRI's</a></li>
+<li><a href="/documentation/notes/sse.html">SSE</a></li>
+</ul>
+</li>
+<li><a href="/documentation/tools/index.html">Tools</a><ul>
+<li><a href="/documentation/tools/schemagen.html">schemagen</a></li>
+<li><a href="/documentation/tools/eyeball-getting-started.html">eyeball</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="getting-involved">Getting Involved</h1>
+<ul>
+<li><a href="/getting_involved/index.html">Contributing to Jena</a><ul>
+<li><a href="/getting_involved/reviewing_contributions.html">Reviewing Contributions</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="asf-links">ASF links</h1>
+<ul>
+<li><a href="http://www.apache.org">Apache Software Foundation</a></li>
+<li><a href="http://www.apache.org/licenses/LICENSE-2.0">License</a></li>
+<li><a href="http://www.apache.org/foundation/thanks.html">Thanks</a></li>
+<li><a href="http://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+<li><a href="http://www.apache.org/security/">Security</a></li>
+</ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">TDB Configuration</h1>
+    <p>There are a number of configuration options that affect the
+operation of TDB.</p>
+<h2 id="contents">Contents</h2>
+<ul>
+<li><a href="#setting-options">Setting Options</a><ul>
+<li><a href="#setting-from-the-command-line">Setting from the command line</a></li>
+<li><a href="#setting-with-java-system-properties">Setting with Java System properties</a></li>
+</ul>
+</li>
+<li><a href="#query-of-the-union-of-named-graphs">Query of the union of named graphs</a></li>
+<li><a href="#logging-query-execution">Logging Query Execution</a></li>
+<li><a href="#dataset-caching">Dataset Caching</a></li>
+<li><a href="#file-access-mode">File Access Mode</a></li>
+<li><a href="#tdb-configuration-symbols">TDB Configuration Symbols</a></li>
+</ul>
+<h2 id="setting-options">Setting Options</h2>
+<p>Options can be set globally, through out the JVM, or on a per query
+execution basis. TDB uses the same mechanism as
+<a href="http://jena.sf.net/ARQ" title="http://jena.sf.net/ARQ">ARQ</a>.</p>
+<p>There is a global context, which is give to each query query
+execution as it is created. Modifications to the global context
+after the query execution is created are not seen by the query
+execution. Modifications to the context of a single query execution
+do not affect any other query execution nor the global context.</p>
+<p>A context is a set of symbol/value pairs. Symbols are used created
+internal to ARQ and TDB and accessed via Java constants. Values are
+any Java object, together with the values <code>true</code> and <code>false</code>, which
+are short for the constants of class <code>java.lang.Boolean</code>.</p>
+<p>Setting globally:</p>
+<div class="codehilite"><pre> <span class="n">TDB</span><span class="p">.</span><span class="n">getContext</span><span class="p">().</span><span class="n">set</span><span class="p">(</span><span class="n">symbol</span><span class="p">,</span> <span class="n">value</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+</pre></div>
+
+
+<p>Per query execution:</p>
+<div class="codehilite"><pre> <span class="n">QueryExecution</span> <span class="n">qExec</span> <span class="o">=</span> <span class="n">QueryExecutionFactory</span><span class="p">.</span><span class="n">create</span><span class="p">(...)</span><span class="err"> </span><span class="p">;</span>
+ <span class="n">qExec</span><span class="p">.</span><span class="n">getContext</span><span class="p">().</span><span class="n">set</span><span class="p">(</span><span class="n">symbol</span><span class="p">,</span> <span class="n">value</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+</pre></div>
+
+
+<p>Setting for a query execution happens before any query compilation
+or setup happens. Creation of a query execution object does not
+compile the query, which happens when the appropriate <code>.exec</code>
+method is called.</p>
+<h3 id="setting-from-the-command-line">Setting from the command line</h3>
+<p>Options can also set from the
+<a href="commands.html#setting-options-from-the-command-line" title="TDB/Commands">command line</a>.</p>
+<h3 id="setting-with-java-system-properties">Setting with Java System properties</h3>
+<p>(TDB 0.8.5 and later)</p>
+<p>Options can be set when invoking the JVM using the Java system
+properties as set by "-D".</p>
+<h2 id="query-of-the-union-of-named-graphs">Query of the union of named graphs</h2>
+<p>See <a href="datasets.html" title="TDB/Datasets">TDB/Datasets</a>.</p>
+<h2 id="logging-query-execution">Logging Query Execution</h2>
+<p>If the symbol "<code>tdb:logExec</code>" is set to "true", and also the logger
+<code>com.hp.hpl.jena.tdb.exec</code> is enabled fro level "info", then each
+basic graph patterns is logged before execution. This pattern
+logged is after substitution of variable values and after
+optimization by the
+<a href="optimizer.html" title="TDB/Optimizer">BGP optimizer</a>.</p>
+<h2 id="dataset-caching">Dataset Caching</h2>
+<p>(TDB 0.8.0 and later)</p>
+<p>TDB caches datasets based on the location of the backing directory.
+Within a single JVM, all attempts to create or open a dataset at a
+particular location go through the same dataset (and same disk
+caching). Therefore, an application can open the same location
+several times in different places in the code and still get the
+same underlying dataset for query and update.</p>
+<p>Note that closing the dataset closes it everywhere (the opening
+calls are not being reference counted).</p>
+<h2 id="file-access-mode">File Access Mode</h2>
+<p>The context symbol can be set to "mapped" or "direct". Unset, or
+the value "default", ask TDB to use to make the choice based on
+JVM. Leaving it to the default is <em>strongly</em> encouraged.</p>
+<h2 id="tdb-configuration-symbols">TDB Configuration Symbols</h2>
+<p>Configuration Symbols</p>
+<table>
+<thead>
+<tr>
+<th>Symbol</th>
+<th>Java Constant</th>
+<th>Effect</th>
+<th>Default</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>tdb:logExec</code></td>
+<td><code>TDB.symLogExec</code></td>
+<td>Log execution of BGPs. Set to "true" to enable. Must also enable the logger "com.hp.hpl.jena.tdb.exec". e.g. log4j.properties <code>log4j.logger.com.hp.hpl.jena.tdb.exec=INFO</code></td>
+<td>unset</td>
+</tr>
+<tr>
+<td><code>tdb:unionDefaultGraph</code></td>
+<td><code>TDB.symUnionDefaultGraph</code></td>
+<td>Query patterns on the default graph match against the union of the named graphs.</td>
+<td>unset</td>
+</tr>
+<tr>
+<td><code>tdb:fileMode</code></td>
+<td><code>SystemTDB.fileMode</code></td>
+<td>Force use of memory mapped files (<code>"mapped"</code>) or direct file caching (<code>"direct"</code>). See discussion of TDB on 32 or 64 bit hardware, especially limitations of memory mapped files on 32 bit Java.</td>
+<td>Set by the system based on 32 or 64 bit java.</td>
+</tr>
+</tbody>
+</table>
+  </div>
+
+  <div id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2011&ndash;2013 The Apache Software Foundation, Licensed under
+        the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br />
+        Apache Jena, Jena, the Apache Jena project logo,
+        Apache and the Apache feather logos are trademarks of The Apache Software Foundation.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>

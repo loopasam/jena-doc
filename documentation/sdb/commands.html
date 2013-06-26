@@ -1,0 +1,432 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE- 2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+  <link href="/css/jena.css" rel="stylesheet" type="text/css">
+
+  <title>Apache Jena - SDB/Commands</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+  <script src="/js/jena-navigation.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <div id="header">
+    <div id="logoblock">
+    <img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
+    </div>
+
+    <div id="titleblock">
+      <h1 class="title">Apache Jena</h1>
+      <div id="topmenu" class="tabbar round-10">
+        <ul>
+        <li class="round-top-8"><a class="round-top-8" href="/index.html" id="home_menu">Home</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/help_and_support/index.html">Support</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/getting_started/index.html">Getting started</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/tutorials/index.html">Tutorials</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/documentation/index.html">Documentation</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="navigation" class="clear">
+  <h1 id="quick-links">Quick links</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/download/index.html">Downloads</a></li>
+<li><a href="/help_and_support/index.html">Help and support</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Report a bug</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/getting_involved/index.html">Getting involved</a></li>
+<li><a href="/documentation/">Documentation</a></li>
+</ul>
+<h1 id="about-jena">About Jena</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/about_jena/about.html">About Jena</a></li>
+<li><a href="/about_jena/architecture.html">Architecture</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/about_jena/team.html">Project team</a></li>
+<li><a href="/about_jena/contributions.html">Related projects</a></li>
+</ul>
+<h1 id="download">Download</h1>
+<ul>
+<li><a href="/download/index.html">Downloading Jena</a></li>
+<li><a href="/download/maven.html">Using Maven</a></li>
+<li><a href="/download/osgi.html">Using OSGi</a></li>
+</ul>
+<h1 id="help-and-support">Help and support</h1>
+<ul>
+<li><a href="/help_and_support/index.html">Getting help</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Bugs and suggestions</a></li>
+</ul>
+<h1 id="getting-started">Getting Started</h1>
+<ul>
+<li><a href="/getting_started/index.html">A first Jena project</a></li>
+<li><a href="/getting_started/rdf_api.html">RDF API overview</a></li>
+<li><a href="/getting_started/sparql.html">Querying RDF with SPARQL</a></li>
+<li><a href="/getting_started/fuseki.html">Serving RDF over HTTP</a></li>
+<li><a href="/getting_started/tell_me_how.html">Tell me how to ...</a></li>
+</ul>
+<h1 id="tutorials">Tutorials</h1>
+<ul>
+<li><a href="/tutorials/index.html">Tutorials index</a></li>
+<li><a href="/tutorials/rdf_api.html">RDF tutorial</a></li>
+<li><a href="/tutorials/sparql.html">SPARQL queries</a></li>
+<li><a href="/tutorials/using_jena_with_eclipse.html">Using Jena with Eclipse</a></li>
+</ul>
+<h1 id="documentation">Documentation</h1>
+<ul>
+<li><a href="/documentation/index.html">Overview</a></li>
+<li><a href="/documentation/javadoc/">Javadoc</a></li>
+<li><a href="/documentation/rdf/index.html">RDF</a></li>
+<li><a href="/documentation/io/index.html">I/O</a></li>
+<li><a href="/documentation/query/index.html">SPARQL (ARQ)</a><ul>
+<li><a href="/documentation/query/app_api.html">Application API</a></li>
+<li><a href="/documentation/query/cmds.html">Command line utilities</a></li>
+</ul>
+</li>
+<li><a href="/documentation/query/text-query.html">Text Search</a></li>
+<li><a href="/documentation/tdb/index.html">TDB</a><ul>
+<li><a href="/documentation/tdb/tdb_transactions.html">API for Transactions</a></li>
+<li><a href="/documentation/tdb/assembler.html">Dataset Assembler</a></li>
+</ul>
+</li>
+<li><a href="/documentation/serving_data/index.html">Fuseki: Serving Data</a></li>
+<li><a href="/documentation/ontology/index.html">Ontology</a></li>
+<li><a href="/documentation/inference/index.html">Inference</a></li>
+<li><a href="/documentation/assembler/index.html">Assembler</a><ul>
+<li><a href="/documentation/assembler/assembler-howto.html">Assembler how-to</a></li>
+<li><a href="/documentation/assembler/inside-assemblers.html">Inside assemblers</a></li>
+</ul>
+</li>
+<li><a href="/documentation/sdb/index.html">SDB</a></li>
+<li><a href="/documentation/notes/index.html">Notes</a><ul>
+<li><a href="/documentation/notes/concurrency-howto.html">Concurrency how-to</a></li>
+<li><a href="/documentation/notes/event-handler-howto.html">Event handler how-to</a></li>
+<li><a href="/documentation/notes/file-manager.html">File manager how-to</a></li>
+<li><a href="/documentation/notes/model-factory.html">Model factory how-to</a></li>
+<li><a href="/documentation/notes/rdf-frames.html">RDF frames</a></li>
+<li><a href="/documentation/notes/reification.html">Reification how-to</a></li>
+<li><a href="/documentation/notes/typed-literals.html">Typed literals how-to</a></li>
+<li><a href="/documentation/notes/iri.html">Support for IRI's</a></li>
+<li><a href="/documentation/notes/sse.html">SSE</a></li>
+</ul>
+</li>
+<li><a href="/documentation/tools/index.html">Tools</a><ul>
+<li><a href="/documentation/tools/schemagen.html">schemagen</a></li>
+<li><a href="/documentation/tools/eyeball-getting-started.html">eyeball</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="getting-involved">Getting Involved</h1>
+<ul>
+<li><a href="/getting_involved/index.html">Contributing to Jena</a><ul>
+<li><a href="/getting_involved/reviewing_contributions.html">Reviewing Contributions</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="asf-links">ASF links</h1>
+<ul>
+<li><a href="http://www.apache.org">Apache Software Foundation</a></li>
+<li><a href="http://www.apache.org/licenses/LICENSE-2.0">License</a></li>
+<li><a href="http://www.apache.org/foundation/thanks.html">Thanks</a></li>
+<li><a href="http://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+<li><a href="http://www.apache.org/security/">Security</a></li>
+</ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">SDB/Commands</h1>
+    <p>This page describes the command line programs that can be used to
+create an SDB store, load data into it and to issue queries.</p>
+<h2 id="contents">Contents</h2>
+<ul>
+<li>
+<p><a href="#scripts">Scripts</a></p>
+<ul>
+<li><a href="#script-set-up">Script set up</a></li>
+<li><a href="#argument-structure">Argument Structure</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#store-description">Store Description</a></p>
+<ul>
+<li><a href="#modifying-the-store-description">Modifying the Store Description</a></li>
+<li><a href="#logging-and-monitoring">Logging and Monitoring</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#sdb-commands">SDB Commands</a></p>
+<ul>
+<li><a href="#database-creation">Database creation</a></li>
+<li><a href="#loading-data">Loading data</a></li>
+<li><a href="#query">Query</a></li>
+<li><a href="#testing">Testing</a></li>
+<li><a href="#other">Other</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="scripts">Scripts</h2>
+<p>The directory <code>bin/</code> contains shell scripts to run the commands
+from the command line. The scripts are bash scripts which also run
+over <a href="http://www.cygwin.com/" title="http://www.cygwin.com/">Cygwin</a>.</p>
+<h3 id="script-set-up">Script set up</h3>
+<p>Set the environment variable <code>SDBROOT</code> to the root of the the SDB
+installation.</p>
+<p>A store description can include naming the class for the JDBC
+driver. Getting a <code>Store</code> object from a store description will
+automatically load the JDBC driver from the classpath.</p>
+<p>When running scripts, set the environment variable <code>SDB_JDBC</code> to
+one or more jar files for JDBC drivers. If it is more than one jar
+file, use the classpath syntax for your system. You can also use
+the system property <code>jdbc.drivers</code>.</p>
+<p>Set the environment variables <code>SDB_USER</code> and <code>SDB_PASSWORD</code> to the
+database user name and password for JDBC.</p>
+<div class="codehilite"><pre> <span class="err">$</span> <span class="n">export</span> <span class="n">SDBROOT</span><span class="o">=</span><span class="s">&quot;/path/to/sdb</span>
+ <span class="err">$</span> <span class="n">export</span> <span class="n">SDB_USER</span><span class="o">=</span><span class="s">&quot;YourDbUserName&quot;</span>
+ <span class="err">$</span> <span class="n">export</span> <span class="n">SDB_PASSWORD</span><span class="o">=</span><span class="s">&quot;YourDbPassword&quot;</span>
+ <span class="err">$</span> <span class="n">export</span> <span class="n">SDB_JDBC</span><span class="o">=</span><span class="s">&quot;/path/to/driver.jar&quot;</span>
+</pre></div>
+
+
+<p>They are bash scripts, and work on Linux and Cygwin for MS
+Windows.</p>
+<div class="codehilite"><pre> <span class="err">$</span> <span class="n">export</span> <span class="n">PATH</span><span class="o">=</span><span class="err">$</span><span class="n">SDBROOT</span><span class="o">/</span><span class="n">bin</span><span class="o">:</span><span class="err">$</span><span class="n">PATH</span>
+</pre></div>
+
+
+<p>Alternatively, there are wrapper scripts in <code>$SDBROOT/bin2</code> which
+can be placed in a convenient directory that is already on the
+shell command path.</p>
+<h3 id="argument-structure">Argument Structure</h3>
+<p>All commands take a SDB store description to extract the connection
+and configuration information they need. This is written
+<em><code>SPEC</code></em> in the command descriptions below but it can be
+composed of several arguments as described here.</p>
+<p>Each command then has command-specific arguments described below.</p>
+<p>All commands support <code>--help</code> to give details of named and
+positional arguments.</p>
+<p>There are two equivalent forms of named argument syntax:</p>
+<div class="codehilite"><pre><span class="o">--</span><span class="n">arg</span><span class="o">=</span><span class="n">val</span>
+
+<span class="o">--</span><span class="n">arg</span> <span class="n">val</span>
+</pre></div>
+
+
+<h2 id="store-description">Store Description</h2>
+<p>If this is not specified, commands load the description file
+sdb.ttl from the current directory.</p>
+<div class="codehilite"><pre> <span class="o">--</span><span class="n">sdb</span><span class="o">=&lt;</span><span class="n">sdb</span><span class="p">.</span><span class="n">ttl</span><span class="o">&gt;</span>
+</pre></div>
+
+
+<p>This store description is a
+<a href="/documentation/assembler/">Jena assembler</a>
+file. The description consists of two parts; a store description
+and a connection description.</p>
+<p>Often, this is all that is needed to describe which store to use.
+The individual components of a connection or configuration can be
+overridden after the description have been read, before it is
+processed.</p>
+<p>The directory <code>Store/</code> has example assembler files.</p>
+<p>The full details of the assembler file is given in
+'<a href="store_description.html" title="SDB/Store Description">SDB/Store Description</a>'</p>
+<h3 id="modifying-the-store-description">Modifying the Store Description</h3>
+<p>The individual items of a store description can be overridden by
+various command arguments. The description in the assembler file is
+read, then any command line arguments used to modify the
+description, then the appropriate object is created from the
+modified description.</p>
+<p>Set the layout type:</p>
+<div class="codehilite"><pre> <span class="o">--</span><span class="n">layout</span><span class="err"> </span><span class="o">:</span> <span class="n">layout</span> <span class="n">name</span>
+</pre></div>
+
+
+<p>Currently, one of <code>layout1</code>, <code>layout2</code>, <code>layout2/index</code>,
+<code>layout2/hash</code>.</p>
+<p>Set JDBC details:</p>
+<div class="codehilite"><pre> <span class="o">--</span><span class="n">dbName</span><span class="err"> </span><span class="o">:</span> <span class="n">Database</span> <span class="n">Name</span>
+ <span class="o">--</span><span class="n">dbHost</span><span class="err"> </span><span class="o">:</span> <span class="n">Host</span> <span class="n">machine</span> <span class="n">name</span>
+ <span class="o">--</span><span class="n">dbType</span><span class="err"> </span><span class="o">:</span> <span class="n">Database</span> <span class="n">type</span><span class="p">.</span>
+ <span class="o">--</span><span class="n">dbUser</span><span class="err"> </span><span class="o">:</span> <span class="n">Database</span> <span class="n">use</span>
+ <span class="o">--</span><span class="n">dbPassword</span><span class="err"> </span><span class="o">:</span> <span class="n">Database</span> <span class="n">password</span><span class="p">.</span>
+</pre></div>
+
+
+<p>The host name can <code>host</code> or <code>host:port</code>.</p>
+<p>The better way to handle passwords is to use environment variables
+SDB_USER and SDB_PASSWORD because then the user/password is not
+stored in a visible way.</p>
+<h3 id="logging-and-monitoring">Logging and Monitoring</h3>
+<p>All commands take the following arguments (although they may do
+nothing if they make no sense to the command).</p>
+<div class="codehilite"><pre> <span class="o">-</span><span class="n">v</span>
+</pre></div>
+
+
+<p>Be verbose.</p>
+<div class="codehilite"><pre> <span class="o">--</span><span class="n">time</span>
+</pre></div>
+
+
+<p>Print timing information. Treat with care - while the timer avoids
+recording JVM and some class loading time, it can't avoid all class
+loading. Hence, the values of timing are more meaningful on longer
+operations. JDBC operation times to a remote server can also be a
+significant proportion in short operations.</p>
+<div class="codehilite"><pre> <span class="o">--</span><span class="n">log</span><span class="o">=</span><span class="p">[</span><span class="n">all</span><span class="o">|</span><span class="n">none</span><span class="o">|</span><span class="n">queries</span><span class="o">|</span><span class="n">statements</span><span class="o">|</span><span class="n">exceptions</span><span class="p">]</span>
+</pre></div>
+
+
+<p>to log SQL actions on the database connection (but not the prepared
+statements used by the loader). Can be repeated on the command
+line.</p>
+<h2 id="sdb-commands">SDB Commands</h2>
+<h3 id="database-creation">Database creation</h3>
+<div class="codehilite"><pre> <span class="n">sdbconfig</span> <span class="n">SPEC</span> <span class="p">[</span><span class="o">--</span><span class="n">create</span><span class="o">|--</span><span class="n">format</span><span class="o">|--</span><span class="n">indexes</span><span class="o">|--</span><span class="n">dropIndexes</span><span class="p">]</span>
+</pre></div>
+
+
+<p>Setup a database.</p>
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--create</code></td>
+<td>formats the store and sets up indexes</td>
+</tr>
+<tr>
+<td><code>--format</code></td>
+<td>just formats the store and creates indexes for loading, not querying.</td>
+</tr>
+<tr>
+<td><code>--indexes</code></td>
+<td>Create indexes for querying</td>
+</tr>
+<tr>
+<td><code>--dropIndexes</code></td>
+<td>Drop indexes for querying.</td>
+</tr>
+</tbody>
+</table>
+<p>Loading large graphs can be faster by formatting, loading the data,
+then building the query indexes with this command.</p>
+<div class="codehilite"><pre> <span class="n">sdbtruncate</span> <span class="n">SPEC</span>
+</pre></div>
+
+
+<p>Truncate the store. Non-transactional. Destroys data.</p>
+<h3 id="loading-data">Loading data</h3>
+<div class="codehilite"><pre> <span class="n">sdbload</span> <span class="n">SPEC</span> <span class="kt">FILE</span> <span class="p">[</span><span class="kt">FILE</span> <span class="p">...]</span>
+</pre></div>
+
+
+<p>Load RDF data into a store using the SDB bulk loader. Data is
+streamed into the database and is not loaded as a single
+transaction.</p>
+<p>The file's extension is used to determine the data syntax.</p>
+<p>To load into a named graph:</p>
+<div class="codehilite"><pre> <span class="n">sdbload</span> <span class="n">SPEC</span> <span class="o">--</span><span class="n">graph</span><span class="o">=</span><span class="n">URI</span> <span class="kt">FILE</span> <span class="p">[</span><span class="kt">FILE</span> <span class="p">...]</span>
+</pre></div>
+
+
+<h3 id="query">Query</h3>
+<div class="codehilite"><pre> <span class="n">sdbquery</span> <span class="n">SPEC</span> <span class="o">--</span><span class="n">query</span><span class="o">=</span><span class="kt">FILE</span>
+</pre></div>
+
+
+<p>Execute a query.</p>
+<div class="codehilite"><pre> <span class="n">sdbprint</span> <span class="n">SPEC</span> <span class="o">--</span><span class="n">print</span><span class="o">=</span><span class="n">X</span> <span class="p">[</span><span class="o">--</span><span class="n">sql</span><span class="p">]</span> <span class="o">--</span><span class="n">query</span><span class="o">=</span><span class="kt">FILE</span>
+</pre></div>
+
+
+<p>Print details of a query. <code>X</code> is any of <code>query</code>, <code>op</code>, <code>sqlNode</code>,
+<code>sql</code> or <code>plan</code>. <code>--print=X</code> can be repeated. --sql is short for
+--print=sql. The default is <code>--print=sql</code>.</p>
+<h3 id="testing">Testing</h3>
+<div class="codehilite"><pre> <span class="n">sdbtest</span> <span class="n">SPEC</span> <span class="n">MANIFEST</span>
+</pre></div>
+
+
+<p>Execute a test manifest file. The manifest of all query tests,
+which will test connection and loading of data, is in
+<code>&lt;em&gt;SDBROOT&lt;/em&gt;/testing/manifest-sdb.ttl</code>.</p>
+<h3 id="other">Other</h3>
+<div class="codehilite"><pre> <span class="n">sdbdump</span> <span class="n">SPEC</span> <span class="o">--</span><span class="n">out</span><span class="o">=</span><span class="n">SYNTAX</span>
+</pre></div>
+
+
+<p>Dump the contents of a store N-TRIPLES or a given serialization
+format (usual Jena syntax names, e.g. <code>Turtle</code> or <code>TTL</code>).</p>
+<p>Only suitable for data sizes that fit in memory. All output
+syntaxes that do some form of pretty printing will need additional
+space for their internal datastructures.</p>
+<div class="codehilite"><pre> <span class="n">sdbsql</span> <span class="n">SPEC</span> <span class="p">[</span> <span class="o">--</span><span class="n">file</span><span class="o">=</span><span class="kt">FILE</span> <span class="o">|</span> <span class="n">SQL</span> <span class="n">string</span> <span class="p">]</span>
+</pre></div>
+
+
+<p>Execute a SQL command on the store, using the connection details
+from the store specification. The SQL command either comes from
+file <code>FILE</code> or the command line as a string.</p>
+<div class="codehilite"><pre> <span class="n">sdbinfo</span> <span class="n">SPEC</span>
+</pre></div>
+
+
+<p>Details of a store.</p>
+<div class="codehilite"><pre> <span class="n">sdbmeta</span> <span class="n">SPEC</span> <span class="o">--</span><span class="n">out</span><span class="o">=</span><span class="n">SYNTAX</span>
+</pre></div>
+
+
+<p>Do things with the meta graphs of a store.</p>
+<div class="codehilite"><pre> <span class="n">sdbscript</span> <span class="n">SPEC</span> <span class="kt">FILE</span>
+</pre></div>
+
+
+<p>Execute a script. Currently only JRuby is supported.</p>
+<div class="codehilite"><pre> <span class="n">sdbtuple</span> <span class="n">SPEC</span> <span class="p">[</span><span class="o">--</span><span class="n">create</span><span class="o">|--</span><span class="n">print</span><span class="o">|--</span><span class="n">drop</span><span class="o">|--</span><span class="n">truncate</span><span class="p">]</span>  <span class="n">tableName</span>
+</pre></div>
+
+
+<p>Many of the tables used within SDB are tuples of RDF nodes. This
+command allows low-level access to these tuple tables. Misuse of
+this command can corrupt the store.</p>
+  </div>
+
+  <div id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2011&ndash;2013 The Apache Software Foundation, Licensed under
+        the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br />
+        Apache Jena, Jena, the Apache Jena project logo,
+        Apache and the Apache feather logos are trademarks of The Apache Software Foundation.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>

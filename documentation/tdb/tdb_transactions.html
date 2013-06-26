@@ -1,0 +1,386 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE- 2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+  <link href="/css/jena.css" rel="stylesheet" type="text/css">
+
+  <title>Apache Jena - TDB Transactions</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+  <script src="/js/jena-navigation.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <div id="header">
+    <div id="logoblock">
+    <img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
+    </div>
+
+    <div id="titleblock">
+      <h1 class="title">Apache Jena</h1>
+      <div id="topmenu" class="tabbar round-10">
+        <ul>
+        <li class="round-top-8"><a class="round-top-8" href="/index.html" id="home_menu">Home</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/help_and_support/index.html">Support</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/getting_started/index.html">Getting started</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/tutorials/index.html">Tutorials</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/documentation/index.html">Documentation</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="navigation" class="clear">
+  <h1 id="quick-links">Quick links</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/download/index.html">Downloads</a></li>
+<li><a href="/help_and_support/index.html">Help and support</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Report a bug</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/getting_involved/index.html">Getting involved</a></li>
+<li><a href="/documentation/">Documentation</a></li>
+</ul>
+<h1 id="about-jena">About Jena</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/about_jena/about.html">About Jena</a></li>
+<li><a href="/about_jena/architecture.html">Architecture</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/about_jena/team.html">Project team</a></li>
+<li><a href="/about_jena/contributions.html">Related projects</a></li>
+</ul>
+<h1 id="download">Download</h1>
+<ul>
+<li><a href="/download/index.html">Downloading Jena</a></li>
+<li><a href="/download/maven.html">Using Maven</a></li>
+<li><a href="/download/osgi.html">Using OSGi</a></li>
+</ul>
+<h1 id="help-and-support">Help and support</h1>
+<ul>
+<li><a href="/help_and_support/index.html">Getting help</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Bugs and suggestions</a></li>
+</ul>
+<h1 id="getting-started">Getting Started</h1>
+<ul>
+<li><a href="/getting_started/index.html">A first Jena project</a></li>
+<li><a href="/getting_started/rdf_api.html">RDF API overview</a></li>
+<li><a href="/getting_started/sparql.html">Querying RDF with SPARQL</a></li>
+<li><a href="/getting_started/fuseki.html">Serving RDF over HTTP</a></li>
+<li><a href="/getting_started/tell_me_how.html">Tell me how to ...</a></li>
+</ul>
+<h1 id="tutorials">Tutorials</h1>
+<ul>
+<li><a href="/tutorials/index.html">Tutorials index</a></li>
+<li><a href="/tutorials/rdf_api.html">RDF tutorial</a></li>
+<li><a href="/tutorials/sparql.html">SPARQL queries</a></li>
+<li><a href="/tutorials/using_jena_with_eclipse.html">Using Jena with Eclipse</a></li>
+</ul>
+<h1 id="documentation">Documentation</h1>
+<ul>
+<li><a href="/documentation/index.html">Overview</a></li>
+<li><a href="/documentation/javadoc/">Javadoc</a></li>
+<li><a href="/documentation/rdf/index.html">RDF</a></li>
+<li><a href="/documentation/io/index.html">I/O</a></li>
+<li><a href="/documentation/query/index.html">SPARQL (ARQ)</a><ul>
+<li><a href="/documentation/query/app_api.html">Application API</a></li>
+<li><a href="/documentation/query/cmds.html">Command line utilities</a></li>
+</ul>
+</li>
+<li><a href="/documentation/query/text-query.html">Text Search</a></li>
+<li><a href="/documentation/tdb/index.html">TDB</a><ul>
+<li><a href="/documentation/tdb/tdb_transactions.html">API for Transactions</a></li>
+<li><a href="/documentation/tdb/assembler.html">Dataset Assembler</a></li>
+</ul>
+</li>
+<li><a href="/documentation/serving_data/index.html">Fuseki: Serving Data</a></li>
+<li><a href="/documentation/ontology/index.html">Ontology</a></li>
+<li><a href="/documentation/inference/index.html">Inference</a></li>
+<li><a href="/documentation/assembler/index.html">Assembler</a><ul>
+<li><a href="/documentation/assembler/assembler-howto.html">Assembler how-to</a></li>
+<li><a href="/documentation/assembler/inside-assemblers.html">Inside assemblers</a></li>
+</ul>
+</li>
+<li><a href="/documentation/sdb/index.html">SDB</a></li>
+<li><a href="/documentation/notes/index.html">Notes</a><ul>
+<li><a href="/documentation/notes/concurrency-howto.html">Concurrency how-to</a></li>
+<li><a href="/documentation/notes/event-handler-howto.html">Event handler how-to</a></li>
+<li><a href="/documentation/notes/file-manager.html">File manager how-to</a></li>
+<li><a href="/documentation/notes/model-factory.html">Model factory how-to</a></li>
+<li><a href="/documentation/notes/rdf-frames.html">RDF frames</a></li>
+<li><a href="/documentation/notes/reification.html">Reification how-to</a></li>
+<li><a href="/documentation/notes/typed-literals.html">Typed literals how-to</a></li>
+<li><a href="/documentation/notes/iri.html">Support for IRI's</a></li>
+<li><a href="/documentation/notes/sse.html">SSE</a></li>
+</ul>
+</li>
+<li><a href="/documentation/tools/index.html">Tools</a><ul>
+<li><a href="/documentation/tools/schemagen.html">schemagen</a></li>
+<li><a href="/documentation/tools/eyeball-getting-started.html">eyeball</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="getting-involved">Getting Involved</h1>
+<ul>
+<li><a href="/getting_involved/index.html">Contributing to Jena</a><ul>
+<li><a href="/getting_involved/reviewing_contributions.html">Reviewing Contributions</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="asf-links">ASF links</h1>
+<ul>
+<li><a href="http://www.apache.org">Apache Software Foundation</a></li>
+<li><a href="http://www.apache.org/licenses/LICENSE-2.0">License</a></li>
+<li><a href="http://www.apache.org/foundation/thanks.html">Thanks</a></li>
+<li><a href="http://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+<li><a href="http://www.apache.org/security/">Security</a></li>
+</ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">TDB Transactions</h1>
+    <p>TDB provides
+<a href="http://en.wikipedia.org/wiki/ACID">ACID</a>
+transaction support through the use of
+<a href="http://en.wikipedia.org/wiki/Write-ahead_logging">write-ahead-logging</a>.</p>
+<p>This feature is part of version TDB 0.9.0 and later.</p>
+<p>Databases created with version of TDB 0.8.X can be used with 0.9.X
+to add transactional capability.</p>
+<p>The file format of 0.9.X is compatible with TDB 0.8.X. See below
+for reverting a database to 0.8.X.</p>
+<h2 id="contents">Contents</h2>
+<ul>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#limitations">Limitations</a></li>
+<li><a href="#api-for-transactions">API for Transactions</a><ul>
+<li><a href="#read-transactions">Read transactions</a></li>
+<li><a href="#write-transactions">Write transactions</a></li>
+</ul>
+</li>
+<li><a href="#multi-threaded-use">Multi-threaded use</a></li>
+<li><a href="#bulk-loading">Bulk loading</a></li>
+<li><a href="#multi-jvm">Multi JVM</a></li>
+<li><a href="#migration-from-tdb-08x">Migration from TDB 0.8.X</a></li>
+<li><a href="#reverting-to-tdb-08x">Reverting to TDB 0.8.X</a></li>
+</ul>
+<h2 id="overview">Overview</h2>
+<p>The transaction mechanism in TDB is based on
+<a href="http://en.wikipedia.org/wiki/Write-ahead_logging">write-ahead-logging</a>.
+All changes made inside a write-transaction are written to
+<a href="http://en.wikipedia.org/wiki/Journaling_file_system">journals</a>,
+then propagated to the main database at a suitable moment. This
+design allows for read-transactions to proceed without locking or
+other overhead over the base database.</p>
+<p>Transactional TDB supports one active write transaction, and
+multiple read transactions at the same time. Read-transactions
+started before a write-transaction commits see the database in a
+state without any changes visible. Any transaction starting after a
+write-transaction commits sees the database with the changes
+visible, whether fully propagates back to the database or not.
+There can be active read transactions seeing the state of the
+database before the updates, and read transactions seeing the state
+of the database after the updates running at the same time.</p>
+<p>Transactional TDB works with SPARQL Query, SPARQL Update, SPARQL
+Graph Store Update as well as the full Jena API.</p>
+<p>TDB provides
+<a href="http://en.wikipedia.org/wiki/Isolation_(database_systems)#SERIALIZABLE">Serializable</a>
+transactions, the highest
+<a href="http://en.wikipedia.org/wiki/Isolation_(database_systems)">isolation level</a>.</p>
+<h2 id="limitations">Limitations</h2>
+<p>(some of these limitations may be removed in later versions)</p>
+<ul>
+<li>Bulk loads: the TDB bulk loader is not transactional</li>
+<li><a href="http://en.wikipedia.org/wiki/Nested_transaction">Nested transactions</a> are not supported.</li>
+<li>Some active transaction state is held exclusively in-memory,
+    limiting scalability.</li>
+<li>Long-running transactions. Read-transactions cause a build-up
+    of pending changes;</li>
+</ul>
+<p>If a single read transaction runs for a long time when there are
+many updates, the system will consume a lot of temporary
+resources.</p>
+<h2 id="api-for-transactions">API for Transactions</h2>
+<p>TDB supports the general Jena API for transactions on RDF datasets 
+(introduced in Jena 2.7.0, ARQ 2.9.0).  Not all storage systems support 
+this style of transactions.</p>
+<p>A TDB-backed dataset can be used non-transactionally but once used in a transaction, 
+it should be used transactionally after that.</p>
+<h3 id="read-transactions">Read transactions</h3>
+<p>These are used for SPARQL queries and code using the Jena API
+actions that do not change the data.  The general pattern is:</p>
+<div class="codehilite"><pre> <span class="n">dataset</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="n">ReadWrite</span><span class="p">.</span><span class="n">READ</span><span class="p">)</span> <span class="p">;</span>
+ <span class="n">try</span> <span class="p">{</span>
+   <span class="p">...</span>
+ <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> <span class="n">dataset</span><span class="p">.</span><span class="n">end</span><span class="p">()</span> <span class="p">;</span> <span class="p">}</span>
+</pre></div>
+
+
+<p>The <code>dataset.end()</code> declares the end of the read transaction.  Applications may also call
+<code>dataset.commit()</code> or <code>dataset.abort()</code> which all have the same effect for a read transaction.</p>
+<div class="codehilite"><pre> <span class="n">Location</span> <span class="n">location</span> <span class="o">=</span> <span class="p">...</span> <span class="p">;</span>
+ <span class="n">Dataset</span> <span class="n">dataset</span> <span class="o">=</span> <span class="p">...</span> <span class="p">;</span>
+ <span class="n">dataset</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="n">ReadWrite</span><span class="p">.</span><span class="n">READ</span><span class="p">)</span> <span class="p">;</span>
+
+ <span class="n">try</span> <span class="p">{</span>
+     <span class="n">QueryExecution</span> <span class="n">qExec</span> <span class="o">=</span> <span class="n">QueryExecutionFactory</span><span class="p">.</span><span class="n">create</span><span class="p">(</span><span class="s">&quot;SELECT * {?s ?p ?o} LIMIT 10&quot;</span><span class="p">,</span> <span class="n">dataset</span><span class="p">)</span> <span class="p">;</span>
+     <span class="n">ResultSet</span> <span class="n">rs</span> <span class="o">=</span> <span class="n">qExec</span><span class="p">.</span><span class="n">execSelect</span><span class="p">()</span> <span class="p">;</span>
+     <span class="n">try</span> <span class="p">{</span>
+         <span class="n">ResultSetFormatter</span><span class="p">.</span><span class="n">out</span><span class="p">(</span><span class="n">rs</span><span class="p">)</span> <span class="p">;</span>
+     <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> <span class="n">qExec</span><span class="p">.</span><span class="n">close</span><span class="p">()</span> <span class="p">;</span> <span class="p">}</span>
+
+     <span class="c1">// Another query - same view of the data.</span>
+     <span class="n">qExec</span> <span class="o">=</span> <span class="n">QueryExecutionFactory</span><span class="p">.</span><span class="n">create</span><span class="p">(</span><span class="s">&quot;SELECT * {?s ?p ?o} OFFSET 10 LIMIT 10&quot;</span><span class="p">,</span> <span class="n">dataset</span><span class="p">)</span> <span class="p">;</span>
+     <span class="n">rs</span> <span class="o">=</span> <span class="n">qExec</span><span class="p">.</span><span class="n">execSelect</span><span class="p">()</span> <span class="p">;</span>
+     <span class="n">try</span> <span class="p">{</span>
+         <span class="n">ResultSetFormatter</span><span class="p">.</span><span class="n">out</span><span class="p">(</span><span class="n">rs</span><span class="p">)</span> <span class="p">;</span>
+     <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> <span class="n">qExec</span><span class="p">.</span><span class="n">close</span><span class="p">()</span> <span class="p">;</span> <span class="p">}</span>
+ <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> <span class="n">dataset</span><span class="p">.</span><span class="n">end</span><span class="p">()</span> <span class="p">;</span> <span class="p">}</span>
+</pre></div>
+
+
+<h3 id="write-transactions">Write transactions</h3>
+<p>These are used for SPARQL queries, SPARQL updates and any Jena API
+actions that modify the data.  Beware that large <code>model.read</code> 
+operations consume large amounts of temporary space.</p>
+<p>The general pattern is:</p>
+<div class="codehilite"><pre> <span class="n">dataset</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="n">ReadWrite</span><span class="p">.</span><span class="n">WRITE</span><span class="p">)</span> <span class="p">;</span>
+ <span class="n">try</span> <span class="p">{</span>
+   <span class="p">...</span>
+   <span class="n">dataset</span><span class="p">.</span><span class="n">commit</span><span class="p">()</span> <span class="p">;</span>
+ <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> 
+   <span class="n">dataset</span><span class="p">.</span><span class="n">end</span><span class="p">()</span> <span class="p">;</span> 
+ <span class="p">}</span>
+</pre></div>
+
+
+<p>The  <code>dataset.end()</code> will abort the transaction is there was no call to
+<code>dataset.commit()</code> or <code>dataset.abort()</code> inside the write transaction.</p>
+<p>Once <code>dataset.commit()</code> or <code>dataset.abort()</code> is called, the application
+needs to start a new transaction to perform further operations on the 
+dataset.</p>
+<div class="codehilite"><pre> <span class="n">Location</span> <span class="n">location</span> <span class="o">=</span> <span class="p">...</span> <span class="p">;</span>
+ <span class="n">Dataset</span> <span class="n">dataset</span> <span class="o">=</span> <span class="p">...</span> <span class="p">;</span>
+ <span class="n">dataset</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="n">ReadWrite</span><span class="p">.</span><span class="n">WRITE</span><span class="p">)</span> <span class="p">;</span>
+
+ <span class="n">try</span> <span class="p">{</span>
+     <span class="n">Model</span> <span class="n">model</span> <span class="o">=</span> <span class="n">dataset</span><span class="p">.</span><span class="n">getDefaultModel</span><span class="p">()</span> <span class="p">;</span>
+     <span class="c1">// API calls to a model in the dataset</span>
+
+     <span class="n">model</span><span class="p">.</span><span class="n">add</span><span class="p">(</span> <span class="p">...</span> <span class="p">)</span>
+
+     <span class="c1">// A SPARQL query will see the new statement added.</span>
+     <span class="n">QueryExecution</span> <span class="n">qExec</span> <span class="o">=</span> <span class="n">QueryExecutionFactory</span><span class="p">.</span><span class="n">create</span><span class="p">(</span>
+           <span class="s">&quot;SELECT (count(*) AS ?count) { ?s ?p ?o} LIMIT 10&quot;</span><span class="p">,</span> 
+           <span class="n">dataset</span><span class="p">)</span> <span class="p">;</span>
+     <span class="n">ResultSet</span> <span class="n">rs</span> <span class="o">=</span> <span class="n">qExec</span><span class="p">.</span><span class="n">execSelect</span><span class="p">()</span> <span class="p">;</span>
+     <span class="n">try</span> <span class="p">{</span>
+         <span class="n">ResultSetFormatter</span><span class="p">.</span><span class="n">out</span><span class="p">(</span><span class="n">rs</span><span class="p">)</span> <span class="p">;</span>
+     <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> <span class="n">qExec</span><span class="p">.</span><span class="n">close</span><span class="p">()</span> <span class="p">;</span> <span class="p">}</span>
+
+     <span class="c1">// ... perform a SPARQL Update</span>
+     <span class="n">GraphStore</span> <span class="n">graphStore</span> <span class="o">=</span> <span class="n">GraphStoreFactory</span><span class="p">.</span><span class="n">create</span><span class="p">(</span><span class="n">dataset</span><span class="p">)</span> <span class="p">;</span>
+     <span class="n">String</span> <span class="n">sparqlUpdateString</span> <span class="o">=</span> <span class="n">StrUtils</span><span class="p">.</span><span class="n">strjoinNL</span><span class="p">(</span>
+          <span class="s">&quot;PREFIX . &lt;http://example/&gt;&quot;</span><span class="p">,</span>
+          <span class="s">&quot;INSERT { :s :p ?now } WHERE { BIND(now() AS ?now) }&quot;</span>
+          <span class="p">)</span> <span class="p">;</span>
+
+     <span class="n">UpdateRequest</span> <span class="n">request</span> <span class="o">=</span> <span class="n">UpdateFactory</span><span class="p">.</span><span class="n">create</span><span class="p">(</span><span class="n">sparqlUpdateString</span><span class="p">)</span> <span class="p">;</span>
+     <span class="n">UpdateProcessor</span> <span class="n">proc</span> <span class="o">=</span> <span class="n">UpdateExecutionFactory</span><span class="p">.</span><span class="n">create</span><span class="p">(</span><span class="n">request</span><span class="p">,</span> <span class="n">graphStore</span><span class="p">)</span> <span class="p">;</span>
+     <span class="n">proc</span><span class="p">.</span><span class="n">execute</span><span class="p">()</span> <span class="p">;</span>
+
+     <span class="c1">// Finally, commit the transaction. </span>
+     <span class="n">dataset</span><span class="p">.</span><span class="n">commit</span><span class="p">()</span> <span class="p">;</span>
+     <span class="c1">// Or call .abort()</span>
+    <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> 
+        <span class="n">dataset</span><span class="p">.</span><span class="n">end</span><span class="p">()</span> <span class="p">;</span> 
+    <span class="p">}</span>
+</pre></div>
+
+
+<h2 id="multi-threaded-use">Multi-threaded use</h2>
+<p>Each dataset object has one transaction active at a time. 
+The usual idiom within multi-threaded applications is to have 
+one dataset per thread, and so there is one transaction per thread.</p>
+<p>Thread 1:</p>
+<div class="codehilite"><pre> <span class="n">Dataset</span> <span class="n">dataset</span> <span class="o">=</span> <span class="n">TDBFactory</span><span class="p">.</span><span class="n">createDataset</span><span class="p">(</span><span class="n">location</span><span class="p">)</span> <span class="p">;</span>
+ <span class="n">dataset</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="n">ReadWrite</span><span class="p">.</span><span class="n">WRITE</span><span class="p">)</span> <span class="p">;</span>
+ <span class="n">try</span> <span class="p">{</span>
+   <span class="p">...</span>
+   <span class="n">dataset</span><span class="p">.</span><span class="n">commit</span><span class="p">()</span> <span class="p">;</span>
+ <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> <span class="n">dataset</span><span class="p">.</span><span class="n">end</span><span class="p">()</span> <span class="p">;</span> <span class="p">}</span>
+</pre></div>
+
+
+<p>Thread 2:</p>
+<div class="codehilite"><pre> <span class="n">Dataset</span> <span class="n">dataset</span> <span class="o">=</span> <span class="n">TDBFactory</span><span class="p">.</span><span class="n">createDataset</span><span class="p">(</span><span class="n">location</span><span class="p">)</span> <span class="p">;</span>
+ <span class="n">dataset</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="n">ReadWrite</span><span class="p">.</span><span class="n">READ</span><span class="p">)</span> <span class="p">;</span>
+ <span class="n">try</span> <span class="p">{</span>
+   <span class="p">...</span>
+ <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> <span class="n">dataset</span><span class="p">.</span><span class="n">end</span><span class="p">()</span> <span class="p">;</span> <span class="p">}</span>
+</pre></div>
+
+
+<p>Each thread has a separate <code>dataset</code> object; these safely share the 
+same storage but have independent transactions.</p>
+<p>While it is possible to share a transaction between multiple
+threads, this is not encouraged.  Applications needing to do so must
+ensure that only one thread starts the transaction, via a <code>Dataset</code> object,
+and that all threads are acting "multiple reader OR single writer". </p>
+<h2 id="multi-jvm">Multi JVM</h2>
+<p>Multiple applications, running in multiple JVMs, using the same
+file databases is not supported. There must be a single JVM
+controlling the database directory and files.</p>
+<p>Use <a href="../serving_data/">Fuseki</a> to provide a
+database server for multiple applications. Fuseki supports 
+<a href="http://www.w3.org/TR/sparql11-query/">SPARQL Query</a>,
+<a href="http://www.w3.org/TR/sparql11-update/">SPARQL Update</a> and the
+<a href="http://www.w3.org/TR/sparql11-http-rdf-update/">SPARQL Graph Store protocol</a>.</p>
+<h2 id="bulk-loading">Bulk loading</h2>
+<p>The bulk loader is not transactional.</p>
+<h2 id="migration-from-tdb-08x">Migration from TDB 0.8.X</h2>
+<p>The database files used by TDB 0.9.0 are fully compatible with TDB
+0.8.X; there are no file format changes and application code using
+the interface provided by <code>TDBFactory</code> will continue to work as
+before, without transaction capabilities. The only addition is the
+presence of journal files.</p>
+<p>Transactions use a new API: the <code>TDBFactory</code> API is still present.
+If an application simply uses the TDB 0.9 codebase, it will work as
+before without transactions.</p>
+<p>Applications can start using transaction by coding to the new API.</p>
+<h2 id="reverting-to-tdb-08x">Reverting to TDB 0.8.X</h2>
+<p>A database can be reverted to TDB 0.8.X by running <code>tdb.tdbrecover</code>
+- this program recovers any committed transaction with pending
+actions. The database can then be used with TDB 0.8.X.</p>
+  </div>
+
+  <div id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2011&ndash;2013 The Apache Software Foundation, Licensed under
+        the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br />
+        Apache Jena, Jena, the Apache Jena project logo,
+        Apache and the Apache feather logos are trademarks of The Apache Software Foundation.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>
