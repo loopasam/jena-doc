@@ -1,0 +1,408 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE- 2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+  <link href="/css/jena.css" rel="stylesheet" type="text/css">
+
+  <title>Apache Jena - SDB JavaAPI</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+  <script src="/js/jena-navigation.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <div id="header">
+    <div id="logoblock">
+    <img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
+    </div>
+
+    <div id="titleblock">
+      <h1 class="title">Apache Jena</h1>
+      <div id="topmenu" class="tabbar round-10">
+        <ul>
+        <li class="round-top-8"><a class="round-top-8" href="/index.html" id="home_menu">Home</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/help_and_support/index.html">Support</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/getting_started/index.html">Getting started</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/tutorials/index.html">Tutorials</a></li>
+        <li class="round-top-8"><a class="round-top-8" href="/documentation/index.html">Documentation</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="navigation" class="clear">
+  <h1 id="quick-links">Quick links</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/download/index.html">Downloads</a></li>
+<li><a href="/help_and_support/index.html">Help and support</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Report a bug</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/getting_involved/index.html">Getting involved</a></li>
+<li><a href="/documentation/">Documentation</a></li>
+</ul>
+<h1 id="about-jena">About Jena</h1>
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="/about_jena/about.html">About Jena</a></li>
+<li><a href="/about_jena/architecture.html">Architecture</a></li>
+<li><a href="/about_jena/roadmap.html">Roadmap</a></li>
+<li><a href="/about_jena/team.html">Project team</a></li>
+<li><a href="/about_jena/contributions.html">Related projects</a></li>
+</ul>
+<h1 id="download">Download</h1>
+<ul>
+<li><a href="/download/index.html">Downloading Jena</a></li>
+<li><a href="/download/maven.html">Using Maven</a></li>
+<li><a href="/download/osgi.html">Using OSGi</a></li>
+</ul>
+<h1 id="help-and-support">Help and support</h1>
+<ul>
+<li><a href="/help_and_support/index.html">Getting help</a></li>
+<li><a href="/help_and_support/bugs_and_suggestions.html">Bugs and suggestions</a></li>
+</ul>
+<h1 id="getting-started">Getting Started</h1>
+<ul>
+<li><a href="/getting_started/index.html">A first Jena project</a></li>
+<li><a href="/getting_started/rdf_api.html">RDF API overview</a></li>
+<li><a href="/getting_started/sparql.html">Querying RDF with SPARQL</a></li>
+<li><a href="/getting_started/fuseki.html">Serving RDF over HTTP</a></li>
+<li><a href="/getting_started/tell_me_how.html">Tell me how to ...</a></li>
+</ul>
+<h1 id="tutorials">Tutorials</h1>
+<ul>
+<li><a href="/tutorials/index.html">Tutorials index</a></li>
+<li><a href="/tutorials/rdf_api.html">RDF tutorial</a></li>
+<li><a href="/tutorials/sparql.html">SPARQL queries</a></li>
+<li><a href="/tutorials/using_jena_with_eclipse.html">Using Jena with Eclipse</a></li>
+</ul>
+<h1 id="documentation">Documentation</h1>
+<ul>
+<li><a href="/documentation/index.html">Overview</a></li>
+<li><a href="/documentation/javadoc/">Javadoc</a></li>
+<li><a href="/documentation/rdf/index.html">RDF</a></li>
+<li><a href="/documentation/io/index.html">I/O</a></li>
+<li><a href="/documentation/query/index.html">SPARQL (ARQ)</a><ul>
+<li><a href="/documentation/query/app_api.html">Application API</a></li>
+<li><a href="/documentation/query/cmds.html">Command line utilities</a></li>
+</ul>
+</li>
+<li><a href="/documentation/query/text-query.html">Text Search</a></li>
+<li><a href="/documentation/tdb/index.html">TDB</a><ul>
+<li><a href="/documentation/tdb/tdb_transactions.html">API for Transactions</a></li>
+<li><a href="/documentation/tdb/assembler.html">Dataset Assembler</a></li>
+</ul>
+</li>
+<li><a href="/documentation/serving_data/index.html">Fuseki: Serving Data</a></li>
+<li><a href="/documentation/ontology/index.html">Ontology</a></li>
+<li><a href="/documentation/inference/index.html">Inference</a></li>
+<li><a href="/documentation/assembler/index.html">Assembler</a><ul>
+<li><a href="/documentation/assembler/assembler-howto.html">Assembler how-to</a></li>
+<li><a href="/documentation/assembler/inside-assemblers.html">Inside assemblers</a></li>
+</ul>
+</li>
+<li><a href="/documentation/sdb/index.html">SDB</a></li>
+<li><a href="/documentation/notes/index.html">Notes</a><ul>
+<li><a href="/documentation/notes/concurrency-howto.html">Concurrency how-to</a></li>
+<li><a href="/documentation/notes/event-handler-howto.html">Event handler how-to</a></li>
+<li><a href="/documentation/notes/file-manager.html">File manager how-to</a></li>
+<li><a href="/documentation/notes/model-factory.html">Model factory how-to</a></li>
+<li><a href="/documentation/notes/rdf-frames.html">RDF frames</a></li>
+<li><a href="/documentation/notes/reification.html">Reification how-to</a></li>
+<li><a href="/documentation/notes/typed-literals.html">Typed literals how-to</a></li>
+<li><a href="/documentation/notes/iri.html">Support for IRI's</a></li>
+<li><a href="/documentation/notes/sse.html">SSE</a></li>
+</ul>
+</li>
+<li><a href="/documentation/tools/index.html">Tools</a><ul>
+<li><a href="/documentation/tools/schemagen.html">schemagen</a></li>
+<li><a href="/documentation/tools/eyeball-getting-started.html">eyeball</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="getting-involved">Getting Involved</h1>
+<ul>
+<li><a href="/getting_involved/index.html">Contributing to Jena</a><ul>
+<li><a href="/getting_involved/reviewing_contributions.html">Reviewing Contributions</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="asf-links">ASF links</h1>
+<ul>
+<li><a href="http://www.apache.org">Apache Software Foundation</a></li>
+<li><a href="http://www.apache.org/licenses/LICENSE-2.0">License</a></li>
+<li><a href="http://www.apache.org/foundation/thanks.html">Thanks</a></li>
+<li><a href="http://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+<li><a href="http://www.apache.org/security/">Security</a></li>
+</ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">SDB JavaAPI</h1>
+    <p>This page describes how to use SDB from Java.</p>
+<p>Code examples are in <code>src-examples/</code> in the SDB distribution.</p>
+<h2 id="contents">Contents</h2>
+<ul>
+<li><a href="#concepts">Concepts</a></li>
+<li><a href="#obtaining-the-store">Obtaining the Store</a><ul>
+<li><a href="#from-a-configuration-file">From a configuration file</a></li>
+<li><a href="#in-java-code">In Java code</a></li>
+<li><a href="#database-user-and-password">Database User and Password</a></li>
+</ul>
+</li>
+<li><a href="#connection-management">Connection Management</a></li>
+<li><a href="#formatting-or-emptying-the-store">Formatting or Emptying the Store</a></li>
+<li><a href="#loading-data">Loading data</a></li>
+<li><a href="#executing-queries">Executing Queries</a></li>
+<li><a href="#using-the-jena-model-api-with-sdb">Using the Jena Model API with SDB</a></li>
+</ul>
+<h2 id="concepts">Concepts</h2>
+<ul>
+<li><code>Store</code></li>
+<li><code>SDBFactory</code></li>
+<li><code>SDBConnection</code></li>
+</ul>
+<p>SDB loads and queries data based on the unit of a <code>Store</code>. The
+<code>Store</code> object has all the information for formatting, loading and
+accessing an SDB database. One database or table space is one
+Store. <code>Store</code> objects are made via the static method of the
+<code>StoreFactory</code> class.</p>
+<p><code>SDBConnection</code> wraps the underlying database connection, as well
+as providing logging operations.</p>
+<ul>
+<li><code>StoreDesc</code></li>
+</ul>
+<p>A store description is the low level mechanism for describing
+stores to be created.</p>
+<ul>
+<li><code>DatasetStore</code></li>
+<li><code>GraphSDB</code></li>
+</ul>
+<p>Two further class are not immediately visible because they are
+managed by the <code>SDBFactory</code> which creates the necessary classes,
+such as Jena models and graphs.</p>
+<p>An object of class <code>DatasetStore</code> represents an
+<a href="http://www.w3.org/TR/sparql11-query/#rdfDataset" title="http://www.w3.org/TR/rdf-sparql-query/#rdfDataset">RDF dataset</a>
+backed by an SDB store. Objects of this class trigger SPARQL
+queries being sent to SDB.</p>
+<p>The class <code>GraphSDB</code> provides the adapter between the standard Jena
+Java API and an SDB store, either to the default graph or one of
+the named graphs. The <code>SDBFactory</code> can also create Jena Models
+backed by such a graph.</p>
+<h2 id="obtaining-the-store">Obtaining the Store</h2>
+<p>A store is build from a description. This can be a description in
+file as a
+<a href="../assembler">Jena assembler</a>
+or the application can build the store description
+programmatically.</p>
+<h3 id="from-a-configuration-file">From a configuration file</h3>
+<p>The stored description is the only point where the specific details
+of store are given. This includes connection information, the
+database name, and database type. It makes sense to place this
+outside the code. That way, the application can be switched between
+different databases (e.g. testing and production) by changing a
+configuration file, and not the code, which would require
+recompilation and a rebuild.</p>
+<p>To create a <code>Store</code> from a store assembler</p>
+<div class="codehilite"><pre>  <span class="n">Store</span> <span class="n">store</span> <span class="o">=</span> <span class="n">SDBFactory</span><span class="p">.</span><span class="n">connectStore</span><span class="p">(</span><span class="s">&quot;sdb.ttl&quot;</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+</pre></div>
+
+
+<p>The assembler file has two parts, the connection details and the
+store type.</p>
+<div class="codehilite"><pre> <span class="err">@</span><span class="n">prefix</span> <span class="n">rdfs</span><span class="o">:</span>     <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//www.w3.org/2000/01/rdf-schema#&gt; .</span>
+ <span class="err">@</span><span class="n">prefix</span> <span class="n">rdf</span><span class="o">:</span>      <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//www.w3.org/1999/02/22-rdf-syntax-ns#&gt; .</span>
+ <span class="err">@</span><span class="n">prefix</span> <span class="n">ja</span><span class="o">:</span>       <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//jena.hpl.hp.com/2005/11/Assembler#&gt; .</span>
+ <span class="err">@</span><span class="n">prefix</span> <span class="n">sdb</span><span class="o">:</span>      <span class="o">&lt;</span><span class="n">http</span><span class="o">:</span><span class="c1">//jena.hpl.hp.com/2007/sdb#&gt; .</span>
+
+ <span class="nl">_:</span><span class="n">c</span> <span class="n">rdf</span><span class="o">:</span><span class="n">type</span> <span class="n">sdb</span><span class="o">:</span><span class="n">SDBConnection</span><span class="err"> </span><span class="p">;</span>
+     <span class="nl">sdb:</span><span class="n">sdbType</span>        <span class="s">&quot;derby&quot;</span><span class="err"> </span><span class="p">;</span>
+     <span class="nl">sdb:</span><span class="n">sdbName</span>        <span class="s">&quot;DB/SDB2&quot;</span><span class="err"> </span><span class="p">;</span>
+     <span class="nl">sdb:</span><span class="n">driver</span>         <span class="s">&quot;org.apache.derby.jdbc.EmbeddedDriver&quot;</span><span class="err"> </span><span class="p">;</span>
+     <span class="p">.</span>
+
+ <span class="p">[]</span> <span class="n">rdf</span><span class="o">:</span><span class="n">type</span> <span class="n">sdb</span><span class="o">:</span><span class="n">Store</span><span class="err"> </span><span class="p">;</span>
+     <span class="nl">sdb:</span><span class="n">layout</span>         <span class="s">&quot;layout2&quot;</span><span class="err"> </span><span class="p">;</span>
+     <span class="nl">sdb:</span><span class="n">connection</span>     <span class="n">_</span><span class="o">:</span><span class="n">c</span><span class="err"> </span><span class="p">;</span>
+    <span class="p">.</span>
+</pre></div>
+
+
+<p>See the full details of
+<a href="store_description.html" title="SDB/Store Description">store description files</a>
+for the options.</p>
+<h3 id="in-java-code">In Java code</h3>
+<p>The less flexible way to create a store description is to build it
+in Java. For example:</p>
+<div class="codehilite"><pre>   <span class="n">StoreDesc</span> <span class="n">storeDesc</span> <span class="o">=</span> <span class="n">new</span> <span class="n">StoreDesc</span><span class="p">(</span><span class="n">LayoutType</span><span class="p">.</span><span class="n">LayoutTripleNodesHash</span><span class="p">,</span>
+                                       <span class="n">DatabaseType</span><span class="p">.</span><span class="n">Derby</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+   <span class="n">JDBC</span><span class="p">.</span><span class="n">loadDriverDerby</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+   <span class="n">String</span> <span class="n">jdbcURL</span> <span class="o">=</span> <span class="s">&quot;jdbc:derby:DB/SDB2&quot;</span><span class="p">;</span>
+   <span class="n">SDBConnection</span> <span class="n">conn</span> <span class="o">=</span> <span class="n">new</span> <span class="n">SDBConnection</span><span class="p">(</span><span class="n">jdbcURL</span><span class="p">,</span> <span class="n">null</span><span class="p">,</span> <span class="n">null</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+   <span class="n">Store</span> <span class="n">store</span> <span class="o">=</span> <span class="n">SDBFactory</span><span class="p">.</span><span class="n">connectStore</span><span class="p">(</span><span class="n">conn</span><span class="p">,</span> <span class="n">storeDesc</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+</pre></div>
+
+
+<h3 id="database-user-and-password">Database User and Password</h3>
+<p>The user and password for the database can be set in explicitly in
+the description file but it is usually better to use an environment
+variable or Java system property because this avoid writing use and
+password in a file.</p>
+<p>Environment variable: <code>SDB_USER</code>
+Java property: <code>jena.db.user</code></p>
+<p>Environment variable: <code>SDB_PASSWORD</code>
+Java property: <code>jena.db.password</code></p>
+<h2 id="connection-management">Connection Management</h2>
+<p>Each store has a JDBC connection associated with it.</p>
+<p>In situations where such connections are managed externally, the
+store object can be created and used within a single operation.</p>
+<p>A <code>Store</code> is lightweight and does not perform any database actions
+when created, so creating and releasing them will not impact
+performance. Closing a store does not close the JDBC connection.</p>
+<p>Similarly, a <code>SDBConnection</code> is lightweight and creation does not
+result in any database or JDBC connection actions.</p>
+<p>The store description can be read from the same file because any
+SDB connection information is ignored when reading to get just the
+store description. The store description can be kept across store
+creations:</p>
+<div class="codehilite"><pre>  <span class="n">storeDesc</span> <span class="o">=</span> <span class="n">StoreDesc</span><span class="p">.</span><span class="n">read</span><span class="p">(</span><span class="s">&quot;sdb.ttl&quot;</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+</pre></div>
+
+
+<p>then used with an JDBC connection object passed from the connection
+container:</p>
+<div class="codehilite"><pre>    <span class="n">public</span> <span class="k">static</span> <span class="kt">void</span> <span class="nf">query</span><span class="p">(</span><span class="n">String</span> <span class="n">queryString</span><span class="p">,</span>
+                             <span class="n">StoreDesc</span> <span class="n">storeDesc</span><span class="p">,</span>
+                             <span class="n">Connection</span> <span class="n">jdbcConnection</span><span class="p">)</span>
+    <span class="p">{</span>
+        <span class="n">Query</span> <span class="n">query</span> <span class="o">=</span> <span class="n">QueryFactory</span><span class="p">.</span><span class="n">create</span><span class="p">(</span><span class="n">queryString</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+
+        <span class="n">SDBConnection</span> <span class="n">conn</span> <span class="o">=</span> <span class="n">SDBFactory</span><span class="p">.</span><span class="n">createConnection</span><span class="p">(</span><span class="n">jdbcConnection</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+
+        <span class="n">Store</span> <span class="n">store</span> <span class="o">=</span> <span class="n">SDBFactory</span><span class="p">.</span><span class="n">connectStore</span><span class="p">(</span><span class="n">conn</span><span class="p">,</span> <span class="n">storeDesc</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+
+        <span class="n">Dataset</span> <span class="n">ds</span> <span class="o">=</span> <span class="n">SDBFactory</span><span class="p">.</span><span class="n">connectDataset</span><span class="p">(</span><span class="n">store</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+        <span class="n">QueryExecution</span> <span class="n">qe</span> <span class="o">=</span> <span class="n">QueryExecutionFactory</span><span class="p">.</span><span class="n">create</span><span class="p">(</span><span class="n">query</span><span class="p">,</span> <span class="n">ds</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+        <span class="n">try</span> <span class="p">{</span>
+            <span class="n">ResultSet</span> <span class="n">rs</span> <span class="o">=</span> <span class="n">qe</span><span class="p">.</span><span class="n">execSelect</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+            <span class="n">ResultSetFormatter</span><span class="p">.</span><span class="n">out</span><span class="p">(</span><span class="n">rs</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+        <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> <span class="n">qe</span><span class="p">.</span><span class="n">close</span><span class="p">()</span><span class="err"> </span><span class="p">;</span> <span class="p">}</span>
+        <span class="n">store</span><span class="p">.</span><span class="n">close</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+    <span class="p">}</span>
+</pre></div>
+
+
+<h2 id="formatting-or-emptying-the-store">Formatting or Emptying the Store</h2>
+<p>SDB stores do not ensure that the database is formatted. You can
+check whether the store is already formatted using:</p>
+<div class="codehilite"><pre><span class="n">StoreUtils</span><span class="p">.</span><span class="n">isFormatted</span><span class="p">(</span><span class="n">store</span><span class="p">);</span>
+</pre></div>
+
+
+<p>This is an expensive operation, and should be used sparingly.</p>
+<p>Once you obtain a store for the first time you will need to:</p>
+<div class="codehilite"><pre><span class="n">store</span><span class="p">.</span><span class="n">getTableFormatter</span><span class="p">().</span><span class="n">create</span><span class="p">();</span>
+</pre></div>
+
+
+<p>This will create the necessary tables and indexes required for a
+full SDB store.</p>
+<p>You may empty the store completely using:</p>
+<div class="codehilite"><pre><span class="n">store</span><span class="p">.</span><span class="n">getTableFormatter</span><span class="p">().</span><span class="n">truncate</span><span class="p">();</span>
+</pre></div>
+
+
+<h2 id="loading-data">Loading data</h2>
+<p>Data loading uses the standard Jena <code>Model.read</code> operations.
+<code>GraphSDB</code>, and models made from a <code>GraphSDB</code>, implement the
+standard Jena bulk data interface with backed by an SBD
+implementation of that interface.</p>
+<h2 id="executing-queries">Executing Queries</h2>
+<p>The interface to making queries with SDB is same as that for
+<a href="../query/app_api.html">querying with ARQ</a>.
+SDB is an ARQ query engine that can handle queries made on an RDF
+dataset which is of the SDB class <code>DatasetStore</code>:</p>
+<div class="codehilite"><pre>   <span class="n">Dataset</span> <span class="n">ds</span> <span class="o">=</span> <span class="n">DatasetStore</span><span class="p">.</span><span class="n">create</span><span class="p">(</span><span class="n">store</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+</pre></div>
+
+
+<p>This is then used as normal with ARQ:</p>
+<div class="codehilite"><pre>   <span class="n">Dataset</span> <span class="n">ds</span> <span class="o">=</span> <span class="n">DatasetStore</span><span class="p">.</span><span class="n">create</span><span class="p">(</span><span class="n">store</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+   <span class="n">QueryExecution</span> <span class="n">qe</span> <span class="o">=</span> <span class="n">QueryExecutionFactory</span><span class="p">.</span><span class="n">create</span><span class="p">(</span><span class="n">query</span><span class="p">,</span> <span class="n">ds</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+   <span class="n">try</span> <span class="p">{</span>
+       <span class="n">ResultSet</span> <span class="n">rs</span> <span class="o">=</span> <span class="n">qe</span><span class="p">.</span><span class="n">execSelect</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+       <span class="n">ResultSetFormatter</span><span class="p">.</span><span class="n">out</span><span class="p">(</span><span class="n">rs</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+   <span class="p">}</span> <span class="n">finally</span> <span class="p">{</span> <span class="n">qe</span><span class="p">.</span><span class="n">close</span><span class="p">()</span><span class="err"> </span><span class="p">;</span> <span class="p">}</span>
+</pre></div>
+
+
+<p>When finished, the store should be closed to release any resources
+associated with the particular implementation. Closing a store does
+<em>not</em> close it's JDBC connection.</p>
+<div class="codehilite"><pre>   <span class="n">store</span><span class="p">.</span><span class="n">close</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+</pre></div>
+
+
+<p>Closing the SDBConnection <em>does</em> close the JDBC connection:</p>
+<div class="codehilite"><pre>   <span class="n">store</span><span class="p">.</span><span class="n">getConnection</span><span class="p">().</span><span class="n">close</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+   <span class="n">store</span><span class="p">.</span><span class="n">close</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+</pre></div>
+
+
+<p>If models or graphs backed by SDB are placed in a general Dataset
+then the query is not efficiently executed by SDB.</p>
+<h2 id="using-the-jena-model-api-with-sdb">Using the Jena Model API with SDB</h2>
+<p>A Jena model can be connected to one graph in the store and used
+with all the Jena API operations.</p>
+<p>Here, the graph for the model is the the default graph:</p>
+<div class="codehilite"><pre>    <span class="n">Store</span> <span class="n">store</span> <span class="o">=</span> <span class="n">SDBFactory</span><span class="p">.</span><span class="n">connectStore</span><span class="p">(</span><span class="s">&quot;sdb.ttl&quot;</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+    <span class="n">Model</span> <span class="n">model</span> <span class="o">=</span> <span class="n">SDBFactory</span><span class="p">.</span><span class="n">connectDefaultModel</span><span class="p">(</span><span class="n">store</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+
+    <span class="n">StmtIterator</span> <span class="n">sIter</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">listStatements</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+    <span class="k">for</span> <span class="p">(</span><span class="err"> </span><span class="p">;</span> <span class="n">sIter</span><span class="p">.</span><span class="n">hasNext</span><span class="p">()</span><span class="err"> </span><span class="p">;</span> <span class="p">)</span>
+    <span class="p">{</span>
+        <span class="n">Statement</span> <span class="n">stmt</span> <span class="o">=</span> <span class="n">sIter</span><span class="p">.</span><span class="n">nextStatement</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+        <span class="n">System</span><span class="p">.</span><span class="n">out</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">stmt</span><span class="p">)</span><span class="err"> </span><span class="p">;</span>
+    <span class="p">}</span>
+    <span class="n">sIter</span><span class="p">.</span><span class="n">close</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+    <span class="n">store</span><span class="p">.</span><span class="n">close</span><span class="p">()</span><span class="err"> </span><span class="p">;</span>
+</pre></div>
+
+
+<p>SDB is optimized for SPARQL queries but queries and other Jena API
+operations can be mixed. The results from a SPARQL query are Jena
+RDFNodes, with the associated model having a graph implemented by
+SDB.</p>
+  </div>
+
+  <div id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2011&ndash;2013 The Apache Software Foundation, Licensed under
+        the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br />
+        Apache Jena, Jena, the Apache Jena project logo,
+        Apache and the Apache feather logos are trademarks of The Apache Software Foundation.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>

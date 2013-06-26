@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/infra/!svn/ver/782734/websites/cms/build/lib/Dotiac/DTL/Tag
+END
+ifnotequal.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/ifnotequal.pm
+END
+templatetag.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/templatetag.pm
+END
+ifchanged.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/ifchanged.pm
+END
+extends.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/extends.pm
+END
+with.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/with.pm
+END
+firstof.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/firstof.pm
+END
+widthratio.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/widthratio.pm
+END
+load.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/infra/!svn/ver/782734/websites/cms/build/lib/Dotiac/DTL/Tag/load.pm
+END
+spaceless.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/spaceless.pm
+END
+include.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/include.pm
+END
+regroup.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/regroup.pm
+END
+filter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/filter.pm
+END
+ifequal.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/ifequal.pm
+END
+for.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/for.pm
+END
+debug.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/debug.pm
+END
+autoescape.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/autoescape.pm
+END
+block.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/block.pm
+END
+if.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/if.pm
+END
+ssi.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/ssi.pm
+END
+cycle.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/cycle.pm
+END
+comment.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/comment.pm
+END
+url.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/url.pm
+END
+now.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/infra/!svn/ver/778387/websites/cms/build/lib/Dotiac/DTL/Tag/now.pm
+END

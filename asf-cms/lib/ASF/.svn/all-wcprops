@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/infra/!svn/ver/863866/websites/cms/build/lib/ASF
+END
+View.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/infra/!svn/ver/824890/websites/cms/build/lib/ASF/View.pm
+END
+Value.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/infra/!svn/ver/798652/websites/cms/build/lib/ASF/Value.pm
+END
+Util.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/infra/!svn/ver/822817/websites/cms/build/lib/ASF/Util.pm
+END
+SVNUtil.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/infra/!svn/ver/815220/websites/cms/build/lib/ASF/SVNUtil.pm
+END
