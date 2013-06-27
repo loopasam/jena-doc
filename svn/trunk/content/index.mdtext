@@ -7,13 +7,13 @@
 
 <div class="row-fluid">
 <div class="span4">
-	<h2>RDF interface</h2>
-		<h3><a href="#">RDF API</a></h3>
+	<h2>RDF</h2>
+		<h3><a href="#">RDF-API</a></h3>
 		<p>Interact with the API to create and read RDF triples.</p>
-		<h3><a href="#">Ontology API</a></h3>
-		<p>Work with models and OWL ontologies to add more semantics to your data.</p>
-		<h3><a href="#">Inference API</a></h3>
-		<p>Configure your own inference rules and expand the content of your triple store.</p>
+		<h3><a href="#">SPARQL</a></h3>
+		<p>ARQ is a SPARQL 1.1 compliant query engine.</p>
+		<h3><a href="#">Fuseki</a></h3>
+		<p>Expose your data as an end-point over HTTP</p>
 </div>
 
 <div class="span4">
@@ -25,11 +25,11 @@
 </div>
 
 <div class="span4">
-	<h2>Server and Queries</h2>
-		<h3><a href="#">Fuseki</a></h3>
-		<p>Expose your data as an end-point over HTTP</p>
-		<h3><a href="#">ARQ</a></h3>
-		<p>A powerful SPARQL 1.1 compliant query engine.</p>
+	<h2>OWL</h2>
+		<h3><a href="#">Ontology API</a></h3>
+		<p>Work with models and OWL ontologies to add more semantics to your data.</p>
+		<h3><a href="#">Inference API</a></h3>
+		<p>Configure your own inference rules and expand the content of your triple store.</p>
 </div>
 
 </div>
