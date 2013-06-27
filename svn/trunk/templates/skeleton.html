@@ -19,44 +19,63 @@
     limitations under the License.
 -->
 
-  <link href="/css/jena.css" rel="stylesheet" type="text/css">
+  <link href="/css/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="/css/bootstrap-extension.css" rel="stylesheet" type="text/css">
 
   <title>Apache Jena - {% block title %}{{ headers.title }}{% endblock %}</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
   <script src="/js/jena-navigation.js" type="text/javascript"></script>
+  <script src="/js/bootstrap.min.js"></script>
 </head>
 
 <body>
-  <div id="header">
-    <div id="logoblock">
-    <img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
-    </div>
-
-    <div id="titleblock">
-      <h1 class="title">Apache Jena</h1>
-      <div id="topmenu" class="tabbar round-10">
-        <ul>
-        <li class="round-top-8"><a class="round-top-8" href="/index.html" id="home_menu">Home</a></li>
-        <li class="round-top-8"><a class="round-top-8" href="/help_and_support/index.html">Support</a></li>
-        <li class="round-top-8"><a class="round-top-8" href="/getting_started/index.html">Getting started</a></li>
-        <li class="round-top-8"><a class="round-top-8" href="/tutorials/index.html">Tutorials</a></li>
-        <li class="round-top-8"><a class="round-top-8" href="/documentation/index.html">Documentation</a></li>
-        </ul>
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+        <a class="brand" href="/index.html" style="padding-top: 6px; padding-bottom: 0px;">
+            <img class="logo-menu" src="/images/jena-logo/jena-logo-notext-small.png">
+          </a>
+          <a class="brand" href="/index.html">Apache Jena</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="/index.html"><i class="icon-home"></i> Home</a></li>
+              <li><a href="/getting_started/index.html"><i class="icon-download-alt"></i> Download</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-book"></i> Learn <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li class="divider"></li>
+                  <li class="nav-header">Reference</li>
+                  <li><a href="/tutorials/rdf_api.html">RDF API</a></li>
+                  <li><a href="/tutorials/sparql.html">SPARQL API</a></li>
+                  <li><a href="/tutorials/sparql.html">Fuseki API</a></li>
+                  <li><a href="/tutorials/sparql.html">I/O</a></li>
+                  <li class="divider"></li>
+                  <li class="nav-header">Tutorial</li>
+                  <li><a href="/tutorials/rdf_api.html">RDF core API tutorial</a></li>
+                  <li><a href="/tutorials/sparql.html">SPARQL tutorial</a></li>
+                  <li><a href="/documentation/query/manipulating_sparql_using_arq.html">Manipulating SPARQL using ARQ</a></li>
+                </ul>
+              </li>
+              <li><a href="/getting_involved/index.html"><i class="icon-question-sign"></i> Ask</a></li>
+              <li><a href="/getting_involved/index.html"><i class="icon-bullhorn"></i> Get involved</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
       </div>
     </div>
-  </div>
 
-  <div id="navigation" class="clear">
-  {% filter markdown %}{% include "sidenav.mdtext" %}{% endfilter %}
-  </div>
 
-  <div id="content">
-    <h1 class="title">{% block title %}{{ headers.title }}{% endblock %}</h1>
-    {% block content %}{{ content|markdown }}{% endblock %}
+<div class="container">
+	<div class="row-fluid">
+	<div class="span12">
+	<h1 class="title">{% block title %}{{ headers.title }}{% endblock %}</h1>
+  {% block content %}{{ content|markdown }}{% endblock %}
   </div>
+</div>
 
-  <div id="footer">
+	<hr>
+    <div id="footer">
     <div class="copyright">
       <p>
         Copyright &copy; 2011&ndash;2013 The Apache Software Foundation, Licensed under
@@ -67,6 +86,9 @@
       </p>
     </div>
   </div>
+      
+      
+</div><!--/.container -->
 
 </body>
 </html>

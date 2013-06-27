@@ -1,35 +1,38 @@
-Title: Test test
+<div class="hero-unit">
+<img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
+<h1>Apache Jena</h1>
+<p class="lead">A Java framework for building Linked Data and Semantic Web applications.</p>
+<p><a href="#" class="centered btn btn-primary btn-large">Get started »</a></p>
+</div><!-- end hero unit -->
 
-Welcome to the Apache Jena project!
-Apache Jena&trade; is a Java framework for building Semantic Web applications.
-Jena provides a collection of tools and Java libraries to help you
-to develop [semantic web](http://www.w3.org/2001/sw/) and
-[linked-data](http://linkeddata.org/) apps, tools and servers.
+<div class="row-fluid">
+<div class="span4">
+	<h2>RDF interface</h2>
+		<h3><a href="#">RDF API</a></h3>
+		<p>Interact with the API to create and read RDF triples.</p>
+		<h3><a href="#">Ontology API</a></h3>
+		<p>Work with models and OWL ontologies to add more semantics to your data.</p>
+		<h3><a href="#">Inference API</a></h3>
+		<p>Configure your own inference rules and expand the content of your triple store.</p>
+</div>
 
-The Jena Framework includes:
+<div class="span4">
+	<h2>Triple store</h2>
+		<h3><a href="#">TDB API</a></h3>
+		<p>A native and efficient triple store to persist your data.</p>
+		<h3><a href="#">SBD</a></h3>
+		<p>Save your triples inside a tradional relational databases.</p>
+</div>
 
-* an API for reading, processing and writing [RDF](http://www.w3.org/RDF/) data in XML, N-triples and Turtle formats;
-* an ontology API for handling [OWL](http://www.w3.org/standards/techs/owl#w3c_all) and RDFS ontologies;
-* a rule-based inference engine for reasoning with RDF and OWL data sources;
-* stores to allow large numbers of RDF triples to be efficiently stored on disk;
-* a query engine compliant with the latest [SPARQL](http://www.w3.org/standards/semanticweb/query) specification
-* servers to allow RDF data to be published to other applications using a variety
-of protocols, including SPARQL
+<div class="span4">
+	<h2>Server and Queries</h2>
+		<h3><a href="#">Fuseki</a></h3>
+		<p>Expose your data as an end-point over HTTP</p>
+		<h3><a href="#">ARQ</a></h3>
+		<p>A powerful SPARQL 1.1 compliant query engine.</p>
+</div>
 
-In April 2012, Jena graduated from the Apache incubator process and
-was approved as a top-level Apache project.
+</div>
 
-## Quick shortcuts
-I would like to ...
 
-* ... [download Jena components](/download/index.html)
-* ... [use Jena with Maven](/download/maven.html)
-* ... [find out more about the Jena project](/about_jena/about.html)
-* ... [see who's involved](/about_jena/team.html)
-* ... [follow a tutorial](/tutorials/index.html)
-* ... [see how to get started with Jena](/getting_started/index.html)
-* ... [report a bug](/help_and_support/bugs_and_suggestions.html)
-* ... [get help using Jena](/help_and_support/index.html)
-* ... [read the Javadoc](/documentation/javadoc/)
-* ... [contribute to the project!](/getting_involved/index.html)
-* ... get the [DOAP description of the Jena project in RDF](/about_jena/jena.rdf)
+
