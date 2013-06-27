@@ -2,37 +2,38 @@
 <img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
 <h1>Apache Jena</h1>
 <p class="lead">A Java framework for building Linked Data and Semantic Web applications.</p>
-<p><a href="#" class="centered btn btn-primary btn-large">Get started »</a></p>
+<p><a href="/getting_started/index.html" class="centered btn btn-primary btn-large">Get started »</a></p>
 </div><!-- end hero unit -->
 
 <div class="row-fluid">
 <div class="span4">
 	<h2>RDF</h2>
-		<h3><a href="#">RDF-API</a></h3>
+		<h3><a href="/documentation/rdf/index.html">RDF-API</a></h3>
 		<p>Interact with the API to create and read RDF triples.</p>
-		<h3><a href="#">SPARQL</a></h3>
+		<h3><a href="/documentation/query/index.html">SPARQL</a></h3>
 		<p>ARQ is a SPARQL 1.1 compliant query engine.</p>
-		<h3><a href="#">Fuseki</a></h3>
+		<h3><a href="/documentation/serving_data/index.html">Fuseki</a></h3>
 		<p>Expose your data as an end-point over HTTP</p>
 </div>
 
 <div class="span4">
 	<h2>Triple store</h2>
-		<h3><a href="#">TDB API</a></h3>
+		<h3><a href="/documentation/tdb/index.html">TDB API</a></h3>
 		<p>A native and efficient triple store to persist your data.</p>
-		<h3><a href="#">SBD</a></h3>
+		<h3><a href="/documentation/sdb/index.html">SBD</a></h3>
 		<p>Save your triples inside a tradional relational databases.</p>
 </div>
 
 <div class="span4">
 	<h2>OWL</h2>
-		<h3><a href="#">Ontology API</a></h3>
+		<h3><a href="/documentation/ontology/">Ontology API</a></h3>
 		<p>Work with models and OWL ontologies to add more semantics to your data.</p>
-		<h3><a href="#">Inference API</a></h3>
+		<h3><a href="/documentation/inference/index.html">Inference API</a></h3>
 		<p>Configure your own inference rules and expand the content of your triple store.</p>
 </div>
 
 </div>
 
-
-
+<script type="text/javascript">
+	document.getElementById("homepage").setAttribute("class", "active");
+</script>
