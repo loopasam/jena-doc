@@ -8,28 +8,28 @@
 <div class="row-fluid">
 <div class="span4">
 	<h2>RDF</h2>
-		<h3><a href="/documentation/rdf/index.html">RDF-API</a></h3>
-		<p>Interact with the API to create and read RDF triples.</p>
-		<h3><a href="/documentation/query/index.html">SPARQL</a></h3>
-		<p>ARQ is a SPARQL 1.1 compliant query engine.</p>
-		<h3><a href="/documentation/serving_data/index.html">Fuseki</a></h3>
-		<p>Expose your data as an end-point over HTTP</p>
+		<h3><a href="/documentation/rdf/index.html">RDF API</a></h3>
+		<p>Interact with the core API to create and read Resource Description Framework (RDF) graphs. Serialise your triples using popular formats such as RDF/XML or Turtle.</p>
+		<h3><a href="/documentation/query/index.html">ARQ SPARQL</a></h3>
+		<p>Query your RDF data using ARQ, a SPARQL 1.1 compliant engine. ARQ supports remote federated queries and free text search.</p>
 </div>
 
 <div class="span4">
 	<h2>Triple store</h2>
 		<h3><a href="/documentation/tdb/index.html">TDB API</a></h3>
-		<p>A native and efficient triple store to persist your data.</p>
-		<h3><a href="/documentation/sdb/index.html">SBD</a></h3>
-		<p>Save your triples inside a tradional relational databases.</p>
+		<p>Persist your data using TDB, a native high performance triple store. TDB supports the full range of Jena APIs.</p>
+		<h3><a href="/documentation/sdb/index.html">SBD API</a></h3>
+		<p>Save your RDF data over a traditional SQL database. Many relational databases are supported, both Open Source and proprietary.</p>
+		<h3><a href="/documentation/serving_data/index.html">Fuseki API</a></h3>
+		<p>Expose your triples as a SPARQL end-point accessible over HTTP. Fuseki provides REST-style interaction with your RDF data.</p>
 </div>
 
 <div class="span4">
 	<h2>OWL</h2>
 		<h3><a href="/documentation/ontology/">Ontology API</a></h3>
-		<p>Work with models and OWL ontologies to add more semantics to your data.</p>
+		<p>Work with models, RDFS and the Web Ontology Language (OWL) to add extra semantics to your RDF data.</p>
 		<h3><a href="/documentation/inference/index.html">Inference API</a></h3>
-		<p>Configure your own inference rules and expand the content of your triple store.</p>
+		<p>Reason over your data to expand and check the content of your triple store. Configure your own inference rules or use the built-in OWL and RDFS reasoners.</p>
 </div>
 
 </div>
