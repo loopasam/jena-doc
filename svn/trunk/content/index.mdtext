@@ -1,7 +1,7 @@
 <div class="hero-unit">
 <img alt="Apache Jena" src="/images/jena-logo/jena-logo-small.png"/>
 <h1>Apache Jena</h1>
-<p class="lead">A Java framework for building Linked Data and Semantic Web applications.</p>
+<p class="lead">An open source Java framework for building Linked Data and Semantic Web applications.</p>
 <p><a href="/getting_started/index.html" class="centered btn btn-primary btn-large">Get started »</a></p>
 </div><!-- end hero unit -->
 
