@@ -8,7 +8,7 @@ perl build_site.pl --source-base=../svn/trunk/ --target-base ../
 cd ../
 cd content/
 # Set the path right for github site
-# TODO: do that for the images too
+grep -rl --include="*.html" 'src="/' . | xargs sed -i 's/src=\"\//src=\"\/jena-doc\//g'
 grep -rl --include="*.html" 'href="/' . | xargs sed -i 's/href=\"\//href=\"\/jena-doc\//g'
 cd ..
 cp -R content/* $1
