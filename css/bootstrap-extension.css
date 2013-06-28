@@ -1,0 +1,24 @@
+.logo-menu {
+	height: 25px;
+}
+
+body {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+.hero-unit {
+	text-align: center;
+}
+
+.overview {
+	text-align: center;
+}
+
+.overview-feature {
+	background-color: #1a80b9;
+}
+
+.overview-feature h3 {
+	color: #fff;
+}
