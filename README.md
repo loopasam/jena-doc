@@ -1,4 +1,4 @@
-# Scripts for experiences on Jena documentation and website
+# Scripts for experiments on Jena documentation and website
 
 ## Checking out the current branch from source
 
