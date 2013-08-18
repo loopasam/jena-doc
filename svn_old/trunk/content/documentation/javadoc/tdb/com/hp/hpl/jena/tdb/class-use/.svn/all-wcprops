@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/com/hp/hpl/jena/tdb/class-use
+END
+TDBException.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/com/hp/hpl/jena/tdb/class-use/TDBException.html
+END
+TDB.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/com/hp/hpl/jena/tdb/class-use/TDB.html
+END
+StoreConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/com/hp/hpl/jena/tdb/class-use/StoreConnection.html
+END
+TDBBackup.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/com/hp/hpl/jena/tdb/class-use/TDBBackup.html
+END
+TDBLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/com/hp/hpl/jena/tdb/class-use/TDBLoader.html
+END
+TDBFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/com/hp/hpl/jena/tdb/class-use/TDBFactory.html
+END

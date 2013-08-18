@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use
+END
+TransformPropertyFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformPropertyFunction.html
+END
+TransformPathFlattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformPathFlattern.html
+END
+TransformSimplify.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformSimplify.html
+END
+Optimize.RewriterFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/Optimize.RewriterFactory.html
+END
+TransformFilterDisjunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformFilterDisjunction.html
+END
+TransformFilterConjunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformFilterConjunction.html
+END
+TransformScopeRename.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformScopeRename.html
+END
+TransformReorder.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformReorder.html
+END
+TransformFilterEquality.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformFilterEquality.html
+END
+Optimize.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/Optimize.html
+END
+TransformExpandOneOf.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformExpandOneOf.html
+END
+TransformPathFlatternStd.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformPathFlatternStd.html
+END
+TransformMergeBGPs.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformMergeBGPs.html
+END
+TransformOrderByDistinctAppplication.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformOrderByDistinctAppplication.html
+END
+TransformFilterPlacement.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformFilterPlacement.html
+END
+TransformPattern2Join.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformPattern2Join.html
+END
+TransformDistinctToReduced.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformDistinctToReduced.html
+END
+OpVisitorExprPrepare.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/OpVisitorExprPrepare.html
+END
+ExprTransformApplyTransform.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/ExprTransformApplyTransform.html
+END
+TransformRemoveLabels.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformRemoveLabels.html
+END
+TransformTopN.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformTopN.html
+END
+TransformJoinStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/TransformJoinStrategy.html
+END
+Rewrite.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/Rewrite.html
+END
+ExprVisitorApplyVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/optimize/class-use/ExprVisitorApplyVisitor.html
+END

@@ -45,3 +45,11 @@ Modifications are done on under `svn/trunk/`. Should be good to be merged with t
     git add -u .
     git commit -m 'new version of the site'
     git push origin gh-pages
+    
+### Creating a patch
+
+    # From http://ariejan.net/2007/07/03/how-to-create-and-apply-a-patch-with-subversion/
+    cd svn/
+    svn diff > ~/fix_ugly_bug.diff
+
+Can look at http://stackoverflow.com/questions/159853/subversion-diff-including-new-files and http://stackoverflow.com/questions/4248768/including-new-files-in-svn-diff in case of problems.

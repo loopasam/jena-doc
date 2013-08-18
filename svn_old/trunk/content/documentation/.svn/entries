@@ -1,0 +1,101 @@
+10
+
+dir
+1515238
+http://svn.apache.org/repos/asf/jena/site/trunk/content/documentation
+http://svn.apache.org/repos/asf
+
+
+
+2013-08-08T19:58:34.830355Z
+1512007
+rvesse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+ontology
+dir
+
+rdf
+dir
+
+index.mdtext
+file
+
+
+
+
+2013-08-18T22:57:19.161217Z
+7131b9cdfefa7c2c6748d58d6af4afd6
+2013-06-18T18:56:27.089102Z
+1494258
+rvesse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1501
+
+assembler
+dir
+
+inference
+dir
+
+larq
+dir
+
+tools
+dir
+
+query
+dir
+
+serving_data
+dir
+
+io
+dir
+
+javadoc
+dir
+
+notes
+dir
+
+sdb
+dir
+
+tdb
+dir
+

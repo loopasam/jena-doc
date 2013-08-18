@@ -1,0 +1,86 @@
+Title: Getting involved in Apache Jena
+
+We welcome your contribution towards making Jena a better platform for semantic web and linked data applications.
+We appreciate feature suggestions, bug reports and patches for code or documentation.
+
+If you need help using Jena: please see our [getting help](../help_and_support) page.
+
+### How to contribute
+
+You can help us sending your suggestions, feature requests and bug reports (as well as patches) using the Jena issue tracker:
+[https://issues.apache.org/jira/browse/JENA](https://issues.apache.org/jira/browse/JENA).
+
+You can discuss your contribution, before or after adding it to Jira, on the [`dev@jena.apache.org`](mailto:dev@jena.apache.org) mailing list.
+Or, you can help other users answering to their question on the [`users@jena.apache.org`](mailto:users@jena.apache.org) mailing list.
+Subscription instructions [here](../help_and_support).
+
+Please see the [Reviewing Contributions](reviewing_contributions.html) page for details of what committers will be looking for when reviewing contributions.
+
+You can also help us improve the documentation on this website by making use of the Apache CMS which drives the website.  Please see [I'm not a committer on $project, which uses the CMS.  Can I still use the
+CMS?](http://www.apache.org/dev/cmsref#non-committer) for guidance on how to do this.  This process allows you to suggest improvements to the project website as patches (because everything at Apache lives in SVN) and helps the wider community. Contributions to documentation are always welcome and considered just as valuable as code contributions.
+
+### SNAPSHOTs
+
+If you use Apache Maven and you are not afraid of being on the bleeding-edge, you can help us testing our SNAPSHOTs which you can find on the Apache Maven repository here: [https://repository.apache.org/content/repositories/snapshots/org/apache/jena/](https://repository.apache.org/content/repositories/snapshots/org/apache/jena/).
+
+Here is, for example, how you can add TDB version 0.9.1-SNAPSHOT to your project:
+
+    <dependency>
+        <groupId>org.apache.jena</groupId>
+        <artifactId>jena-tdb</artifactId>
+        <version>0.9.1-SNAPSHOT</version>
+    </dependency>
+
+General help on how to use Jena with Maven is [here](../download/maven.html).
+
+If you have problems with any of our SNAPSHOTs, let us know.
+
+You can also check the state of each Jena module on our continuous integration server: [https://builds.apache.org/view/G-L/view/Jena/](https://builds.apache.org/view/G-L/view/Jena/).
+
+### Subversion repository
+
+You can find the Jena source code in the Apache subversion repository: [http://svn.apache.org/repos/asf/jena/trunk/](http://svn.apache.org/repos/asf/jena/trunk/).
+
+    svn co https://svn.apache.org/repos/asf/jena/trunk/ Jena
+    cd Jena
+    mvn clean install
+
+### Open issues
+
+You can find a list of the [open issues](https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+JENA+AND+status+%3D+Open+ORDER+BY+priority+DESC&mode=hide) on JIRA (sorted by priority) or the [popular issues](https://issues.apache.org/jira/browse/JENA#selectedTab=com.atlassian.jira.plugin.system.project%3Apopularissues-panel) (sorted by votes).
+Or, you can look at the [last week activity](https://issues.apache.org/jira/secure/QuickSearch.jspa?searchString=jena+updated:-1w) to get a sense of what people are working on.
+
+### Submit your patches
+
+Patches should be attached to issues in Jira (click on `More Actions > Attach Files`).
+To create a patch you can simply use the command:
+
+    svn diff > JENA-XYZ.patch
+
+Please, inspect your patch and make sure it includes all (and only) the relevant changes for a single issue. Don't forget tests!
+If you want to test if a patch applies cleanly you can use:
+
+    patch -p0 < JENA-XYZ.patch
+
+If you use Eclipse: right click on the project name in `Package Explorer`, select `Team > Create Patch` or `Team > Apply Patch`.
+
+### Git access to the Jena source code
+
+If you're more familiar with Git, you can use the Jena Git **read-only** mirrors
+listed at [git.apache.org/](http://git.apache.org/).
+
+Please note that git commits cannot be directly pulled back into the main
+svn repository. If you would like to contribute changes back to the Jena codebase, then please
+follow [this workflow](http://www.apache.org/dev/git.html#workflow).
+
+### IRC channel
+
+Some Jena developers hang out on #jena on irc.freenode.net.
+
+### How Apache Software Foundation works
+
+To better understand how to get involved and how the Apache Software Foundation works we recommend you read:
+
+ * [http://www.apache.org/foundation/getinvolved.html](http://www.apache.org/foundation/getinvolved.html)
+ * [http://www.apache.org/foundation/how-it-works.html](http://www.apache.org/foundation/how-it-works.html)
+ * [http://www.apache.org/dev/contributors.html](http://www.apache.org/dev/contributors.html)

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1426981/jena/site/trunk/content/documentation/assembler
+END
+index.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/assembler/index.mdtext
+END
+inside-assemblers.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/assembler/inside-assemblers.mdtext
+END
+assembler-howto.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1426981/jena/site/trunk/content/documentation/assembler/assembler-howto.mdtext
+END
+assembler.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1426981/jena/site/trunk/content/documentation/assembler/assembler.ttl
+END
+examples.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1426981/jena/site/trunk/content/documentation/assembler/examples.ttl
+END

@@ -1,0 +1,10 @@
+Title: ARQ Downloads
+
+For details on downloading ARQ, please see the Jena [downloads page](/download/).
+
+## Subversion
+
+Access to the live development version, including a complete
+Eclipse project, is available [via SVN](https://svn.apache.org/repos/asf/jena/trunk/jena-arq/)
+
+[ARQ documentation index](index.html)
