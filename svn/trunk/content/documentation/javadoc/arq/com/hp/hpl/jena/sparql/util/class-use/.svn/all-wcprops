@@ -3,6 +3,36 @@ svn:wc:ra_dav:version-url
 V 115
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use
 END
+ModelUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/ModelUtils.html
+END
+Named.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Named.html
+END
+Version.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Version.html
+END
+QueryUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/QueryUtils.html
+END
+LabelToNodeMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/LabelToNodeMap.html
+END
 StringUtils.html
 K 25
 svn:wc:ra_dav:version-url
@@ -51,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 146
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/PropertyRequiredException.html
 END
-NotUniqueException.html
-K 25
-svn:wc:ra_dav:version-url
-V 139
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/NotUniqueException.html
-END
 Loader.html
 K 25
 svn:wc:ra_dav:version-url
 V 127
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Loader.html
+END
+NotUniqueException.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/NotUniqueException.html
 END
 TranslationTable.html
 K 25
@@ -69,17 +99,17 @@ svn:wc:ra_dav:version-url
 V 137
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/TranslationTable.html
 END
-QueryOutputUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 137
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/QueryOutputUtils.html
-END
 FmtUtils.html
 K 25
 svn:wc:ra_dav:version-url
 V 129
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/FmtUtils.html
+END
+QueryOutputUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/QueryOutputUtils.html
 END
 VarUtils.html
 K 25
@@ -93,12 +123,6 @@ svn:wc:ra_dav:version-url
 V 135
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/ResultSetUtils.html
 END
-Closure.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Closure.html
-END
 RefBoolean.html
 K 25
 svn:wc:ra_dav:version-url
@@ -111,11 +135,11 @@ svn:wc:ra_dav:version-url
 V 132
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/ClosureTest.html
 END
-NodeIsomorphismMap.html
+Closure.html
 K 25
 svn:wc:ra_dav:version-url
-V 139
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/NodeIsomorphismMap.html
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Closure.html
 END
 NodeComparator.html
 K 25
@@ -123,23 +147,29 @@ svn:wc:ra_dav:version-url
 V 135
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/NodeComparator.html
 END
+NodeIsomorphismMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/NodeIsomorphismMap.html
+END
 PrintSerializableBase.html
 K 25
 svn:wc:ra_dav:version-url
 V 142
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/PrintSerializableBase.html
 END
-Convert.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Convert.html
-END
 Timer.html
 K 25
 svn:wc:ra_dav:version-url
 V 126
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Timer.html
+END
+Convert.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Convert.html
 END
 NodeFactoryExtra.html
 K 25
@@ -153,17 +183,17 @@ svn:wc:ra_dav:version-url
 V 138
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/PrintSerializable.html
 END
-Context.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Context.html
-END
 MappingRegistry.html
 K 25
 svn:wc:ra_dav:version-url
 V 136
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/MappingRegistry.html
+END
+Context.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Context.html
 END
 NodeToLabelMap.html
 K 25
@@ -219,17 +249,17 @@ svn:wc:ra_dav:version-url
 V 127
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Symbol.html
 END
-DatasetUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 133
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/DatasetUtils.html
-END
 NodeUtils.html
 K 25
 svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/NodeUtils.html
+END
+DatasetUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/DatasetUtils.html
 END
 DateTimeStruct.DateTimeParseException.html
 K 25
@@ -248,34 +278,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 145
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Closure.ClosureReachable.html
-END
-ModelUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/ModelUtils.html
-END
-Named.html
-K 25
-svn:wc:ra_dav:version-url
-V 126
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Named.html
-END
-Version.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/Version.html
-END
-LabelToNodeMap.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/LabelToNodeMap.html
-END
-QueryUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/class-use/QueryUtils.html
 END

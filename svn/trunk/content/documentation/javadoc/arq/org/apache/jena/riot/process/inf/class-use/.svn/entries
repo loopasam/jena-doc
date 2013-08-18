@@ -1,7 +1,7 @@
 10
 
 dir
-1497127
+1515227
 http://svn.apache.org/repos/asf/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/process/inf/class-use
 http://svn.apache.org/repos/asf
 
@@ -26,47 +26,13 @@ andy
 
 13f79535-47bb-0310-9956-ffa450edef68
 
-InferenceProcessorStreamRDF.html
-file
-
-
-
-
-2013-06-26T22:00:10.904994Z
-3fe53dbe9b1a3c4519e5b529ed66da21
-2013-05-15T12:28:35.423717Z
-1482787
-andy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4667
-
 InferenceSetupRDFS.html
 file
 
 
 
 
-2013-06-26T22:00:10.904994Z
+2013-08-18T21:46:35.925323Z
 a55ebc0dc48b6c6bc54734365310dd80
 2013-05-15T12:28:35.423717Z
 1482787
@@ -100,7 +66,7 @@ file
 
 
 
-2013-06-26T22:00:10.904994Z
+2013-08-18T21:46:35.925323Z
 bc86cd5d9e3e328612c6f12d7adc29fc
 2013-05-15T12:28:35.423717Z
 1482787
@@ -127,4 +93,38 @@ andy
 
 
 4480
+
+InferenceProcessorStreamRDF.html
+file
+
+
+
+
+2013-08-18T21:46:35.925323Z
+3fe53dbe9b1a3c4519e5b529ed66da21
+2013-05-15T12:28:35.423717Z
+1482787
+andy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4667
 

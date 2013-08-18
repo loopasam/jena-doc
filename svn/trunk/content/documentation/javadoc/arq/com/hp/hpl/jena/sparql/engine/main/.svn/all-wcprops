@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 112
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main
 END
+StageGeneratorGeneric.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/StageGeneratorGeneric.html
+END
+StageGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/StageGenerator.html
+END
+StageBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/StageBuilder.html
+END
+QueryEngineMainQuad.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/QueryEngineMainQuad.html
+END
 LeftJoinClassifier.html
 K 25
 svn:wc:ra_dav:version-url
@@ -68,28 +92,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 132
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/JoinClassifier.html
-END
-StageGeneratorGeneric.html
-K 25
-svn:wc:ra_dav:version-url
-V 139
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/StageGeneratorGeneric.html
-END
-StageGenerator.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/StageGenerator.html
-END
-StageBuilder.html
-K 25
-svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/StageBuilder.html
-END
-QueryEngineMainQuad.html
-K 25
-svn:wc:ra_dav:version-url
-V 137
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/QueryEngineMainQuad.html
 END

@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 110
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/class-use
 END
+UpdateFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/class-use/UpdateFactory.html
+END
+UpdateRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/class-use/UpdateRequest.html
+END
+UpdateProcessorStreaming.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/class-use/UpdateProcessorStreaming.html
+END
 GraphStore.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,22 +62,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 133
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/class-use/GraphStoreFactory.html
-END
-UpdateFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/class-use/UpdateFactory.html
-END
-UpdateRequest.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/class-use/UpdateRequest.html
-END
-UpdateProcessorStreaming.html
-K 25
-svn:wc:ra_dav:version-url
-V 140
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/update/class-use/UpdateProcessorStreaming.html
 END

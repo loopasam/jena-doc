@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 117
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/class-use
 END
+PlanOp.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/class-use/PlanOp.html
+END
+Plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/class-use/Plan.html
+END
 QueryIterator.html
 K 25
 svn:wc:ra_dav:version-url
@@ -62,16 +74,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 139
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/class-use/ExecutionContext.html
-END
-PlanOp.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/class-use/PlanOp.html
-END
-Plan.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/class-use/Plan.html
 END

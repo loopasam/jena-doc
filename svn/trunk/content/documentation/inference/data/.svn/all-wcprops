@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 80
 /repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/inference/data
 END
-owlDemoSchema.xml
-K 25
-svn:wc:ra_dav:version-url
-V 98
-/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/inference/data/owlDemoSchema.xml
-END
 rdfsDemoData.rdf
 K 25
 svn:wc:ra_dav:version-url
@@ -38,4 +32,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 96
 /repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/inference/data/owlDemoData.xml
+END
+owlDemoSchema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/inference/data/owlDemoSchema.xml
 END

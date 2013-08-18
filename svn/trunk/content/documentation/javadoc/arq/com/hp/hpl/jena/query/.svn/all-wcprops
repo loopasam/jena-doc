@@ -3,71 +3,11 @@ svn:wc:ra_dav:version-url
 V 99
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query
 END
-package-tree.html
-K 25
-svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/package-tree.html
-END
-QueryExecException.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryExecException.html
-END
-ResultSet.html
-K 25
-svn:wc:ra_dav:version-url
-V 114
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/ResultSet.html
-END
-QueryFatalException.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryFatalException.html
-END
-QuerySolutionMap.html
-K 25
-svn:wc:ra_dav:version-url
-V 121
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QuerySolutionMap.html
-END
-DatasetAccessorFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/DatasetAccessorFactory.html
-END
-QuerySolution.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QuerySolution.html
-END
-Query.html
-K 25
-svn:wc:ra_dav:version-url
-V 110
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/Query.html
-END
 DatasetAccessor.html
 K 25
 svn:wc:ra_dav:version-url
 V 120
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/DatasetAccessor.html
-END
-DatasetFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/DatasetFactory.html
-END
-ResultSetFormatter.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/ResultSetFormatter.html
 END
 QueryParseException.html
 K 25
@@ -75,11 +15,23 @@ svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryParseException.html
 END
-Syntax.html
+ResultSetFactory.html
 K 25
 svn:wc:ra_dav:version-url
-V 111
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/Syntax.html
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/ResultSetFactory.html
+END
+QueryException.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryException.html
+END
+QueryVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryVisitor.html
 END
 ReadWrite.html
 K 25
@@ -93,35 +45,35 @@ svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/ResultSetRewindable.html
 END
-BIOInput.html
-K 25
-svn:wc:ra_dav:version-url
-V 113
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/BIOInput.html
-END
-QueryExecution.html
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryExecution.html
-END
-QueryFactory.html
+package-tree.html
 K 25
 svn:wc:ra_dav:version-url
 V 117
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryFactory.html
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/package-tree.html
 END
-LabelExistsException.html
+QueryExecException.html
 K 25
 svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/LabelExistsException.html
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryExecException.html
 END
 SortCondition.html
 K 25
 svn:wc:ra_dav:version-url
 V 118
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/SortCondition.html
+END
+DatasetAccessorFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/DatasetAccessorFactory.html
+END
+QuerySolutionMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QuerySolutionMap.html
 END
 QueryBuildException.html
 K 25
@@ -135,6 +87,18 @@ svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/ParameterizedSparqlString.html
 END
+DatasetFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/DatasetFactory.html
+END
+ResultSetFormatter.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/ResultSetFormatter.html
+END
 QueryCancelledException.html
 K 25
 svn:wc:ra_dav:version-url
@@ -146,12 +110,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 126
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryExecutionFactory.html
-END
-ResultSetFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 121
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/ResultSetFactory.html
 END
 package-frame.html
 K 25
@@ -165,12 +123,6 @@ svn:wc:ra_dav:version-url
 V 108
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/ARQ.html
 END
-QueryException.html
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryException.html
-END
 Dataset.html
 K 25
 svn:wc:ra_dav:version-url
@@ -183,15 +135,63 @@ svn:wc:ra_dav:version-url
 V 116
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/package-use.html
 END
-QueryVisitor.html
+Syntax.html
 K 25
 svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryVisitor.html
+V 111
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/Syntax.html
 END
 package-summary.html
 K 25
 svn:wc:ra_dav:version-url
 V 120
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/package-summary.html
+END
+BIOInput.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/BIOInput.html
+END
+QueryExecution.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryExecution.html
+END
+ResultSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/ResultSet.html
+END
+QueryFatalException.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryFatalException.html
+END
+QueryFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QueryFactory.html
+END
+LabelExistsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/LabelExistsException.html
+END
+QuerySolution.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/QuerySolution.html
+END
+Query.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/query/Query.html
 END

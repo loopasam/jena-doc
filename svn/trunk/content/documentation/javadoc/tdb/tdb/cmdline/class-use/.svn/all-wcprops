@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 99
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/class-use
 END
+CmdSub.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/class-use/CmdSub.html
+END
+CmdTDB.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/class-use/CmdTDB.html
+END
 CmdTDBGraph.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,16 +56,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/class-use/ModTDBGraphStore.html
-END
-CmdSub.html
-K 25
-svn:wc:ra_dav:version-url
-V 111
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/class-use/CmdSub.html
-END
-CmdTDB.html
-K 25
-svn:wc:ra_dav:version-url
-V 111
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/class-use/CmdTDB.html
 END

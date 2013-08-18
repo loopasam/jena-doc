@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 110
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure
 END
+ProcEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/ProcEval.html
+END
+StandardProcedures.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/StandardProcedures.html
+END
+ProcedureEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/ProcedureEval.html
+END
+ProcedureFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/ProcedureFactory.html
+END
 ProcedureRegistry.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,28 +68,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 128
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/package-tree.html
-END
-ProcEval.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/ProcEval.html
-END
-StandardProcedures.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/StandardProcedures.html
-END
-ProcedureEval.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/ProcedureEval.html
-END
-ProcedureFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/ProcedureFactory.html
 END

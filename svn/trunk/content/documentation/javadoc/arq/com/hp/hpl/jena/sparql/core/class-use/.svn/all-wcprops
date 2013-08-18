@@ -3,48 +3,6 @@ svn:wc:ra_dav:version-url
 V 115
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use
 END
-DatasetImpl.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetImpl.html
-END
-DatasetGraphViewGraphs.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphViewGraphs.html
-END
-DatasetGraphTriplesQuads.html
-K 25
-svn:wc:ra_dav:version-url
-V 145
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphTriplesQuads.html
-END
-ResultBinding.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/ResultBinding.html
-END
-QueryCompare.html
-K 25
-svn:wc:ra_dav:version-url
-V 133
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/QueryCompare.html
-END
-TriplePath.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/TriplePath.html
-END
-DatasetChangesCounter.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetChangesCounter.html
-END
 DatasetGraphMonitor.html
 K 25
 svn:wc:ra_dav:version-url
@@ -75,17 +33,17 @@ svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DataBlock.html
 END
-QuadAction.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/QuadAction.html
-END
 Var.html
 K 25
 svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/Var.html
+END
+QuadAction.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/QuadAction.html
 END
 DatasetChangesBatched.html
 K 25
@@ -111,17 +69,17 @@ svn:wc:ra_dav:version-url
 V 137
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphBase.html
 END
-DatasetGraph.html
-K 25
-svn:wc:ra_dav:version-url
-V 133
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraph.html
-END
 PathBlock.html
 K 25
 svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/PathBlock.html
+END
+DatasetGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraph.html
 END
 DatasetGraphWrapper.html
 K 25
@@ -171,17 +129,17 @@ svn:wc:ra_dav:version-url
 V 151
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphFactory.GraphMaker.html
 END
-QueryCheckException.html
-K 25
-svn:wc:ra_dav:version-url
-V 140
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/QueryCheckException.html
-END
 DataFormat.html
 K 25
 svn:wc:ra_dav:version-url
 V 131
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DataFormat.html
+END
+QueryCheckException.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/QueryCheckException.html
 END
 VarExprList.html
 K 25
@@ -201,17 +159,11 @@ svn:wc:ra_dav:version-url
 V 138
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphMaker.html
 END
-DynamicDatasets.DynamicDatasetGraph.html
+DatasetPrefixStorage.html
 K 25
 svn:wc:ra_dav:version-url
-V 156
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DynamicDatasets.DynamicDatasetGraph.html
-END
-DatasetGraphTrackActive.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphTrackActive.html
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetPrefixStorage.html
 END
 QuadPattern.html
 K 25
@@ -219,23 +171,29 @@ svn:wc:ra_dav:version-url
 V 132
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/QuadPattern.html
 END
-DatasetPrefixStorage.html
+DatasetGraphTrackActive.html
 K 25
 svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetPrefixStorage.html
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphTrackActive.html
 END
-ComparisonException.html
+DynamicDatasets.DynamicDatasetGraph.html
 K 25
 svn:wc:ra_dav:version-url
-V 140
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/ComparisonException.html
+V 156
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DynamicDatasets.DynamicDatasetGraph.html
 END
 DatasetDescription.html
 K 25
 svn:wc:ra_dav:version-url
 V 139
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetDescription.html
+END
+ComparisonException.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/ComparisonException.html
 END
 Quad.html
 K 25
@@ -267,17 +225,17 @@ svn:wc:ra_dav:version-url
 V 134
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/Transactional.html
 END
-DatasetGraphBaseFind.html
-K 25
-svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphBaseFind.html
-END
 VarAlloc.html
 K 25
 svn:wc:ra_dav:version-url
 V 129
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/VarAlloc.html
+END
+DatasetGraphBaseFind.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphBaseFind.html
 END
 QueryHashCode.html
 K 25
@@ -285,15 +243,57 @@ svn:wc:ra_dav:version-url
 V 134
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/QueryHashCode.html
 END
+DatasetGraphReadOnly.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphReadOnly.html
+END
 DatasetGraphMap.html
 K 25
 svn:wc:ra_dav:version-url
 V 136
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphMap.html
 END
-DatasetGraphReadOnly.html
+DatasetGraphViewGraphs.html
 K 25
 svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphReadOnly.html
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphViewGraphs.html
+END
+DatasetImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetImpl.html
+END
+DatasetGraphTriplesQuads.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetGraphTriplesQuads.html
+END
+ResultBinding.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/ResultBinding.html
+END
+QueryCompare.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/QueryCompare.html
+END
+TriplePath.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/TriplePath.html
+END
+DatasetChangesCounter.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/class-use/DatasetChangesCounter.html
 END

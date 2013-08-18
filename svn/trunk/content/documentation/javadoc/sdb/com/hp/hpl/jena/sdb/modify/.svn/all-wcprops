@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 104
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/modify
 END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/modify/package-tree.html
+END
 UpdateEngineSDB.html
 K 25
 svn:wc:ra_dav:version-url
@@ -26,10 +32,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 125
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/modify/package-summary.html
-END
-package-tree.html
-K 25
-svn:wc:ra_dav:version-url
-V 122
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/modify/package-tree.html
 END

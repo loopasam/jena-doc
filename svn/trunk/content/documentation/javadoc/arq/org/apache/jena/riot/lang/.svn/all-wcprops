@@ -3,6 +3,78 @@ svn:wc:ra_dav:version-url
 V 103
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang
 END
+StreamRDFCounting.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/StreamRDFCounting.html
+END
+BlankNodeAllocator.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/BlankNodeAllocator.html
+END
+LangRDFXML.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangRDFXML.html
+END
+LangNTriples.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangNTriples.html
+END
+BlankNodeAllocatorHash.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/BlankNodeAllocatorHash.html
+END
+PrintingStreamRDF.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/PrintingStreamRDF.html
+END
+LangTriG.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangTriG.html
+END
+LangRDFJSON.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangRDFJSON.html
+END
+LangEngine.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangEngine.html
+END
+PipedRDFIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/PipedRDFIterator.html
+END
+LangNTuple.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangNTuple.html
+END
+PipedRDFStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/PipedRDFStream.html
+END
 PipedTuplesStream.html
 K 25
 svn:wc:ra_dav:version-url
@@ -21,11 +93,11 @@ svn:wc:ra_dav:version-url
 V 127
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/SinkQuadsToDataset.html
 END
-LangTurtleBase.html
+LangBase.html
 K 25
 svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangTurtleBase.html
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangBase.html
 END
 LangNull.html
 K 25
@@ -33,11 +105,11 @@ svn:wc:ra_dav:version-url
 V 117
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangNull.html
 END
-LangBase.html
+LangTurtleBase.html
 K 25
 svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangBase.html
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangTurtleBase.html
 END
 LangRIOT.html
 K 25
@@ -104,76 +176,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 119
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangNQuads.html
-END
-BlankNodeAllocator.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/BlankNodeAllocator.html
-END
-LangRDFXML.html
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangRDFXML.html
-END
-StreamRDFCounting.html
-K 25
-svn:wc:ra_dav:version-url
-V 126
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/StreamRDFCounting.html
-END
-LangNTriples.html
-K 25
-svn:wc:ra_dav:version-url
-V 121
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangNTriples.html
-END
-BlankNodeAllocatorHash.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/BlankNodeAllocatorHash.html
-END
-PrintingStreamRDF.html
-K 25
-svn:wc:ra_dav:version-url
-V 126
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/PrintingStreamRDF.html
-END
-LangTriG.html
-K 25
-svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangTriG.html
-END
-LangRDFJSON.html
-K 25
-svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangRDFJSON.html
-END
-LangEngine.html
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangEngine.html
-END
-PipedRDFIterator.html
-K 25
-svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/PipedRDFIterator.html
-END
-LangNTuple.html
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/LangNTuple.html
-END
-PipedRDFStream.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/lang/PipedRDFStream.html
 END

@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 114
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/io/parser
 END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/io/parser/package-frame.html
+END
 TokenizerJSON.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,10 +50,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 125
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/io/parser/JSONP.html
-END
-package-frame.html
-K 25
-svn:wc:ra_dav:version-url
-V 133
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/io/parser/package-frame.html
 END

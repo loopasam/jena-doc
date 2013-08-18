@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 117
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use
 END
-SDBConnectionDescAssembler.html
-K 25
-svn:wc:ra_dav:version-url
-V 149
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/SDBConnectionDescAssembler.html
-END
 SDBModelAssembler.html
 K 25
 svn:wc:ra_dav:version-url
@@ -62,4 +56,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 137
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/QueryAssembler.html
+END
+SDBConnectionDescAssembler.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/assembler/class-use/SDBConnectionDescAssembler.html
 END

@@ -3,90 +3,6 @@ svn:wc:ra_dav:version-url
 V 83
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena
 END
-package-tree.html
-K 25
-svn:wc:ra_dav:version-url
-V 101
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/package-tree.html
-END
-schemagen.html
-K 25
-svn:wc:ra_dav:version-url
-V 98
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.html
-END
-schemagen.SchemagenOptions.html
-K 25
-svn:wc:ra_dav:version-url
-V 115
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.SchemagenOptions.html
-END
-schemagen.SchemagenOptions.OPT.html
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.SchemagenOptions.OPT.html
-END
-qtest.html
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/qtest.html
-END
-schemagen.SchemagenException.html
-K 25
-svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.SchemagenException.html
-END
-sparql.html
-K 25
-svn:wc:ra_dav:version-url
-V 95
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/sparql.html
-END
-rdfcat.html
-K 25
-svn:wc:ra_dav:version-url
-V 95
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/rdfcat.html
-END
-schemagen.SchemagenUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 113
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.SchemagenUtils.html
-END
-query.html
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/query.html
-END
-RuleMap.html
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/RuleMap.html
-END
-rdfparse.html
-K 25
-svn:wc:ra_dav:version-url
-V 97
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/rdfparse.html
-END
-rdfcopy.html
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/rdfcopy.html
-END
-schemagen.OptionDefinition.html
-K 25
-svn:wc:ra_dav:version-url
-V 115
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.OptionDefinition.html
-END
 rset.html
 K 25
 svn:wc:ra_dav:version-url
@@ -134,4 +50,88 @@ K 25
 svn:wc:ra_dav:version-url
 V 104
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/package-tree.html
+END
+schemagen.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.html
+END
+schemagen.SchemagenOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.SchemagenOptions.html
+END
+qtest.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/qtest.html
+END
+schemagen.SchemagenOptions.OPT.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.SchemagenOptions.OPT.html
+END
+sparql.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/sparql.html
+END
+schemagen.SchemagenException.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.SchemagenException.html
+END
+rdfcat.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/rdfcat.html
+END
+schemagen.SchemagenUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.SchemagenUtils.html
+END
+RuleMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/RuleMap.html
+END
+query.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/query.html
+END
+rdfcopy.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/rdfcopy.html
+END
+rdfparse.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/rdfparse.html
+END
+schemagen.OptionDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/schemagen.OptionDefinition.html
 END

@@ -33,29 +33,29 @@ svn:wc:ra_dav:version-url
 V 133
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/package-tree.html
 END
-BindingFixed.html
-K 25
-svn:wc:ra_dav:version-url
-V 133
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/BindingFixed.html
-END
 Binding0.html
 K 25
 svn:wc:ra_dav:version-url
 V 129
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/Binding0.html
 END
-Binding1.html
+BindingFixed.html
 K 25
 svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/Binding1.html
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/BindingFixed.html
 END
 BindingUtils.html
 K 25
 svn:wc:ra_dav:version-url
 V 133
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/BindingUtils.html
+END
+Binding1.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/Binding1.html
 END
 BindingProjectBase.html
 K 25
@@ -93,17 +93,17 @@ svn:wc:ra_dav:version-url
 V 132
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/BindingBase.html
 END
-BindingProjectNamed.html
-K 25
-svn:wc:ra_dav:version-url
-V 140
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/BindingProjectNamed.html
-END
 BindingInputStream.html
 K 25
 svn:wc:ra_dav:version-url
 V 139
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/BindingInputStream.html
+END
+BindingProjectNamed.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/binding/BindingProjectNamed.html
 END
 BindingOutputStream.html
 K 25

@@ -3,17 +3,11 @@ svn:wc:ra_dav:version-url
 V 111
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op
 END
-OpFilter.html
+OpAssign.html
 K 25
 svn:wc:ra_dav:version-url
 V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpFilter.html
-END
-OpExtend.html
-K 25
-svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpExtend.html
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpAssign.html
 END
 OpProcedure.html
 K 25
@@ -21,143 +15,11 @@ svn:wc:ra_dav:version-url
 V 128
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpProcedure.html
 END
-package-tree.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/package-tree.html
-END
-OpModifier.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpModifier.html
-END
-Op0.html
-K 25
-svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/Op0.html
-END
-OpTriple.html
-K 25
-svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpTriple.html
-END
-OpService.html
-K 25
-svn:wc:ra_dav:version-url
-V 126
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpService.html
-END
-Op2.html
-K 25
-svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/Op2.html
-END
-OpGraph.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpGraph.html
-END
-OpDiff.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpDiff.html
-END
-OpSequence.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpSequence.html
-END
-OpDatasetNames.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpDatasetNames.html
-END
-OpLeftJoin.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpLeftJoin.html
-END
-OpTopN.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpTopN.html
-END
-OpDistinct.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpDistinct.html
-END
-OpAssign.html
-K 25
-svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpAssign.html
-END
-package-frame.html
-K 25
-svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/package-frame.html
-END
-package-use.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/package-use.html
-END
-OpTable.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpTable.html
-END
-package-summary.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/package-summary.html
-END
-OpQuadPattern.html
-K 25
-svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpQuadPattern.html
-END
-OpUnion.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpUnion.html
-END
-OpDisjunction.html
-K 25
-svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpDisjunction.html
-END
 OpQuad.html
 K 25
 svn:wc:ra_dav:version-url
 V 123
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpQuad.html
-END
-OpMinus.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpMinus.html
 END
 OpPropFunc.html
 K 25
@@ -171,6 +33,120 @@ svn:wc:ra_dav:version-url
 V 123
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpPath.html
 END
+OpJoin.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpJoin.html
+END
+Op0.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/Op0.html
+END
+OpService.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpService.html
+END
+OpGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpGraph.html
+END
+Op2.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/Op2.html
+END
+OpBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpBase.html
+END
+OpNull.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpNull.html
+END
+OpList.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpList.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/package-frame.html
+END
+OpFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpFilter.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/package-summary.html
+END
+OpTable.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpTable.html
+END
+OpExtend.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpExtend.html
+END
+OpUnion.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpUnion.html
+END
+OpQuadPattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpQuadPattern.html
+END
+OpDisjunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpDisjunction.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/package-tree.html
+END
+OpMinus.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpMinus.html
+END
 OpGroup.html
 K 25
 svn:wc:ra_dav:version-url
@@ -183,17 +159,23 @@ svn:wc:ra_dav:version-url
 V 120
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpN.html
 END
-OpJoin.html
+OpModifier.html
 K 25
 svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpJoin.html
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpModifier.html
 END
 OpSlice.html
 K 25
 svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpSlice.html
+END
+OpTriple.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpTriple.html
 END
 Op1.html
 K 25
@@ -219,23 +201,35 @@ svn:wc:ra_dav:version-url
 V 126
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpProject.html
 END
+OpDiff.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpDiff.html
+END
+OpSequence.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpSequence.html
+END
 OpBGP.html
 K 25
 svn:wc:ra_dav:version-url
 V 122
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpBGP.html
 END
-OpNull.html
+OpDatasetNames.html
 K 25
 svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpNull.html
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpDatasetNames.html
 END
-OpBase.html
+OpLeftJoin.html
 K 25
 svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpBase.html
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpLeftJoin.html
 END
 OpReduced.html
 K 25
@@ -249,15 +243,21 @@ svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpOrder.html
 END
-OpList.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpList.html
-END
 OpLabel.html
 K 25
 svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpLabel.html
+END
+OpTopN.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpTopN.html
+END
+OpDistinct.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/algebra/op/OpDistinct.html
 END

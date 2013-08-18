@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 114
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/class-use
 END
-DatatypeFormatException.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/class-use/DatatypeFormatException.html
-END
 BaseDatatype.html
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 131
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/class-use/RDFDatatype.html
+END
+DatatypeFormatException.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/class-use/DatatypeFormatException.html
 END

@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 114
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/class-use
 END
-JsonObject.html
-K 25
-svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/class-use/JsonObject.html
-END
-JsonString.html
-K 25
-svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/class-use/JsonString.html
-END
 JsonNumber.html
 K 25
 svn:wc:ra_dav:version-url
@@ -80,4 +68,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/class-use/JsonAccess.html
+END
+JsonObject.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/class-use/JsonObject.html
+END
+JsonString.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/class-use/JsonString.html
 END

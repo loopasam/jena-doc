@@ -3,6 +3,144 @@ svn:wc:ra_dav:version-url
 V 116
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator
 END
+QueryIterReduced.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterReduced.html
+END
+QueryIteratorLogging.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorLogging.html
+END
+QueryIteratorTiming.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorTiming.html
+END
+QueryIter.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIter.html
+END
+QueryIterConvert.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterConvert.html
+END
+QueryIteratorResultSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorResultSet.html
+END
+QueryIterDefaulting.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterDefaulting.html
+END
+QueryIteratorCaching.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorCaching.html
+END
+QueryIterRoot.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterRoot.html
+END
+QueryIterNullIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterNullIterator.html
+END
+QueryIterPeek.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterPeek.html
+END
+QueryIterSort.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterSort.html
+END
+QueryIterProcedure.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterProcedure.html
+END
+QueryIterAssignVarValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterAssignVarValue.html
+END
+QueryIterExtendByVar.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterExtendByVar.html
+END
+QueryIterDistinguishedVars.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterDistinguishedVars.html
+END
+QueryIter2.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIter2.html
+END
+QueryIterCommonParent.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterCommonParent.html
+END
+QueryIteratorCheck.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorCheck.html
+END
+QueryIterConcat.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterConcat.html
+END
+QueryIterDiff.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterDiff.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/package-frame.html
+END
+QueryIterProcessBinding.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterProcessBinding.html
+END
 package-use.html
 K 25
 svn:wc:ra_dav:version-url
@@ -15,17 +153,17 @@ svn:wc:ra_dav:version-url
 V 137
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/package-summary.html
 END
-QueryIterDistinctReduced.html
-K 25
-svn:wc:ra_dav:version-url
-V 146
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterDistinctReduced.html
-END
 QueryIterTracked.html
 K 25
 svn:wc:ra_dav:version-url
 V 138
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterTracked.html
+END
+QueryIterDistinctReduced.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterDistinctReduced.html
 END
 package-tree.html
 K 25
@@ -75,17 +213,17 @@ svn:wc:ra_dav:version-url
 V 137
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterYieldN.html
 END
-QueryIterRepeatApply.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterRepeatApply.html
-END
 QueryIterConvert.Converter.html
 K 25
 svn:wc:ra_dav:version-url
 V 148
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterConvert.Converter.html
+END
+QueryIterRepeatApply.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterRepeatApply.html
 END
 QueryIterProject2.html
 K 25
@@ -165,153 +303,15 @@ svn:wc:ra_dav:version-url
 V 143
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterPlainWrapper.html
 END
-QueryIterProject.html
-K 25
-svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterProject.html
-END
 QueryIteratorWrapper.html
 K 25
 svn:wc:ra_dav:version-url
 V 142
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorWrapper.html
 END
-QueryIterReduced.html
+QueryIterProject.html
 K 25
 svn:wc:ra_dav:version-url
 V 138
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterReduced.html
-END
-QueryIteratorLogging.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorLogging.html
-END
-QueryIteratorTiming.html
-K 25
-svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorTiming.html
-END
-QueryIter.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIter.html
-END
-QueryIterConvert.html
-K 25
-svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterConvert.html
-END
-QueryIteratorResultSet.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorResultSet.html
-END
-QueryIterDefaulting.html
-K 25
-svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterDefaulting.html
-END
-QueryIteratorCaching.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorCaching.html
-END
-QueryIterRoot.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterRoot.html
-END
-QueryIterPeek.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterPeek.html
-END
-QueryIterNullIterator.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterNullIterator.html
-END
-QueryIterSort.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterSort.html
-END
-QueryIterProcedure.html
-K 25
-svn:wc:ra_dav:version-url
-V 140
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterProcedure.html
-END
-QueryIterAssignVarValue.html
-K 25
-svn:wc:ra_dav:version-url
-V 145
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterAssignVarValue.html
-END
-QueryIterExtendByVar.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterExtendByVar.html
-END
-QueryIterDistinguishedVars.html
-K 25
-svn:wc:ra_dav:version-url
-V 148
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterDistinguishedVars.html
-END
-QueryIter2.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIter2.html
-END
-QueryIterCommonParent.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterCommonParent.html
-END
-QueryIteratorCheck.html
-K 25
-svn:wc:ra_dav:version-url
-V 140
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIteratorCheck.html
-END
-QueryIterConcat.html
-K 25
-svn:wc:ra_dav:version-url
-V 137
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterConcat.html
-END
-QueryIterDiff.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterDiff.html
-END
-QueryIterProcessBinding.html
-K 25
-svn:wc:ra_dav:version-url
-V 145
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterProcessBinding.html
-END
-package-frame.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/package-frame.html
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/iterator/QueryIterProject.html
 END

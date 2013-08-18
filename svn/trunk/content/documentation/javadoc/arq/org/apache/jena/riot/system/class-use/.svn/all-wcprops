@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 115
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use
 END
-IRIResolver.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/IRIResolver.html
-END
 JenaWriterBase.html
 K 25
 svn:wc:ra_dav:version-url
@@ -20,18 +14,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 133
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapStd.html
-END
-ParserProfileBase.html
-K 25
-svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/ParserProfileBase.html
-END
-PrefixMapUnmodifiable.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapUnmodifiable.html
 END
 IO_JenaReaders.html
 K 25
@@ -45,23 +27,11 @@ svn:wc:ra_dav:version-url
 V 127
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/IRILib.html
 END
-PrefixMapExtended.html
+ErrorHandlerFactory.html
 K 25
 svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapExtended.html
-END
-ParserProfile.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/ParserProfile.html
-END
-StreamRDFBase.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/StreamRDFBase.html
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/ErrorHandlerFactory.html
 END
 IO_JenaWriters.html
 K 25
@@ -69,17 +39,23 @@ svn:wc:ra_dav:version-url
 V 135
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/IO_JenaWriters.html
 END
-StreamRDF.html
+PrefixMapBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapBase.html
+END
+PrefixMapNull.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapNull.html
+END
+PrefixMap.html
 K 25
 svn:wc:ra_dav:version-url
 V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/StreamRDF.html
-END
-FastAbbreviatingPrefixMap.html
-K 25
-svn:wc:ra_dav:version-url
-V 146
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/FastAbbreviatingPrefixMap.html
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMap.html
 END
 Prologue.html
 K 25
@@ -93,12 +69,6 @@ svn:wc:ra_dav:version-url
 V 137
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapWrapper.html
 END
-RiotChars.html
-K 25
-svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/RiotChars.html
-END
 ParserProfileChecker.html
 K 25
 svn:wc:ra_dav:version-url
@@ -111,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 133
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/MapWithScope.html
 END
-RiotLib.html
+IRIResolver.html
 K 25
 svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/RiotLib.html
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/IRIResolver.html
 END
-Checker.html
+ParserProfileBase.html
 K 25
 svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/Checker.html
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/ParserProfileBase.html
 END
 SyntaxLabels.html
 K 25
@@ -129,17 +99,29 @@ svn:wc:ra_dav:version-url
 V 133
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/SyntaxLabels.html
 END
+PrefixMapUnmodifiable.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapUnmodifiable.html
+END
+PrefixMapExtended.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapExtended.html
+END
+ParserProfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/ParserProfile.html
+END
 StreamRDFLib.html
 K 25
 svn:wc:ra_dav:version-url
 V 133
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/StreamRDFLib.html
-END
-ErrorHandlerFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 140
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/ErrorHandlerFactory.html
 END
 MapWithScope.Allocator.html
 K 25
@@ -147,29 +129,35 @@ svn:wc:ra_dav:version-url
 V 143
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/MapWithScope.Allocator.html
 END
+StreamRDFBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/StreamRDFBase.html
+END
 PrefixMapFactory.html
 K 25
 svn:wc:ra_dav:version-url
 V 137
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapFactory.html
 END
-PrefixMapNull.html
+StreamRDF.html
 K 25
 svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapNull.html
-END
-PrefixMapBase.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMapBase.html
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/StreamRDF.html
 END
 ErrorHandler.html
 K 25
 svn:wc:ra_dav:version-url
 V 133
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/ErrorHandler.html
+END
+FastAbbreviatingPrefixMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/FastAbbreviatingPrefixMap.html
 END
 StreamRDFWrapper.html
 K 25
@@ -183,9 +171,21 @@ svn:wc:ra_dav:version-url
 V 145
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/MapWithScope.ScopePolicy.html
 END
-PrefixMap.html
+RiotChars.html
 K 25
 svn:wc:ra_dav:version-url
 V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/PrefixMap.html
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/RiotChars.html
+END
+Checker.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/Checker.html
+END
+RiotLib.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/system/class-use/RiotLib.html
 END

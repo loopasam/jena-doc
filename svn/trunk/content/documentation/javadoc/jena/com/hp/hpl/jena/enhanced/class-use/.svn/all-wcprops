@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 113
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/enhanced/class-use
 END
+PersonalityConfigException.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/enhanced/class-use/PersonalityConfigException.html
+END
+NodePersonality.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/enhanced/class-use/NodePersonality.html
+END
+EnhNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/enhanced/class-use/EnhNode.html
+END
+AlreadyLinkedViewException.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/enhanced/class-use/AlreadyLinkedViewException.html
+END
 Implementation.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,28 +68,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 127
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/enhanced/class-use/EnhGraph.html
-END
-PersonalityConfigException.html
-K 25
-svn:wc:ra_dav:version-url
-V 145
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/enhanced/class-use/PersonalityConfigException.html
-END
-NodePersonality.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/enhanced/class-use/NodePersonality.html
-END
-EnhNode.html
-K 25
-svn:wc:ra_dav:version-url
-V 126
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/enhanced/class-use/EnhNode.html
-END
-AlreadyLinkedViewException.html
-K 25
-svn:wc:ra_dav:version-url
-V 145
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/enhanced/class-use/AlreadyLinkedViewException.html
 END

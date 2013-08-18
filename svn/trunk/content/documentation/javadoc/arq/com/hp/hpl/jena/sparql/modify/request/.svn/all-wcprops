@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 115
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request
 END
+UpdateData.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateData.html
+END
+UpdateCopy.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateCopy.html
+END
+UpdateDropClear.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateDropClear.html
+END
 UpdateWriter.html
 K 25
 svn:wc:ra_dav:version-url
@@ -75,17 +93,17 @@ svn:wc:ra_dav:version-url
 V 132
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateClear.html
 END
-UpdateDeleteInsert.html
-K 25
-svn:wc:ra_dav:version-url
-V 139
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateDeleteInsert.html
-END
 UpdateModify.html
 K 25
 svn:wc:ra_dav:version-url
 V 133
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateModify.html
+END
+UpdateDeleteInsert.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateDeleteInsert.html
 END
 UpdateAdd.html
 K 25
@@ -147,33 +165,15 @@ svn:wc:ra_dav:version-url
 V 131
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateDrop.html
 END
-UpdateDataWriter.html
-K 25
-svn:wc:ra_dav:version-url
-V 137
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateDataWriter.html
-END
 UpdateMove.html
 K 25
 svn:wc:ra_dav:version-url
 V 131
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateMove.html
 END
-UpdateData.html
+UpdateDataWriter.html
 K 25
 svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateData.html
-END
-UpdateCopy.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateCopy.html
-END
-UpdateDropClear.html
-K 25
-svn:wc:ra_dav:version-url
-V 136
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateDropClear.html
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/modify/request/UpdateDataWriter.html
 END

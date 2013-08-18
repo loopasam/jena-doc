@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 118
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/class-use
 END
+PolyadicPrefixMappingImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/class-use/PolyadicPrefixMappingImpl.html
+END
 MultiUnion.html
 K 25
 svn:wc:ra_dav:version-url
@@ -62,10 +68,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 162
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/class-use/MultiUnion.MultiUnionStatisticsHandler.html
-END
-PolyadicPrefixMappingImpl.html
-K 25
-svn:wc:ra_dav:version-url
-V 149
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/graph/compose/class-use/PolyadicPrefixMappingImpl.html
 END

@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/iterator
 END
+QueryIterUnion.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/iterator/QueryIterUnion.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/iterator/package-frame.html
+END
+QueryIterJoinBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/iterator/QueryIterJoinBase.html
+END
+QueryIterLeftJoin.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/iterator/QueryIterLeftJoin.html
+END
 package-use.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,28 +68,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 141
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/iterator/QueryIterGraph.html
-END
-QueryIterUnion.html
-K 25
-svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/iterator/QueryIterUnion.html
-END
-package-frame.html
-K 25
-svn:wc:ra_dav:version-url
-V 140
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/iterator/package-frame.html
-END
-QueryIterJoinBase.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/iterator/QueryIterJoinBase.html
-END
-QueryIterLeftJoin.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/main/iterator/QueryIterLeftJoin.html
 END

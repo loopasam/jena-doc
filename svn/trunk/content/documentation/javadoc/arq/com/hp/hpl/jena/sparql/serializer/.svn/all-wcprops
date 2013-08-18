@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 111
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/serializer
 END
+FormatterElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/serializer/FormatterElement.html
+END
 FormatterBase.html
 K 25
 svn:wc:ra_dav:version-url
@@ -74,10 +80,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 127
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/serializer/Serializer.html
-END
-FormatterElement.html
-K 25
-svn:wc:ra_dav:version-url
-V 133
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/serializer/FormatterElement.html
 END

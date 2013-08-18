@@ -1,7 +1,7 @@
 10
 
 dir
-1497127
+1515227
 http://svn.apache.org/repos/asf/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/compiler/rewrite/class-use
 http://svn.apache.org/repos/asf
 
@@ -26,81 +26,13 @@ andy
 
 13f79535-47bb-0310-9956-ffa450edef68
 
-QuadBlockRewrite.html
-file
-
-
-
-
-2013-06-26T22:00:22.000994Z
-0d16be81a874e0fe2dc83a0e61b8d723
-2013-05-30T13:11:44.336730Z
-1487848
-andy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7115
-
-QBR_SubType.html
-file
-
-
-
-
-2013-06-26T22:00:22.000994Z
-b1d013c1260e6b20f666a8baf36063bf
-2013-05-30T13:11:44.336730Z
-1487848
-andy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4634
-
 QBR_SubProperty.html
 file
 
 
 
 
-2013-06-26T22:00:22.000994Z
+2013-08-18T21:46:23.093323Z
 56a53824c5384b79f268ff02fb96ac68
 2013-05-30T13:11:44.336730Z
 1487848
@@ -134,7 +66,7 @@ file
 
 
 
-2013-06-26T22:00:22.000994Z
+2013-08-18T21:46:23.097323Z
 187f92af67d1d59b9d0b25e5e3a28382
 2013-05-30T13:11:44.336730Z
 1487848
@@ -161,4 +93,72 @@ andy
 
 
 4777
+
+QuadBlockRewrite.html
+file
+
+
+
+
+2013-08-18T21:46:23.097323Z
+0d16be81a874e0fe2dc83a0e61b8d723
+2013-05-30T13:11:44.336730Z
+1487848
+andy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7115
+
+QBR_SubType.html
+file
+
+
+
+
+2013-08-18T21:46:23.093323Z
+b1d013c1260e6b20f666a8baf36063bf
+2013-05-30T13:11:44.336730Z
+1487848
+andy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4634
 

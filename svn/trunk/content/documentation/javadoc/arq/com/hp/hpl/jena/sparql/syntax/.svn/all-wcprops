@@ -3,17 +3,41 @@ svn:wc:ra_dav:version-url
 V 107
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax
 END
-package-frame.html
+ElementTriplesBlock.html
 K 25
 svn:wc:ra_dav:version-url
-V 126
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/package-frame.html
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementTriplesBlock.html
+END
+PatternVars.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/PatternVars.html
+END
+ElementVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementVisitor.html
+END
+Element1.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/Element1.html
 END
 ElementData.html
 K 25
 svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementData.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/package-frame.html
 END
 package-use.html
 K 25
@@ -33,11 +57,11 @@ svn:wc:ra_dav:version-url
 V 125
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/package-tree.html
 END
-Element.html
+ElementSubQuery.html
 K 25
 svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/Element.html
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementSubQuery.html
 END
 ElementExists.html
 K 25
@@ -45,11 +69,11 @@ svn:wc:ra_dav:version-url
 V 126
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementExists.html
 END
-ElementSubQuery.html
+Element.html
 K 25
 svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementSubQuery.html
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/Element.html
 END
 ElementFilter.html
 K 25
@@ -69,17 +93,17 @@ svn:wc:ra_dav:version-url
 V 128
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/TripleCollector.html
 END
-ElementNotExists.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementNotExists.html
-END
 ElementService.html
 K 25
 svn:wc:ra_dav:version-url
 V 127
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementService.html
+END
+ElementNotExists.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementNotExists.html
 END
 Template.html
 K 25
@@ -129,11 +153,11 @@ svn:wc:ra_dav:version-url
 V 126
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementAssign.html
 END
-TripleCollectorBGP.html
+ElementOptional.html
 K 25
 svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/TripleCollectorBGP.html
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementOptional.html
 END
 ElementWalker.html
 K 25
@@ -141,11 +165,11 @@ svn:wc:ra_dav:version-url
 V 126
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementWalker.html
 END
-ElementOptional.html
+TripleCollectorBGP.html
 K 25
 svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementOptional.html
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/TripleCollectorBGP.html
 END
 PatternVars.WalkerSkipMinus.html
 K 25
@@ -182,28 +206,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 125
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementGroup.html
-END
-ElementTriplesBlock.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementTriplesBlock.html
-END
-PatternVars.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/PatternVars.html
-END
-ElementVisitor.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/ElementVisitor.html
-END
-Element1.html
-K 25
-svn:wc:ra_dav:version-url
-V 121
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/syntax/Element1.html
 END

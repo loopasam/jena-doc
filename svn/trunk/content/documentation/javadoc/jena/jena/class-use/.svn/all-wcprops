@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 93
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/class-use
 END
-rset.html
-K 25
-svn:wc:ra_dav:version-url
-V 103
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/class-use/rset.html
-END
-turtle.html
-K 25
-svn:wc:ra_dav:version-url
-V 105
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/class-use/turtle.html
-END
 schemagen.SchemagenOptionsImpl.html
 K 25
 svn:wc:ra_dav:version-url
@@ -110,4 +98,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 125
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/class-use/schemagen.OptionDefinition.html
+END
+rset.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/class-use/rset.html
+END
+turtle.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/jena/class-use/turtle.html
 END

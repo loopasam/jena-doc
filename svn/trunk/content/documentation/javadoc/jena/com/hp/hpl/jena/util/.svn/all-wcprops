@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 99
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/util
 END
+URIref.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/util/URIref.html
+END
 FileUtils.html
 K 25
 svn:wc:ra_dav:version-url
@@ -51,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 123
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/util/OneToManyMap.Entry.html
 END
-MonitorModel.html
-K 25
-svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/util/MonitorModel.html
-END
 ResourceUtils.html
 K 25
 svn:wc:ra_dav:version-url
 V 118
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/util/ResourceUtils.html
+END
+MonitorModel.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/util/MonitorModel.html
 END
 MonitorGraph.html
 K 25
@@ -152,10 +158,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 114
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/util/PrintUtil.html
-END
-URIref.html
-K 25
-svn:wc:ra_dav:version-url
-V 111
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/util/URIref.html
 END

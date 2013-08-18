@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 114
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/assembler/class-use
 END
+RuleSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/assembler/class-use/RuleSet.html
+END
 Mode.html
 K 25
 svn:wc:ra_dav:version-url
@@ -50,10 +56,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 129
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/assembler/class-use/Assembler.html
-END
-RuleSet.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/assembler/class-use/RuleSet.html
 END

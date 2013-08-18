@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 85
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/cmd
 END
+ModStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/cmd/ModStore.html
+END
+ModGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/cmd/ModGraph.html
+END
+ModLogSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/cmd/ModLogSQL.html
+END
+ModDatasetStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/cmd/ModDatasetStore.html
+END
 package-frame.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,28 +68,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 98
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/cmd/ModData.html
-END
-ModStore.html
-K 25
-svn:wc:ra_dav:version-url
-V 99
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/cmd/ModStore.html
-END
-ModGraph.html
-K 25
-svn:wc:ra_dav:version-url
-V 99
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/cmd/ModGraph.html
-END
-ModLogSQL.html
-K 25
-svn:wc:ra_dav:version-url
-V 100
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/cmd/ModLogSQL.html
-END
-ModDatasetStore.html
-K 25
-svn:wc:ra_dav:version-url
-V 106
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/cmd/ModDatasetStore.html
 END

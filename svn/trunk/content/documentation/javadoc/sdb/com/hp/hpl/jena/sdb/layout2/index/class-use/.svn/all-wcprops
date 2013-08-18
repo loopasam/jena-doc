@@ -3,113 +3,11 @@ svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use
 END
-StoreTriplesNodesIndexHSQL.html
-K 25
-svn:wc:ra_dav:version-url
-V 153
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexHSQL.html
-END
-FmtLayout2IndexDerby.html
-K 25
-svn:wc:ra_dav:version-url
-V 147
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexDerby.html
-END
-FmtLayout2IndexOracle.html
-K 25
-svn:wc:ra_dav:version-url
-V 148
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexOracle.html
-END
-FmtLayout2IndexHSQL.html
-K 25
-svn:wc:ra_dav:version-url
-V 146
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexHSQL.html
-END
-StoreTriplesNodesIndexSQLServer.html
-K 25
-svn:wc:ra_dav:version-url
-V 158
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexSQLServer.html
-END
-StoreTriplesNodesIndexPGSQL.html
-K 25
-svn:wc:ra_dav:version-url
-V 154
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexPGSQL.html
-END
-TupleLoaderIndexOracle.html
-K 25
-svn:wc:ra_dav:version-url
-V 149
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexOracle.html
-END
-TupleLoaderIndexDerby.html
-K 25
-svn:wc:ra_dav:version-url
-V 148
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexDerby.html
-END
-TupleLoaderIndexHSQL.html
-K 25
-svn:wc:ra_dav:version-url
-V 147
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexHSQL.html
-END
-FmtLayout2IndexPGSQL.html
-K 25
-svn:wc:ra_dav:version-url
-V 147
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexPGSQL.html
-END
-FmtLayout2IndexSQLServer.html
-K 25
-svn:wc:ra_dav:version-url
-V 151
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexSQLServer.html
-END
-StoreTriplesNodesIndexMySQL.html
-K 25
-svn:wc:ra_dav:version-url
-V 154
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexMySQL.html
-END
-StoreTriplesNodesIndexDB2.html
-K 25
-svn:wc:ra_dav:version-url
-V 152
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexDB2.html
-END
-TableNodesIndex.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TableNodesIndex.html
-END
 StoreTriplesNodesIndexH2.html
 K 25
 svn:wc:ra_dav:version-url
 V 151
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexH2.html
-END
-TupleLoaderOneIndex.html
-K 25
-svn:wc:ra_dav:version-url
-V 146
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderOneIndex.html
-END
-TupleLoaderIndexSQLServer.html
-K 25
-svn:wc:ra_dav:version-url
-V 152
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexSQLServer.html
-END
-TupleLoaderIndexPGSQL.html
-K 25
-svn:wc:ra_dav:version-url
-V 148
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexPGSQL.html
 END
 StoreBaseIndex.html
 K 25
@@ -117,11 +15,11 @@ svn:wc:ra_dav:version-url
 V 141
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreBaseIndex.html
 END
-QueryCompilerFactoryIndex.html
+FmtLayout2IndexOracle.html
 K 25
 svn:wc:ra_dav:version-url
-V 152
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/QueryCompilerFactoryIndex.html
+V 148
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexOracle.html
 END
 FmtLayout2IndexMySQL.html
 K 25
@@ -129,17 +27,29 @@ svn:wc:ra_dav:version-url
 V 147
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexMySQL.html
 END
+FmtLayout2IndexHSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexHSQL.html
+END
 FmtLayout2IndexDB2.html
 K 25
 svn:wc:ra_dav:version-url
 V 145
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexDB2.html
 END
-FmtLayout2IndexH2.html
+StoreTriplesNodesIndexPGSQL.html
 K 25
 svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexH2.html
+V 154
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexPGSQL.html
+END
+StoreTriplesNodesIndexSQLServer.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexSQLServer.html
 END
 QueryCompilerIndex.html
 K 25
@@ -153,17 +63,11 @@ svn:wc:ra_dav:version-url
 V 137
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/IndexCache.html
 END
-TupleLoaderIndexMySQL.html
+TupleLoaderIndexDerby.html
 K 25
 svn:wc:ra_dav:version-url
 V 148
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexMySQL.html
-END
-TupleLoaderIndexDB2.html
-K 25
-svn:wc:ra_dav:version-url
-V 146
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexDB2.html
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexDerby.html
 END
 TupleLoaderIndexH2.html
 K 25
@@ -177,21 +81,117 @@ svn:wc:ra_dav:version-url
 V 147
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexBase.html
 END
+StoreTriplesNodesIndexOracle.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexOracle.html
+END
+StoreTriplesNodesIndexMySQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexMySQL.html
+END
+StoreTriplesNodesIndexHSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexHSQL.html
+END
+StoreTriplesNodesIndexDB2.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexDB2.html
+END
+TableNodesIndex.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TableNodesIndex.html
+END
+TupleLoaderOneIndex.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderOneIndex.html
+END
+TupleLoaderIndexPGSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexPGSQL.html
+END
+TupleLoaderIndexSQLServer.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexSQLServer.html
+END
+QueryCompilerFactoryIndex.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/QueryCompilerFactoryIndex.html
+END
+FmtLayout2IndexDerby.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexDerby.html
+END
+FmtLayout2IndexH2.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexH2.html
+END
+TupleLoaderIndexOracle.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexOracle.html
+END
+TupleLoaderIndexMySQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexMySQL.html
+END
+TupleLoaderIndexHSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexHSQL.html
+END
+TupleLoaderIndexDB2.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/TupleLoaderIndexDB2.html
+END
 SlotCompilerIndex.html
 K 25
 svn:wc:ra_dav:version-url
 V 144
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/SlotCompilerIndex.html
 END
+FmtLayout2IndexSQLServer.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexSQLServer.html
+END
+FmtLayout2IndexPGSQL.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/FmtLayout2IndexPGSQL.html
+END
 StoreTriplesNodesIndexDerby.html
 K 25
 svn:wc:ra_dav:version-url
 V 154
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexDerby.html
-END
-StoreTriplesNodesIndexOracle.html
-K 25
-svn:wc:ra_dav:version-url
-V 155
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/index/class-use/StoreTriplesNodesIndexOracle.html
 END

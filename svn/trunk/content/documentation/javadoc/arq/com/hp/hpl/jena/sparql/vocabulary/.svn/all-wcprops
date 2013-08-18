@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 111
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary
 END
-TestManifest.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/TestManifest.html
-END
 TestManifest_11.html
 K 25
 svn:wc:ra_dav:version-url
@@ -92,4 +86,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/ListPFunction.html
+END
+TestManifest.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/TestManifest.html
 END

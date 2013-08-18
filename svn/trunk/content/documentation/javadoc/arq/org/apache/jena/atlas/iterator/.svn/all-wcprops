@@ -3,125 +3,11 @@ svn:wc:ra_dav:version-url
 V 108
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator
 END
-Transform.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/Transform.html
-END
-IteratorCons.html
-K 25
-svn:wc:ra_dav:version-url
-V 126
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorCons.html
-END
-Action.html
-K 25
-svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/Action.html
-END
-IteratorTruncate.Test.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorTruncate.Test.html
-END
-AccString.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/AccString.html
-END
-Iter.Folder.html
-K 25
-svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/Iter.Folder.html
-END
 IteratorResourceClosing.html
 K 25
 svn:wc:ra_dav:version-url
 V 137
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorResourceClosing.html
-END
-IteratorConcat.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorConcat.html
-END
-Accumulate.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/Accumulate.html
-END
-IteratorArray.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorArray.html
-END
-ActionPrint.html
-K 25
-svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/ActionPrint.html
-END
-MapUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 122
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/MapUtils.html
-END
-RepeatApplyIterator.html
-K 25
-svn:wc:ra_dav:version-url
-V 133
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/RepeatApplyIterator.html
-END
-IteratorWithHistory.html
-K 25
-svn:wc:ra_dav:version-url
-V 133
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorWithHistory.html
-END
-IteratorInteger.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorInteger.html
-END
-IteratorBlockingQueue.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorBlockingQueue.html
-END
-FilterStack.html
-K 25
-svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/FilterStack.html
-END
-SingletonIterator.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/SingletonIterator.html
-END
-FilterUnique.html
-K 25
-svn:wc:ra_dav:version-url
-V 126
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/FilterUnique.html
-END
-IteratorWithBuffer.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorWithBuffer.html
 END
 FilterDistinctAdjacent.html
 K 25
@@ -129,23 +15,11 @@ svn:wc:ra_dav:version-url
 V 136
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/FilterDistinctAdjacent.html
 END
-package-frame.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/package-frame.html
-END
 NullIterator.html
 K 25
 svn:wc:ra_dav:version-url
 V 126
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/NullIterator.html
-END
-package-use.html
-K 25
-svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/package-use.html
 END
 Filter.html
 K 25
@@ -153,23 +27,11 @@ svn:wc:ra_dav:version-url
 V 120
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/Filter.html
 END
-ActionCount.html
+IteratorArray.html
 K 25
 svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/ActionCount.html
-END
-package-summary.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/package-summary.html
-END
-IteratorSlotted.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorSlotted.html
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorArray.html
 END
 package-tree.html
 K 25
@@ -177,23 +39,11 @@ svn:wc:ra_dav:version-url
 V 126
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/package-tree.html
 END
-IteratorDelayedInitialization.html
+ActionPrint.html
 K 25
 svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorDelayedInitialization.html
-END
-IteratorWrapper.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorWrapper.html
-END
-WrapperIterator.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/WrapperIterator.html
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/ActionPrint.html
 END
 FilterOutNulls.html
 K 25
@@ -213,11 +63,131 @@ svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorTruncate.html
 END
+RepeatApplyIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/RepeatApplyIterator.html
+END
 Iter.html
 K 25
 svn:wc:ra_dav:version-url
 V 118
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/Iter.html
+END
+IteratorBlockingQueue.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorBlockingQueue.html
+END
+IteratorInteger.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorInteger.html
+END
+IteratorWithHistory.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorWithHistory.html
+END
+PushbackIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/PushbackIterator.html
+END
+FilterStack.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/FilterStack.html
+END
+IteratorCons.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorCons.html
+END
+SingletonIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/SingletonIterator.html
+END
+Action.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/Action.html
+END
+IteratorConcat.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorConcat.html
+END
+Accumulate.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/Accumulate.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/package-use.html
+END
+ActionCount.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/ActionCount.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/package-summary.html
+END
+IteratorSlotted.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorSlotted.html
+END
+IteratorDelayedInitialization.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorDelayedInitialization.html
+END
+IteratorWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorWrapper.html
+END
+WrapperIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/WrapperIterator.html
+END
+MapUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/MapUtils.html
 END
 ActionNothing.html
 K 25
@@ -225,9 +195,39 @@ svn:wc:ra_dav:version-url
 V 127
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/ActionNothing.html
 END
-PushbackIterator.html
+Transform.html
 K 25
 svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/PushbackIterator.html
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/Transform.html
+END
+FilterUnique.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/FilterUnique.html
+END
+Iter.Folder.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/Iter.Folder.html
+END
+AccString.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/AccString.html
+END
+IteratorTruncate.Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorTruncate.Test.html
+END
+IteratorWithBuffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/iterator/IteratorWithBuffer.html
 END

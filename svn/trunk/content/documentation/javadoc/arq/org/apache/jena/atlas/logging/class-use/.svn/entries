@@ -1,7 +1,7 @@
 10
 
 dir
-1497127
+1515227
 http://svn.apache.org/repos/asf/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/logging/class-use
 http://svn.apache.org/repos/asf
 
@@ -26,47 +26,13 @@ andy
 
 13f79535-47bb-0310-9956-ffa450edef68
 
-ProgressLogger.html
-file
-
-
-
-
-2013-06-26T22:00:08.516994Z
-51add43c0268d605647c4d2d5934fdee
-2013-05-15T12:28:35.423717Z
-1482787
-andy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4446
-
 Log.html
 file
 
 
 
 
-2013-06-26T22:00:08.516994Z
+2013-08-18T21:46:39.497323Z
 9a92fc6096cbafc0afa8d0f19bfd3f88
 2013-05-15T12:28:35.423717Z
 1482787
@@ -93,4 +59,38 @@ andy
 
 
 4325
+
+ProgressLogger.html
+file
+
+
+
+
+2013-08-18T21:46:39.497323Z
+51add43c0268d605647c4d2d5934fdee
+2013-05-15T12:28:35.423717Z
+1482787
+andy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4446
 

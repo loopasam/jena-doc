@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 120
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/class-use
 END
-ProcedureRegistry.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/class-use/ProcedureRegistry.html
-END
 ProcedureBase.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,4 +38,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 142
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/class-use/ProcedureFactory.html
+END
+ProcedureRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/procedure/class-use/ProcedureRegistry.html
 END

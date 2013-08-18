@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 69
 /repos/asf/!svn/ver/1454706/jena/site/trunk/content/documentation/tdb
 END
+configuration.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1454705/jena/site/trunk/content/documentation/tdb/configuration.mdtext
+END
+index.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1454704/jena/site/trunk/content/documentation/tdb/index.mdtext
+END
 datasets.mdtext
 K 25
 svn:wc:ra_dav:version-url
@@ -74,16 +86,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 89
 /repos/asf/!svn/ver/1454704/jena/site/trunk/content/documentation/tdb/requirements.mdtext
-END
-configuration.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/repos/asf/!svn/ver/1454705/jena/site/trunk/content/documentation/tdb/configuration.mdtext
-END
-index.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/repos/asf/!svn/ver/1454704/jena/site/trunk/content/documentation/tdb/index.mdtext
 END

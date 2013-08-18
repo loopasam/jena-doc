@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 81
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb
 END
+sdbload.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/sdbload.html
+END
 sdbtruncate.html
 K 25
 svn:wc:ra_dav:version-url
@@ -51,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 102
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/package-summary.html
 END
-package-tree.html
-K 25
-svn:wc:ra_dav:version-url
-V 99
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/package-tree.html
-END
 sdbsql.html
 K 25
 svn:wc:ra_dav:version-url
 V 93
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/sdbsql.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/package-tree.html
 END
 sdbdelete.html
 K 25
@@ -81,12 +87,6 @@ svn:wc:ra_dav:version-url
 V 96
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/sdbscript.html
 END
-sdbconfig.html
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/sdbconfig.html
-END
 sdbquery.html
 K 25
 svn:wc:ra_dav:version-url
@@ -99,15 +99,15 @@ svn:wc:ra_dav:version-url
 V 94
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/sdbdump.html
 END
+sdbconfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/sdbconfig.html
+END
 query.html
 K 25
 svn:wc:ra_dav:version-url
 V 92
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/query.html
-END
-sdbload.html
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/sdb/sdbload.html
 END

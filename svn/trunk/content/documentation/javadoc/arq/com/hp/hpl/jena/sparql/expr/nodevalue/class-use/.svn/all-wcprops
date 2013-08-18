@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 125
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/expr/nodevalue/class-use
 END
-NodeValueDuration.html
-K 25
-svn:wc:ra_dav:version-url
-V 148
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/expr/nodevalue/class-use/NodeValueDuration.html
-END
-NodeValueFloat.html
-K 25
-svn:wc:ra_dav:version-url
-V 145
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/expr/nodevalue/class-use/NodeValueFloat.html
-END
-NodeValueNode.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/expr/nodevalue/class-use/NodeValueNode.html
-END
 NodeValueString.html
 K 25
 svn:wc:ra_dav:version-url
@@ -80,4 +62,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 143
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/expr/nodevalue/class-use/NodeValueOps.html
+END
+NodeValueDuration.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/expr/nodevalue/class-use/NodeValueDuration.html
+END
+NodeValueFloat.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/expr/nodevalue/class-use/NodeValueFloat.html
+END
+NodeValueNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/expr/nodevalue/class-use/NodeValueNode.html
 END

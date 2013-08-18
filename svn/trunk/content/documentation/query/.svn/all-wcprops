@@ -1,13 +1,109 @@
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/repos/asf/!svn/ver/1496452/jena/site/trunk/content/documentation/query
+/repos/asf/!svn/ver/1512007/jena/site/trunk/content/documentation/query
 END
-support.mdtext
+arq-query-eval.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/arq-query-eval.mdtext
+END
+writing_functions.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/writing_functions.mdtext
+END
+select_expr.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1413824/jena/site/trunk/content/documentation/query/select_expr.mdtext
+END
+java-uri.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/java-uri.mdtext
+END
+architecture.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/architecture.mdtext
+END
+manipulating_sparql_using_arq.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/manipulating_sparql_using_arq.mdtext
+END
+support_request.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/support_request.mdtext
+END
+cmds.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1506422/jena/site/trunk/content/documentation/query/cmds.mdtext
+END
+logging.mdtext
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/support.mdtext
+/repos/asf/!svn/ver/1444710/jena/site/trunk/content/documentation/query/logging.mdtext
+END
+library-function.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/library-function.mdtext
+END
+text-query.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1512007/jena/site/trunk/content/documentation/query/text-query.mdtext
+END
+rdf_lists.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/rdf_lists.mdtext
+END
+function_forms.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1413828/jena/site/trunk/content/documentation/query/function_forms.mdtext
+END
+service.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1344273/jena/site/trunk/content/documentation/query/service.mdtext
+END
+negation.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1413827/jena/site/trunk/content/documentation/query/negation.mdtext
+END
+sub-select.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1413825/jena/site/trunk/content/documentation/query/sub-select.mdtext
+END
+faq.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/faq.mdtext
 END
 extension.mdtext
 K 25
@@ -15,17 +111,23 @@ svn:wc:ra_dav:version-url
 V 88
 /repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/extension.mdtext
 END
+support.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/support.mdtext
+END
+http-auth.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1503334/jena/site/trunk/content/documentation/query/http-auth.mdtext
+END
 update.mdtext
 K 25
 svn:wc:ra_dav:version-url
 V 85
 /repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/update.mdtext
-END
-property_paths.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/repos/asf/!svn/ver/1414127/jena/site/trunk/content/documentation/query/property_paths.mdtext
 END
 parameterized-sparql-strings.mdtext
 K 25
@@ -33,17 +135,23 @@ svn:wc:ra_dav:version-url
 V 107
 /repos/asf/!svn/ver/1468378/jena/site/trunk/content/documentation/query/parameterized-sparql-strings.mdtext
 END
-programmatic.mdtext
+property_paths.mdtext
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/programmatic.mdtext
+V 93
+/repos/asf/!svn/ver/1414127/jena/site/trunk/content/documentation/query/property_paths.mdtext
 END
 manipulating_sparql_using_arq_pt.mdtext
 K 25
 svn:wc:ra_dav:version-url
 V 111
 /repos/asf/!svn/ver/1437111/jena/site/trunk/content/documentation/query/manipulating_sparql_using_arq_pt.mdtext
+END
+programmatic.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/programmatic.mdtext
 END
 sparql-remote.mdtext
 K 25
@@ -98,106 +206,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 86
 /repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/app_api.mdtext
-END
-writing_functions.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/writing_functions.mdtext
-END
-arq-query-eval.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/arq-query-eval.mdtext
-END
-select_expr.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/repos/asf/!svn/ver/1413824/jena/site/trunk/content/documentation/query/select_expr.mdtext
-END
-java-uri.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/java-uri.mdtext
-END
-manipulating_sparql_using_arq.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 108
-/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/manipulating_sparql_using_arq.mdtext
-END
-architecture.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 91
-/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/architecture.mdtext
-END
-support_request.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/support_request.mdtext
-END
-logging.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/repos/asf/!svn/ver/1444710/jena/site/trunk/content/documentation/query/logging.mdtext
-END
-cmds.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/repos/asf/!svn/ver/1484091/jena/site/trunk/content/documentation/query/cmds.mdtext
-END
-text-query.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/repos/asf/!svn/ver/1496452/jena/site/trunk/content/documentation/query/text-query.mdtext
-END
-library-function.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 95
-/repos/asf/!svn/ver/1338462/jena/site/trunk/content/documentation/query/library-function.mdtext
-END
-rdf_lists.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 88
-/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/rdf_lists.mdtext
-END
-function_forms.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/repos/asf/!svn/ver/1413828/jena/site/trunk/content/documentation/query/function_forms.mdtext
-END
-service.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/repos/asf/!svn/ver/1344273/jena/site/trunk/content/documentation/query/service.mdtext
-END
-negation.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/repos/asf/!svn/ver/1413827/jena/site/trunk/content/documentation/query/negation.mdtext
-END
-sub-select.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/repos/asf/!svn/ver/1413825/jena/site/trunk/content/documentation/query/sub-select.mdtext
-END
-faq.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/repos/asf/!svn/ver/1336579/jena/site/trunk/content/documentation/query/faq.mdtext
 END

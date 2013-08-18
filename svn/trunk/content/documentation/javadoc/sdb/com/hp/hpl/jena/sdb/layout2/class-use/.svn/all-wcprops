@@ -3,6 +3,48 @@ svn:wc:ra_dav:version-url
 V 115
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use
 END
+LoaderTuplesNodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/LoaderTuplesNodes.html
+END
+TablePrefixes.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TablePrefixes.html
+END
+SQLBridge2.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/SQLBridge2.html
+END
+SlotCompiler2.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/SlotCompiler2.html
+END
+NodeLayout2.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/NodeLayout2.html
+END
+TupleLoaderBasics.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TupleLoaderBasics.html
+END
+FmtLayout2.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/FmtLayout2.html
+END
 TupleLoaderBase.html
 K 25
 svn:wc:ra_dav:version-url
@@ -33,11 +75,11 @@ svn:wc:ra_dav:version-url
 V 135
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TableDescNodes.html
 END
-QueryCompiler2.html
+TupleLoaderBase.PreparedNode.html
 K 25
 svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/QueryCompiler2.html
+V 149
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TupleLoaderBase.PreparedNode.html
 END
 QuadBlockCompiler2.html
 K 25
@@ -45,23 +87,23 @@ svn:wc:ra_dav:version-url
 V 139
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/QuadBlockCompiler2.html
 END
-TupleLoaderBase.PreparedNode.html
-K 25
-svn:wc:ra_dav:version-url
-V 149
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TupleLoaderBase.PreparedNode.html
-END
-TableDescQuads.html
+QueryCompiler2.html
 K 25
 svn:wc:ra_dav:version-url
 V 135
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TableDescQuads.html
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/QueryCompiler2.html
 END
 SQLBridge2Oracle.html
 K 25
 svn:wc:ra_dav:version-url
 V 137
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/SQLBridge2Oracle.html
+END
+TableDescQuads.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TableDescQuads.html
 END
 SQLBridgeFactory2.html
 K 25
@@ -75,57 +117,15 @@ svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/StoreBase.html
 END
-TableDescTriples.html
-K 25
-svn:wc:ra_dav:version-url
-V 137
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TableDescTriples.html
-END
 VarState.html
 K 25
 svn:wc:ra_dav:version-url
 V 129
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/VarState.html
 END
-LoaderTuplesNodes.html
+TableDescTriples.html
 K 25
 svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/LoaderTuplesNodes.html
-END
-TablePrefixes.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TablePrefixes.html
-END
-SlotCompiler2.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/SlotCompiler2.html
-END
-SQLBridge2.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/SQLBridge2.html
-END
-NodeLayout2.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/NodeLayout2.html
-END
-TupleLoaderBasics.html
-K 25
-svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TupleLoaderBasics.html
-END
-FmtLayout2.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/FmtLayout2.html
+V 137
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/layout2/class-use/TableDescTriples.html
 END

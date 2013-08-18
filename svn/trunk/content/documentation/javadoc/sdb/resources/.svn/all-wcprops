@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 87
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/resources
 END
-tab.gif
-K 25
-svn:wc:ra_dav:version-url
-V 95
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/resources/tab.gif
-END
-titlebar.gif
-K 25
-svn:wc:ra_dav:version-url
-V 100
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/resources/titlebar.gif
-END
 titlebar_end.gif
 K 25
 svn:wc:ra_dav:version-url
@@ -26,4 +14,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 102
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/resources/background.gif
+END
+tab.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/resources/tab.gif
+END
+titlebar.gif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/resources/titlebar.gif
 END

@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 94
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena
 END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/package-tree.html
+END
+Jena.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/Jena.html
+END
 JenaRuntime.html
 K 25
 svn:wc:ra_dav:version-url
@@ -26,16 +38,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 115
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/package-summary.html
-END
-package-tree.html
-K 25
-svn:wc:ra_dav:version-url
-V 112
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/package-tree.html
-END
-Jena.html
-K 25
-svn:wc:ra_dav:version-url
-V 104
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/Jena.html
 END

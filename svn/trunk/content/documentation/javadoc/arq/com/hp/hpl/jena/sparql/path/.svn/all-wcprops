@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 105
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path
 END
+P_Distinct.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Distinct.html
+END
+P_ZeroOrOne.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_ZeroOrOne.html
+END
 PathVisitorBase.html
 K 25
 svn:wc:ra_dav:version-url
@@ -27,17 +39,17 @@ svn:wc:ra_dav:version-url
 V 122
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathVisitor.html
 END
-PathLib.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathLib.html
-END
 package-frame.html
 K 25
 svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/package-frame.html
+END
+PathLib.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathLib.html
 END
 package-use.html
 K 25
@@ -111,17 +123,17 @@ svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_ZeroOrMore1.html
 END
-P_NegPropSet.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_NegPropSet.html
-END
 P_OneOrMore1.html
 K 25
 svn:wc:ra_dav:version-url
 V 123
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_OneOrMore1.html
+END
+P_NegPropSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_NegPropSet.html
 END
 PathPropertyFunction.html
 K 25
@@ -135,17 +147,17 @@ svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_ReverseLink.html
 END
-PathParser.html
-K 25
-svn:wc:ra_dav:version-url
-V 121
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathParser.html
-END
 P_Multi.html
 K 25
 svn:wc:ra_dav:version-url
 V 118
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Multi.html
+END
+PathParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/PathParser.html
 END
 P_Link.html
 K 25
@@ -194,16 +206,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 118
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Path1.html
-END
-P_Distinct.html
-K 25
-svn:wc:ra_dav:version-url
-V 121
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_Distinct.html
-END
-P_ZeroOrOne.html
-K 25
-svn:wc:ra_dav:version-url
-V 122
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/path/P_ZeroOrOne.html
 END

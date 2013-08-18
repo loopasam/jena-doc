@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 105
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/stream
 END
-Locator.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/stream/Locator.html
-END
-LocatorFile.html
-K 25
-svn:wc:ra_dav:version-url
-V 122
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/stream/LocatorFile.html
-END
-package-frame.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/stream/package-frame.html
-END
 package-use.html
 K 25
 svn:wc:ra_dav:version-url
@@ -68,4 +50,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 129
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/stream/LocatorClassLoader.html
+END
+Locator.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/stream/Locator.html
+END
+LocatorFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/stream/LocatorFile.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/stream/package-frame.html
 END

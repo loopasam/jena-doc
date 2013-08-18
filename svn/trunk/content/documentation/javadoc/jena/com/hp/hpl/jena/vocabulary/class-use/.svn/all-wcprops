@@ -3,11 +3,29 @@ svn:wc:ra_dav:version-url
 V 115
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use
 END
-RDF.Nodes.html
+RSS.html
 K 25
 svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RDF.Nodes.html
+V 124
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RSS.html
+END
+RDF.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RDF.html
+END
+DCTypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/DCTypes.html
+END
+RDFTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RDFTest.html
 END
 RDFSyntax.html
 K 25
@@ -15,17 +33,23 @@ svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RDFSyntax.html
 END
-OWLResults.html
+RDF.Nodes.html
 K 25
 svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/OWLResults.html
+V 130
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RDF.Nodes.html
 END
 OWL2.html
 K 25
 svn:wc:ra_dav:version-url
 V 125
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/OWL2.html
+END
+OWLResults.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/OWLResults.html
 END
 DB.html
 K 25
@@ -57,11 +81,11 @@ svn:wc:ra_dav:version-url
 V 139
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/OntDocManagerVocab.html
 END
-RDFS.html
+XSD.html
 K 25
 svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RDFS.html
+V 124
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/XSD.html
 END
 TestManifestX.html
 K 25
@@ -69,23 +93,23 @@ svn:wc:ra_dav:version-url
 V 134
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/TestManifestX.html
 END
-XSD.html
+RDFS.html
 K 25
 svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/XSD.html
-END
-LocationMappingVocab.html
-K 25
-svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/LocationMappingVocab.html
+V 125
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RDFS.html
 END
 VCARD.html
 K 25
 svn:wc:ra_dav:version-url
 V 126
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/VCARD.html
+END
+LocationMappingVocab.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/LocationMappingVocab.html
 END
 OntEventsVocab.html
 K 25
@@ -128,28 +152,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 133
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/TestManifest.html
-END
-RSS.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RSS.html
-END
-RDF.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RDF.html
-END
-DCTypes.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/DCTypes.html
-END
-RDFTest.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/vocabulary/class-use/RDFTest.html
 END

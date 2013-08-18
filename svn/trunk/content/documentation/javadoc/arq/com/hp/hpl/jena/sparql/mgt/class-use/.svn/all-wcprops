@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 114
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/mgt/class-use
 END
-Explain.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/mgt/class-use/Explain.html
-END
-SystemInfo.html
-K 25
-svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/mgt/class-use/SystemInfo.html
-END
 Explain.InfoLevel.html
 K 25
 svn:wc:ra_dav:version-url
@@ -56,4 +44,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 134
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/mgt/class-use/QueryExecMBean.html
+END
+Explain.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/mgt/class-use/Explain.html
+END
+SystemInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/mgt/class-use/SystemInfo.html
 END

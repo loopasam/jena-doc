@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 104
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/test
 END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/test/package-frame.html
+END
+RepeatExecution.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/test/RepeatExecution.html
+END
 package-use.html
 K 25
 svn:wc:ra_dav:version-url
@@ -32,16 +44,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 123
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/test/ExecGenerator.html
-END
-package-frame.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/test/package-frame.html
-END
-RepeatExecution.html
-K 25
-svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/test/RepeatExecution.html
 END

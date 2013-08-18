@@ -3,30 +3,6 @@ svn:wc:ra_dav:version-url
 V 119
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/class-use
 END
-ParseHandlerDebug.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/class-use/ParseHandlerDebug.html
-END
-ParserSSEBase.html
-K 25
-svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/class-use/ParserSSEBase.html
-END
-ParseHandlerLink.html
-K 25
-svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/class-use/ParseHandlerLink.html
-END
-SSE_Parser.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/class-use/SSE_Parser.html
-END
 ParseHandler.html
 K 25
 svn:wc:ra_dav:version-url
@@ -62,4 +38,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 142
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/class-use/ParseHandlerPlain.html
+END
+ParseHandlerDebug.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/class-use/ParseHandlerDebug.html
+END
+ParserSSEBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/class-use/ParserSSEBase.html
+END
+ParseHandlerLink.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/class-use/ParseHandlerLink.html
+END
+SSE_Parser.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/lang/class-use/SSE_Parser.html
 END

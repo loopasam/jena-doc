@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 122
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/transitiveReasoner
 END
+TransitiveEngine.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/transitiveReasoner/TransitiveEngine.html
+END
+TransitiveGraphCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/transitiveReasoner/TransitiveGraphCache.html
+END
+TransitiveReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/transitiveReasoner/TransitiveReasonerFactory.html
+END
 package-frame.html
 K 25
 svn:wc:ra_dav:version-url
@@ -38,22 +56,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 140
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/transitiveReasoner/package-tree.html
-END
-TransitiveEngine.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/transitiveReasoner/TransitiveEngine.html
-END
-TransitiveGraphCache.html
-K 25
-svn:wc:ra_dav:version-url
-V 148
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/transitiveReasoner/TransitiveGraphCache.html
-END
-TransitiveReasonerFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 153
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/transitiveReasoner/TransitiveReasonerFactory.html
 END

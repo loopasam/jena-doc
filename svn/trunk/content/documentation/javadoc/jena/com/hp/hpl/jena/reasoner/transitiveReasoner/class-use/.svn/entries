@@ -1,7 +1,7 @@
 10
 
 dir
-1497127
+1515227
 http://svn.apache.org/repos/asf/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/transitiveReasoner/class-use
 http://svn.apache.org/repos/asf
 
@@ -26,81 +26,13 @@ andy
 
 13f79535-47bb-0310-9956-ffa450edef68
 
-TransitiveInfGraph.html
-file
-
-
-
-
-2013-06-26T22:00:26.352994Z
-f0d5e8587443e1ee1856e1e20a72f0c3
-2013-05-15T12:28:35.423717Z
-1482787
-andy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4681
-
-TransitiveReasoner.html
-file
-
-
-
-
-2013-06-26T22:00:26.352994Z
-6e607811800ae1f1309bd2a4f485040e
-2013-05-15T12:28:35.423717Z
-1482787
-andy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7354
-
 TransitiveEngine.html
 file
 
 
 
 
-2013-06-26T22:00:26.352994Z
+2013-08-18T21:46:25.817323Z
 729304f412e99d6e0ebfc6f66c19ab73
 2013-05-15T12:28:35.423717Z
 1482787
@@ -134,7 +66,7 @@ file
 
 
 
-2013-06-26T22:00:26.352994Z
+2013-08-18T21:46:25.817323Z
 83e2767bf2c7b7003a88230aa5046aa4
 2013-05-15T12:28:35.423717Z
 1482787
@@ -168,7 +100,7 @@ file
 
 
 
-2013-06-26T22:00:26.352994Z
+2013-08-18T21:46:25.817323Z
 98254459937c9dac02afe5780968a8d1
 2013-05-15T12:28:35.423717Z
 1482787
@@ -195,4 +127,72 @@ andy
 
 
 4758
+
+TransitiveInfGraph.html
+file
+
+
+
+
+2013-08-18T21:46:25.817323Z
+f0d5e8587443e1ee1856e1e20a72f0c3
+2013-05-15T12:28:35.423717Z
+1482787
+andy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4681
+
+TransitiveReasoner.html
+file
+
+
+
+
+2013-08-18T21:46:25.817323Z
+6e607811800ae1f1309bd2a4f485040e
+2013-05-15T12:28:35.423717Z
+1482787
+andy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7354
 

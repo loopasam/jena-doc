@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 105
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/openjena/riot/class-use
 END
-RiotParseException.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/openjena/riot/class-use/RiotParseException.html
-END
-RiotNotFoundException.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/openjena/riot/class-use/RiotNotFoundException.html
-END
-RiotWriter.html
-K 25
-svn:wc:ra_dav:version-url
-V 121
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/openjena/riot/class-use/RiotWriter.html
-END
 RiotException.html
 K 25
 svn:wc:ra_dav:version-url
@@ -62,4 +44,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 115
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/openjena/riot/class-use/Lang.html
+END
+RiotParseException.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/openjena/riot/class-use/RiotParseException.html
+END
+RiotNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/openjena/riot/class-use/RiotNotFoundException.html
+END
+RiotWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/openjena/riot/class-use/RiotWriter.html
 END

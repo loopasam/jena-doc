@@ -3,6 +3,210 @@ svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use
 END
+GenericRuleReasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/GenericRuleReasoner.html
+END
+RDFSRuleInfGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RDFSRuleInfGraph.html
+END
+BasicForwardRuleInfGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/BasicForwardRuleInfGraph.html
+END
+RDFSRuleReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RDFSRuleReasonerFactory.html
+END
+OWLMiniReasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLMiniReasoner.html
+END
+Functor.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Functor.html
+END
+LPBackwardRuleInfGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/LPBackwardRuleInfGraph.html
+END
+Node_RuleVariable.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Node_RuleVariable.html
+END
+ForwardRuleInfGraphI.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/ForwardRuleInfGraphI.html
+END
+RDFSFBRuleReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RDFSFBRuleReasonerFactory.html
+END
+OWLFBRuleReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLFBRuleReasonerFactory.html
+END
+GenericRuleReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/GenericRuleReasonerFactory.html
+END
+Functor.FunctorDatatype.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Functor.FunctorDatatype.html
+END
+RuleReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RuleReasonerFactory.html
+END
+BuiltinRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/BuiltinRegistry.html
+END
+OWLFBRuleReasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLFBRuleReasoner.html
+END
+Rule.Parser.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Rule.Parser.html
+END
+OWLMiniReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLMiniReasonerFactory.html
+END
+Builtin.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Builtin.html
+END
+RETERuleInfGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RETERuleInfGraph.html
+END
+RuleReasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RuleReasoner.html
+END
+Rule.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Rule.html
+END
+RDFSForwardRuleReasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RDFSForwardRuleReasoner.html
+END
+RuleContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RuleContext.html
+END
+Util.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Util.html
+END
+GenericRuleReasoner.RuleMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/GenericRuleReasoner.RuleMode.html
+END
+FBRuleReasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/FBRuleReasoner.html
+END
+SilentAddI.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/SilentAddI.html
+END
+Rule.ParserException.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Rule.ParserException.html
+END
+FBRuleInfGraph.RuleStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/FBRuleInfGraph.RuleStore.html
+END
+OWLMicroReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLMicroReasonerFactory.html
+END
+BuiltinException.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/BuiltinException.html
+END
+RDFSRuleReasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RDFSRuleReasoner.html
+END
+OWLMicroReasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLMicroReasoner.html
+END
 RuleDerivation.html
 K 25
 svn:wc:ra_dav:version-url
@@ -56,208 +260,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 149
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/LPBackwardRuleReasoner.html
-END
-GenericRuleReasoner.html
-K 25
-svn:wc:ra_dav:version-url
-V 146
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/GenericRuleReasoner.html
-END
-RDFSRuleInfGraph.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RDFSRuleInfGraph.html
-END
-OWLMiniReasoner.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLMiniReasoner.html
-END
-BasicForwardRuleInfGraph.html
-K 25
-svn:wc:ra_dav:version-url
-V 151
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/BasicForwardRuleInfGraph.html
-END
-RDFSRuleReasonerFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 150
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RDFSRuleReasonerFactory.html
-END
-Functor.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Functor.html
-END
-LPBackwardRuleInfGraph.html
-K 25
-svn:wc:ra_dav:version-url
-V 149
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/LPBackwardRuleInfGraph.html
-END
-Node_RuleVariable.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Node_RuleVariable.html
-END
-ForwardRuleInfGraphI.html
-K 25
-svn:wc:ra_dav:version-url
-V 147
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/ForwardRuleInfGraphI.html
-END
-RDFSFBRuleReasonerFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 152
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RDFSFBRuleReasonerFactory.html
-END
-OWLFBRuleReasonerFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 151
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLFBRuleReasonerFactory.html
-END
-Functor.FunctorDatatype.html
-K 25
-svn:wc:ra_dav:version-url
-V 150
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Functor.FunctorDatatype.html
-END
-GenericRuleReasonerFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 153
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/GenericRuleReasonerFactory.html
-END
-RuleReasonerFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 146
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RuleReasonerFactory.html
-END
-BuiltinRegistry.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/BuiltinRegistry.html
-END
-OWLFBRuleReasoner.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLFBRuleReasoner.html
-END
-Rule.Parser.html
-K 25
-svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Rule.Parser.html
-END
-OWLMiniReasonerFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 149
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLMiniReasonerFactory.html
-END
-RETERuleInfGraph.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RETERuleInfGraph.html
-END
-RuleReasoner.html
-K 25
-svn:wc:ra_dav:version-url
-V 139
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RuleReasoner.html
-END
-Builtin.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Builtin.html
-END
-Rule.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Rule.html
-END
-RDFSForwardRuleReasoner.html
-K 25
-svn:wc:ra_dav:version-url
-V 150
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RDFSForwardRuleReasoner.html
-END
-RuleContext.html
-K 25
-svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RuleContext.html
-END
-Util.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Util.html
-END
-FBRuleReasoner.html
-K 25
-svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/FBRuleReasoner.html
-END
-GenericRuleReasoner.RuleMode.html
-K 25
-svn:wc:ra_dav:version-url
-V 155
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/GenericRuleReasoner.RuleMode.html
-END
-SilentAddI.html
-K 25
-svn:wc:ra_dav:version-url
-V 137
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/SilentAddI.html
-END
-FBRuleInfGraph.RuleStore.html
-K 25
-svn:wc:ra_dav:version-url
-V 151
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/FBRuleInfGraph.RuleStore.html
-END
-Rule.ParserException.html
-K 25
-svn:wc:ra_dav:version-url
-V 147
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/Rule.ParserException.html
-END
-OWLMicroReasonerFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 150
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLMicroReasonerFactory.html
-END
-RDFSRuleReasoner.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/RDFSRuleReasoner.html
-END
-BuiltinException.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/BuiltinException.html
-END
-OWLMicroReasoner.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/class-use/OWLMicroReasoner.html
 END

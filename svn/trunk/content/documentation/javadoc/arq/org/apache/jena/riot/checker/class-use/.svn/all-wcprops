@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 116
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/checker/class-use
 END
+NodeChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/checker/class-use/NodeChecker.html
+END
+CheckerVar.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/checker/class-use/CheckerVar.html
+END
 CheckerLiterals.html
 K 25
 svn:wc:ra_dav:version-url
@@ -32,16 +44,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 132
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/checker/class-use/CheckerIRI.html
-END
-NodeChecker.html
-K 25
-svn:wc:ra_dav:version-url
-V 133
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/checker/class-use/NodeChecker.html
-END
-CheckerVar.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/riot/checker/class-use/CheckerVar.html
 END

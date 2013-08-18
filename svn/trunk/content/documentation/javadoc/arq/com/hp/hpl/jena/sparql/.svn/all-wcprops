@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 100
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql
 END
+ARQConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/ARQConstants.html
+END
+AlreadyExists.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/AlreadyExists.html
+END
+JenaTransactionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/JenaTransactionException.html
+END
+ARQException.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/ARQException.html
+END
 package-frame.html
 K 25
 svn:wc:ra_dav:version-url
@@ -27,12 +51,6 @@ svn:wc:ra_dav:version-url
 V 118
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/package-tree.html
 END
-ARQNotImplemented.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/ARQNotImplemented.html
-END
 SystemARQ.html
 K 25
 svn:wc:ra_dav:version-url
@@ -45,33 +63,15 @@ svn:wc:ra_dav:version-url
 V 118
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/DoesNotExist.html
 END
+ARQNotImplemented.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/ARQNotImplemented.html
+END
 ARQInternalErrorException.html
 K 25
 svn:wc:ra_dav:version-url
 V 131
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/ARQInternalErrorException.html
-END
-ARQConstants.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/ARQConstants.html
-END
-AlreadyExists.html
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/AlreadyExists.html
-END
-JenaTransactionException.html
-K 25
-svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/JenaTransactionException.html
-END
-ARQException.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/ARQException.html
 END

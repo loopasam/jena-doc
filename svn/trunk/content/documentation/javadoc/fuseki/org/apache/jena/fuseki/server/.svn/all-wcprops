@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 110
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server
 END
+FusekiConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/FusekiConfig.html
+END
+ServerConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/ServerConfig.html
+END
 DatasetRegistry.html
 K 25
 svn:wc:ra_dav:version-url
@@ -56,16 +68,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 128
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/SPARQLServer.html
-END
-FusekiConfig.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/FusekiConfig.html
-END
-ServerConfig.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/server/ServerConfig.html
 END

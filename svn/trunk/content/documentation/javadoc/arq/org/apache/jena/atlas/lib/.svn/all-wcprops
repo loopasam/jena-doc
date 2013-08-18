@@ -3,11 +3,71 @@ svn:wc:ra_dav:version-url
 V 103
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib
 END
+MultiMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/MultiMap.html
+END
+StrUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/StrUtils.html
+END
+Tuple.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Tuple.html
+END
+ListUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ListUtils.html
+END
+FileOps.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/FileOps.html
+END
+Trie.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Trie.html
+END
+PoolBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/PoolBase.html
+END
+AlarmClock.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/AlarmClock.html
+END
+ActionKeyValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ActionKeyValue.html
+END
 package-tree.html
 K 25
 svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/package-tree.html
+END
+Closeable.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Closeable.html
 END
 SinkNull.html
 K 25
@@ -15,17 +75,11 @@ svn:wc:ra_dav:version-url
 V 117
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkNull.html
 END
-Problem.html
+Alg.html
 K 25
 svn:wc:ra_dav:version-url
-V 116
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Problem.html
-END
-Chars.html
-K 25
-svn:wc:ra_dav:version-url
-V 114
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Chars.html
+V 112
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Alg.html
 END
 Sink.html
 K 25
@@ -33,17 +87,53 @@ svn:wc:ra_dav:version-url
 V 113
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Sink.html
 END
+PropertyUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/PropertyUtils.html
+END
+SystemUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SystemUtils.html
+END
+SinkWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkWrapper.html
+END
 PoolSync.html
 K 25
 svn:wc:ra_dav:version-url
 V 117
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/PoolSync.html
 END
-Lib.html
+RandomLib.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/RandomLib.html
+END
+NumberUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/NumberUtils.html
+END
+SinkLogging.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkLogging.html
+END
+Ref.html
 K 25
 svn:wc:ra_dav:version-url
 V 112
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Lib.html
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Ref.html
 END
 Sync.html
 K 25
@@ -51,35 +141,17 @@ svn:wc:ra_dav:version-url
 V 113
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Sync.html
 END
-SinkToQueue.html
-K 25
-svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkToQueue.html
-END
-BitsInt.html
-K 25
-svn:wc:ra_dav:version-url
-V 116
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/BitsInt.html
-END
-CollectionUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/CollectionUtils.html
-END
 Pingback.html
 K 25
 svn:wc:ra_dav:version-url
 V 117
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Pingback.html
 END
-SinkSplit.html
+Allocator.html
 K 25
 svn:wc:ra_dav:version-url
 V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkSplit.html
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Allocator.html
 END
 Slot.html
 K 25
@@ -93,35 +165,47 @@ svn:wc:ra_dav:version-url
 V 117
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/BitsLong.html
 END
+SinkPrint.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkPrint.html
+END
 SinkToCollection.html
 K 25
 svn:wc:ra_dav:version-url
 V 125
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkToCollection.html
 END
-package-frame.html
+Hex.html
 K 25
 svn:wc:ra_dav:version-url
-V 122
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/package-frame.html
+V 112
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Hex.html
 END
-ByteBufferLib.html
+package-use.html
 K 25
 svn:wc:ra_dav:version-url
-V 122
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ByteBufferLib.html
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/package-use.html
 END
-Tuple.html
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/package-summary.html
+END
+Bytes.html
 K 25
 svn:wc:ra_dav:version-url
 V 114
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Tuple.html
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Bytes.html
 END
-CacheFactory.html
+ColumnMap.html
 K 25
 svn:wc:ra_dav:version-url
-V 121
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/CacheFactory.html
+V 118
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ColumnMap.html
 END
 Pair.html
 K 25
@@ -129,17 +213,23 @@ svn:wc:ra_dav:version-url
 V 113
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Pair.html
 END
+CacheFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/CacheFactory.html
+END
+RefLong.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/RefLong.html
+END
 Callback.html
 K 25
 svn:wc:ra_dav:version-url
 V 117
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Callback.html
-END
-ListUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ListUtils.html
 END
 MapUtils.html
 K 25
@@ -153,11 +243,17 @@ svn:wc:ra_dav:version-url
 V 113
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Map2.html
 END
-FileOps.html
+ReverseComparator.html
 K 25
 svn:wc:ra_dav:version-url
-V 116
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/FileOps.html
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ReverseComparator.html
+END
+Cache.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Cache.html
 END
 DS.html
 K 25
@@ -213,41 +309,23 @@ svn:wc:ra_dav:version-url
 V 127
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/PoolFiniteBlocking.html
 END
-Closeable.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Closeable.html
-END
 ArrayUtils.html
 K 25
 svn:wc:ra_dav:version-url
 V 119
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ArrayUtils.html
 END
-Alg.html
+Problem.html
 K 25
 svn:wc:ra_dav:version-url
-V 112
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Alg.html
+V 116
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Problem.html
 END
-SystemUtils.html
+Chars.html
 K 25
 svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SystemUtils.html
-END
-SinkWrapper.html
-K 25
-svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkWrapper.html
-END
-PropertyUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 122
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/PropertyUtils.html
+V 114
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Chars.html
 END
 InternalErrorException.html
 K 25
@@ -255,41 +333,35 @@ svn:wc:ra_dav:version-url
 V 131
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/InternalErrorException.html
 END
-RandomLib.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/RandomLib.html
-END
-NumberUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/NumberUtils.html
-END
-SinkLogging.html
-K 25
-svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkLogging.html
-END
-Ref.html
+Lib.html
 K 25
 svn:wc:ra_dav:version-url
 V 112
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Ref.html
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Lib.html
 END
-Allocator.html
+CollectionUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/CollectionUtils.html
+END
+BitsInt.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/BitsInt.html
+END
+SinkToQueue.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkToQueue.html
+END
+SinkSplit.html
 K 25
 svn:wc:ra_dav:version-url
 V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Allocator.html
-END
-SinkPrint.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkPrint.html
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/SinkSplit.html
 END
 CacheStats.html
 K 25
@@ -297,11 +369,17 @@ svn:wc:ra_dav:version-url
 V 119
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/CacheStats.html
 END
-Hex.html
+package-frame.html
 K 25
 svn:wc:ra_dav:version-url
-V 112
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Hex.html
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/package-frame.html
+END
+ByteBufferLib.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ByteBufferLib.html
 END
 NotImplemented.html
 K 25
@@ -309,87 +387,9 @@ svn:wc:ra_dav:version-url
 V 123
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/NotImplemented.html
 END
-package-use.html
-K 25
-svn:wc:ra_dav:version-url
-V 120
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/package-use.html
-END
-Bytes.html
-K 25
-svn:wc:ra_dav:version-url
-V 114
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Bytes.html
-END
-package-summary.html
-K 25
-svn:wc:ra_dav:version-url
-V 124
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/package-summary.html
-END
 XMLLib.html
 K 25
 svn:wc:ra_dav:version-url
 V 115
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/XMLLib.html
-END
-MultiMap.html
-K 25
-svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/MultiMap.html
-END
-StrUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/StrUtils.html
-END
-ColumnMap.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ColumnMap.html
-END
-RefLong.html
-K 25
-svn:wc:ra_dav:version-url
-V 116
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/RefLong.html
-END
-ReverseComparator.html
-K 25
-svn:wc:ra_dav:version-url
-V 126
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ReverseComparator.html
-END
-Cache.html
-K 25
-svn:wc:ra_dav:version-url
-V 114
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Cache.html
-END
-Trie.html
-K 25
-svn:wc:ra_dav:version-url
-V 113
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/Trie.html
-END
-PoolBase.html
-K 25
-svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/PoolBase.html
-END
-AlarmClock.html
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/AlarmClock.html
-END
-ActionKeyValue.html
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/ActionKeyValue.html
 END

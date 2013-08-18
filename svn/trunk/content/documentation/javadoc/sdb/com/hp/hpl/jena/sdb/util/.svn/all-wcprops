@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 102
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/util
 END
+StoreUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/util/StoreUtils.html
+END
 package-frame.html
 K 25
 svn:wc:ra_dav:version-url
@@ -74,10 +80,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 118
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/util/RegexUtils.html
-END
-StoreUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 118
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/util/StoreUtils.html
 END

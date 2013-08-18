@@ -1,15 +1,15 @@
 10
 
 dir
-1497127
+1515227
 http://svn.apache.org/repos/asf/jena/site/trunk/content
 http://svn.apache.org/repos/asf
 
 
 
-2013-06-25T12:45:39.279263Z
-1496452
-andy
+2013-08-08T19:58:34.830355Z
+1512007
+rvesse
 
 
 
@@ -26,61 +26,6 @@ andy
 
 13f79535-47bb-0310-9956-ffa450edef68
 
-images
-dir
-
-help_and_support
-dir
-
-tutorials
-dir
-
-about_jena
-dir
-
-download
-dir
-
-getting_involved
-dir
-
-getting_started
-dir
-
-ia.txt
-file
-
-
-
-
-2013-06-26T22:00:28.788994Z
-e118d46ea9d9e84738e02d143aaaa40d
-2013-02-21T18:37:14.100532Z
-1448768
-rvesse
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3682
-
 css
 dir
 
@@ -93,7 +38,7 @@ file
 
 
 
-2013-06-26T22:00:28.788994Z
+2013-08-18T21:46:40.905323Z
 28f59d1e054304a8b598dc471a305395
 2013-03-09T14:15:29.876321Z
 1454714
@@ -127,7 +72,7 @@ file
 
 
 
-2013-06-26T22:00:28.788994Z
+2013-08-18T21:46:40.905323Z
 d75d9cc8c53b0f33c9bc977b2a7d653a
 2012-05-24T07:20:49.043023Z
 1342162
@@ -161,7 +106,7 @@ file
 
 
 
-2013-06-26T22:00:28.788994Z
+2013-08-18T21:46:40.905323Z
 8488d69ee746d3a0c50b1ab66355353f
 2012-07-04T10:21:27.363824Z
 1357211
@@ -191,4 +136,59 @@ ijd
 
 js
 dir
+
+images
+dir
+
+help_and_support
+dir
+
+tutorials
+dir
+
+about_jena
+dir
+
+download
+dir
+
+getting_involved
+dir
+
+getting_started
+dir
+
+ia.txt
+file
+
+
+
+
+2013-08-18T21:46:40.905323Z
+e118d46ea9d9e84738e02d143aaaa40d
+2013-02-21T18:37:14.100532Z
+1448768
+rvesse
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3682
 

@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 114
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/user
 END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/user/package-tree.html
+END
 ExprTransformExpand.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,10 +50,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 135
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/user/package-summary.html
-END
-package-tree.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/function/user/package-tree.html
 END

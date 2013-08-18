@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 71
 /repos/asf/!svn/ver/1427439/jena/site/trunk/content/documentation/notes
 END
+typed-literals.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1423404/jena/site/trunk/content/documentation/notes/typed-literals.mdtext
+END
 iri.mdtext
 K 25
 svn:wc:ra_dav:version-url
@@ -68,10 +74,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 90
 /repos/asf/!svn/ver/1425914/jena/site/trunk/content/documentation/notes/reification.mdtext
-END
-typed-literals.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/repos/asf/!svn/ver/1423404/jena/site/trunk/content/documentation/notes/typed-literals.mdtext
 END

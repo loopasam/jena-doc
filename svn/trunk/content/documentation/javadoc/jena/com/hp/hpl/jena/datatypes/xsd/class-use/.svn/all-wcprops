@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 118
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/xsd/class-use
 END
+IllegalDateTimeFieldException.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/xsd/class-use/IllegalDateTimeFieldException.html
+END
+XSDDatatype.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/xsd/class-use/XSDDatatype.html
+END
+XSDDateTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/xsd/class-use/XSDDateTime.html
+END
 AbstractDateTime.html
 K 25
 svn:wc:ra_dav:version-url
@@ -32,22 +50,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 136
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/xsd/class-use/XSDhexBinary.html
-END
-IllegalDateTimeFieldException.html
-K 25
-svn:wc:ra_dav:version-url
-V 153
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/xsd/class-use/IllegalDateTimeFieldException.html
-END
-XSDDatatype.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/xsd/class-use/XSDDatatype.html
-END
-XSDDateTime.html
-K 25
-svn:wc:ra_dav:version-url
-V 135
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/datatypes/xsd/class-use/XSDDateTime.html
 END

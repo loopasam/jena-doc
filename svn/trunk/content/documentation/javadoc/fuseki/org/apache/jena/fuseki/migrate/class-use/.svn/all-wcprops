@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/migrate/class-use
 END
+GraphLoadUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/migrate/class-use/GraphLoadUtils.html
+END
 Registry.html
 K 25
 svn:wc:ra_dav:version-url
@@ -14,10 +20,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 141
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/migrate/class-use/SinkRDFLimited.html
-END
-GraphLoadUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/migrate/class-use/GraphLoadUtils.html
 END

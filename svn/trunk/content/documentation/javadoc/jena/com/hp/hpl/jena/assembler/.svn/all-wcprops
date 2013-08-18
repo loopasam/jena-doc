@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 104
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/assembler
 END
-Mode.html
-K 25
-svn:wc:ra_dav:version-url
-V 114
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/assembler/Mode.html
-END
 ImportManager.html
 K 25
 svn:wc:ra_dav:version-url
@@ -80,4 +74,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 123
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/assembler/package-frame.html
+END
+Mode.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/assembler/Mode.html
 END

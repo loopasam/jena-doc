@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/graph/class-use
 END
-GraphListenerBase.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/graph/class-use/GraphListenerBase.html
-END
-GraphUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 137
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/graph/class-use/GraphUtils.html
-END
 Findable.html
 K 25
 svn:wc:ra_dav:version-url
@@ -56,4 +44,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 136
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/graph/class-use/GraphList.html
+END
+GraphListenerBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/graph/class-use/GraphListenerBase.html
+END
+GraphUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/util/graph/class-use/GraphUtils.html
 END

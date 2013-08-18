@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 122
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/writers/class-use
 END
+WriterLib.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/writers/class-use/WriterLib.html
+END
+WriterTable.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/writers/class-use/WriterTable.html
+END
+WriterBasePrefix.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/writers/class-use/WriterBasePrefix.html
+END
 WriterPath.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,22 +62,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 138
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/writers/class-use/WriterNode.html
-END
-WriterLib.html
-K 25
-svn:wc:ra_dav:version-url
-V 137
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/writers/class-use/WriterLib.html
-END
-WriterTable.html
-K 25
-svn:wc:ra_dav:version-url
-V 139
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/writers/class-use/WriterTable.html
-END
-WriterBasePrefix.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/sse/writers/class-use/WriterBasePrefix.html
 END

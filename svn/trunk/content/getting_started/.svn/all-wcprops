@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 67
 /repos/asf/!svn/ver/1337964/jena/site/trunk/content/getting_started
 END
+sparql.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1337964/jena/site/trunk/content/getting_started/sparql.mdtext
+END
+rdf_api.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1337964/jena/site/trunk/content/getting_started/rdf_api.mdtext
+END
 fuseki.mdtext
 K 25
 svn:wc:ra_dav:version-url
@@ -20,16 +32,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 86
 /repos/asf/!svn/ver/1336579/jena/site/trunk/content/getting_started/tell_me_how.mdtext
-END
-sparql.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/repos/asf/!svn/ver/1337964/jena/site/trunk/content/getting_started/sparql.mdtext
-END
-rdf_api.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/repos/asf/!svn/ver/1337964/jena/site/trunk/content/getting_started/rdf_api.mdtext
 END

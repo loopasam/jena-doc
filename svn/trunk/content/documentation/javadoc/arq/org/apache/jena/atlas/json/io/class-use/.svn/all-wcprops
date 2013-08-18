@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 117
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/io/class-use
 END
-JSONHandlerBase.html
-K 25
-svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/io/class-use/JSONHandlerBase.html
-END
 JsonWriter.html
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 131
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/io/class-use/JSWriter.html
+END
+JSONHandlerBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/json/io/class-use/JSONHandlerBase.html
 END

@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 112
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/util/class-use
 END
+DerbyUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/util/class-use/DerbyUtils.html
+END
+HSQLUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/util/class-use/HSQLUtils.html
+END
 StrUtils.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,16 +56,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 126
 /repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/util/class-use/PrintSDB.html
-END
-DerbyUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 128
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/util/class-use/DerbyUtils.html
-END
-HSQLUtils.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1487848/jena/site/trunk/content/documentation/javadoc/sdb/com/hp/hpl/jena/sdb/util/class-use/HSQLUtils.html
 END

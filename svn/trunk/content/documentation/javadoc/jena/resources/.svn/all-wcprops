@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 88
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/resources
 END
-background.gif
-K 25
-svn:wc:ra_dav:version-url
-V 103
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/resources/background.gif
-END
 tab.gif
 K 25
 svn:wc:ra_dav:version-url
@@ -26,4 +20,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 105
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/resources/titlebar_end.gif
+END
+background.gif
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/resources/background.gif
 END

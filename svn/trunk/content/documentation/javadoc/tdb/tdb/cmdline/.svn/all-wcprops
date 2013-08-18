@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 89
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline
 END
-package-use.html
-K 25
-svn:wc:ra_dav:version-url
-V 106
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/package-use.html
-END
-package-summary.html
-K 25
-svn:wc:ra_dav:version-url
-V 110
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/package-summary.html
-END
-ModTDBAssembler.html
-K 25
-svn:wc:ra_dav:version-url
-V 110
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/ModTDBAssembler.html
-END
 ModLocation.html
 K 25
 svn:wc:ra_dav:version-url
@@ -80,4 +62,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 108
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/package-summary.html
+END
+ModTDBAssembler.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/cmdline/ModTDBAssembler.html
 END

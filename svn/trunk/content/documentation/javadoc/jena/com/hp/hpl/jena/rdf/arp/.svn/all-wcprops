@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 102
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/arp
 END
-ARPConfig.html
-K 25
-svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/arp/ARPConfig.html
-END
-SAX2RDF.html
-K 25
-svn:wc:ra_dav:version-url
-V 115
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/arp/SAX2RDF.html
-END
 NTriple.html
 K 25
 svn:wc:ra_dav:version-url
@@ -146,4 +134,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 134
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/arp/FatalParsingErrorException.html
+END
+ARPConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/arp/ARPConfig.html
+END
+SAX2RDF.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/rdf/arp/SAX2RDF.html
 END

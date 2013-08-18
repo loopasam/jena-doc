@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 71
 /repos/asf/!svn/ver/1423404/jena/site/trunk/content/documentation/tools
 END
-eyeball-getting-started.mdtext
-K 25
-svn:wc:ra_dav:version-url
-V 102
-/repos/asf/!svn/ver/1401595/jena/site/trunk/content/documentation/tools/eyeball-getting-started.mdtext
-END
 index.mdtext
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 88
 /repos/asf/!svn/ver/1423404/jena/site/trunk/content/documentation/tools/schemagen.mdtext
+END
+eyeball-getting-started.mdtext
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1401595/jena/site/trunk/content/documentation/tools/eyeball-getting-started.mdtext
 END

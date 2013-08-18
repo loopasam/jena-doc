@@ -3,53 +3,23 @@ svn:wc:ra_dav:version-url
 V 81
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb
 END
-CmdRewriteIndex.html
-K 25
-svn:wc:ra_dav:version-url
-V 102
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/CmdRewriteIndex.html
-END
-tdbquery.html
-K 25
-svn:wc:ra_dav:version-url
-V 95
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbquery.html
-END
-tdbdump.html
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbdump.html
-END
-tdbconfig.html
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbconfig.html
-END
-tdbbackup.html
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbbackup.html
-END
 tdbloader.html
 K 25
 svn:wc:ra_dav:version-url
 V 96
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbloader.html
 END
-tdbclean.html
-K 25
-svn:wc:ra_dav:version-url
-V 95
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbclean.html
-END
 tdbupdate.html
 K 25
 svn:wc:ra_dav:version-url
 V 96
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbupdate.html
+END
+tdbclean.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbclean.html
 END
 tdbnode.html
 K 25
@@ -92,4 +62,34 @@ K 25
 svn:wc:ra_dav:version-url
 V 99
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/package-tree.html
+END
+CmdRewriteIndex.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/CmdRewriteIndex.html
+END
+tdbquery.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbquery.html
+END
+tdbdump.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbdump.html
+END
+tdbconfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbconfig.html
+END
+tdbbackup.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/tdb/tdb/tdbbackup.html
 END

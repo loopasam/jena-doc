@@ -3,29 +3,17 @@ svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use
 END
-AddOne.html
+GE.html
 K 25
 svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/AddOne.html
-END
-Difference.html
-K 25
-svn:wc:ra_dav:version-url
-V 146
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Difference.html
+V 138
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/GE.html
 END
 ListNotContains.html
 K 25
 svn:wc:ra_dav:version-url
 V 151
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/ListNotContains.html
-END
-GE.html
-K 25
-svn:wc:ra_dav:version-url
-V 138
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/GE.html
 END
 ListEntry.html
 K 25
@@ -39,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 138
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/LE.html
 END
-BaseBuiltin.html
-K 25
-svn:wc:ra_dav:version-url
-V 147
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/BaseBuiltin.html
-END
 NotFunctor.html
 K 25
 svn:wc:ra_dav:version-url
 V 146
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/NotFunctor.html
+END
+BaseBuiltin.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/BaseBuiltin.html
 END
 Now.html
 K 25
@@ -81,23 +69,17 @@ svn:wc:ra_dav:version-url
 V 141
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Bound.html
 END
-NoValue.html
-K 25
-svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/NoValue.html
-END
 Hide.html
 K 25
 svn:wc:ra_dav:version-url
 V 140
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Hide.html
 END
-Regex.html
+NoValue.html
 K 25
 svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Regex.html
+V 143
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/NoValue.html
 END
 Unbound.html
 K 25
@@ -105,17 +87,23 @@ svn:wc:ra_dav:version-url
 V 143
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Unbound.html
 END
-Product.html
+Regex.html
 K 25
 svn:wc:ra_dav:version-url
-V 143
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Product.html
+V 141
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Regex.html
 END
 TableAll.html
 K 25
 svn:wc:ra_dav:version-url
 V 144
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/TableAll.html
+END
+Product.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Product.html
 END
 IsBNode.html
 K 25
@@ -177,17 +165,17 @@ svn:wc:ra_dav:version-url
 V 145
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/ListEqual.html
 END
-Drop.html
-K 25
-svn:wc:ra_dav:version-url
-V 140
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Drop.html
-END
 AssertDisjointPairs.html
 K 25
 svn:wc:ra_dav:version-url
 V 155
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/AssertDisjointPairs.html
+END
+Drop.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Drop.html
 END
 Sum.html
 K 25
@@ -243,17 +231,17 @@ svn:wc:ra_dav:version-url
 V 146
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/NotLiteral.html
 END
-LessThan.html
-K 25
-svn:wc:ra_dav:version-url
-V 144
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/LessThan.html
-END
 IsDType.html
 K 25
 svn:wc:ra_dav:version-url
 V 143
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/IsDType.html
+END
+LessThan.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/LessThan.html
 END
 Min.html
 K 25
@@ -273,21 +261,33 @@ svn:wc:ra_dav:version-url
 V 139
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Max.html
 END
-Table.html
-K 25
-svn:wc:ra_dav:version-url
-V 141
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Table.html
-END
 UriConcat.html
 K 25
 svn:wc:ra_dav:version-url
 V 145
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/UriConcat.html
 END
+Table.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Table.html
+END
 MakeSkolem.html
 K 25
 svn:wc:ra_dav:version-url
 V 146
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/MakeSkolem.html
+END
+Difference.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/Difference.html
+END
+AddOne.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/reasoner/rulesys/builtins/class-use/AddOne.html
 END

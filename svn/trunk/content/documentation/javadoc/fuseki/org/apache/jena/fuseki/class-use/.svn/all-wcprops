@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 113
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/class-use
 END
-FusekiConfigException.html
-K 25
-svn:wc:ra_dav:version-url
-V 140
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/class-use/FusekiConfigException.html
-END
 FusekiLib.html
 K 25
 svn:wc:ra_dav:version-url
@@ -74,4 +68,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 128
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/class-use/FusekiCmd.html
+END
+FusekiConfigException.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/class-use/FusekiConfigException.html
 END

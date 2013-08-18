@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 103
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology
 END
-OntModel.html
-K 25
-svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/OntModel.html
-END
-OntTools.html
-K 25
-svn:wc:ra_dav:version-url
-V 117
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/OntTools.html
-END
-package-frame.html
-K 25
-svn:wc:ra_dav:version-url
-V 122
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/package-frame.html
-END
 OntDocumentManager.ReadHook.html
 K 25
 svn:wc:ra_dav:version-url
@@ -51,18 +33,6 @@ svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/package-tree.html
 END
-CardinalityRestriction.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/CardinalityRestriction.html
-END
-QualifiedRestriction.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/QualifiedRestriction.html
-END
 OntologyException.html
 K 25
 svn:wc:ra_dav:version-url
@@ -74,6 +44,18 @@ K 25
 svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/ProfileRegistry.html
+END
+CardinalityRestriction.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/CardinalityRestriction.html
+END
+QualifiedRestriction.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/QualifiedRestriction.html
 END
 IntersectionClass.html
 K 25
@@ -147,17 +129,17 @@ svn:wc:ra_dav:version-url
 V 135
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/MinCardinalityQRestriction.html
 END
-ProfileException.html
-K 25
-svn:wc:ra_dav:version-url
-V 125
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/ProfileException.html
-END
 EnumeratedClass.html
 K 25
 svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/EnumeratedClass.html
+END
+ProfileException.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/ProfileException.html
 END
 MaxCardinalityQRestriction.html
 K 25
@@ -213,29 +195,29 @@ svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/OntModelSpec.html
 END
-SomeValuesFromRestriction.html
-K 25
-svn:wc:ra_dav:version-url
-V 134
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/SomeValuesFromRestriction.html
-END
 MinCardinalityRestriction.html
 K 25
 svn:wc:ra_dav:version-url
 V 134
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/MinCardinalityRestriction.html
 END
-MaxCardinalityRestriction.html
+SomeValuesFromRestriction.html
 K 25
 svn:wc:ra_dav:version-url
 V 134
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/MaxCardinalityRestriction.html
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/SomeValuesFromRestriction.html
 END
 AllDifferent.html
 K 25
 svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/AllDifferent.html
+END
+MaxCardinalityRestriction.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/MaxCardinalityRestriction.html
 END
 InverseFunctionalProperty.html
 K 25
@@ -261,17 +243,17 @@ svn:wc:ra_dav:version-url
 V 132
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/BooleanClassDescription.html
 END
-CardinalityQRestriction.html
-K 25
-svn:wc:ra_dav:version-url
-V 132
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/CardinalityQRestriction.html
-END
 Ontology.html
 K 25
 svn:wc:ra_dav:version-url
 V 117
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/Ontology.html
+END
+CardinalityQRestriction.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/CardinalityQRestriction.html
 END
 ObjectProperty.html
 K 25
@@ -291,21 +273,39 @@ svn:wc:ra_dav:version-url
 V 119
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/UnionClass.html
 END
-OntTools.DisjointSet.html
-K 25
-svn:wc:ra_dav:version-url
-V 129
-/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/OntTools.DisjointSet.html
-END
 AnnotationProperty.html
 K 25
 svn:wc:ra_dav:version-url
 V 127
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/AnnotationProperty.html
 END
+OntTools.DisjointSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/OntTools.DisjointSet.html
+END
 DatatypeProperty.html
 K 25
 svn:wc:ra_dav:version-url
 V 125
 /repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/DatatypeProperty.html
+END
+OntModel.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/OntModel.html
+END
+OntTools.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/OntTools.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1483439/jena/site/trunk/content/documentation/javadoc/jena/com/hp/hpl/jena/ontology/package-frame.html
 END

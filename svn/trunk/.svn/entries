@@ -1,15 +1,15 @@
 10
 
 dir
-1497127
+1515227
 http://svn.apache.org/repos/asf/jena/site/trunk
 http://svn.apache.org/repos/asf
 
 
 
-2013-06-25T12:45:39.279263Z
-1496452
-andy
+2013-08-08T19:58:34.830355Z
+1512007
+rvesse
 has-props
 
 
@@ -26,12 +26,12 @@ has-props
 
 13f79535-47bb-0310-9956-ffa450edef68
 
+content
+dir
+
 templates
 dir
 
 lib
-dir
-
-content
 dir
 

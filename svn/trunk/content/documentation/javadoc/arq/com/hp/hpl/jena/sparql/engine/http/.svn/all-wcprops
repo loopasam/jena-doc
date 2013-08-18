@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 112
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http
 END
-QueryEngineHTTP.html
-K 25
-svn:wc:ra_dav:version-url
-V 133
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/QueryEngineHTTP.html
-END
 HttpContentType.html
 K 25
 svn:wc:ra_dav:version-url
@@ -74,4 +68,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 130
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/package-tree.html
+END
+QueryEngineHTTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/http/QueryEngineHTTP.html
 END

@@ -3,30 +3,6 @@ svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/class-use
 END
-ResultSetGraphVocab.html
-K 25
-svn:wc:ra_dav:version-url
-V 146
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/class-use/ResultSetGraphVocab.html
-END
-TestManifest_11.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/class-use/TestManifest_11.html
-END
-TestManifestUpdate_11.html
-K 25
-svn:wc:ra_dav:version-url
-V 148
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/class-use/TestManifestUpdate_11.html
-END
-FOAF.html
-K 25
-svn:wc:ra_dav:version-url
-V 131
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/class-use/FOAF.html
-END
 TestManifestX.html
 K 25
 svn:wc:ra_dav:version-url
@@ -68,4 +44,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 139
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/class-use/TestManifest.html
+END
+ResultSetGraphVocab.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/class-use/ResultSetGraphVocab.html
+END
+TestManifest_11.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/class-use/TestManifest_11.html
+END
+TestManifestUpdate_11.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/class-use/TestManifestUpdate_11.html
+END
+FOAF.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/vocabulary/class-use/FOAF.html
 END

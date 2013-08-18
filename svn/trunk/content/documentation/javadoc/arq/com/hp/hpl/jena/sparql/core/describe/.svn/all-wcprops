@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 114
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/describe
 END
-DescribeBNodeClosureFactory.html
-K 25
-svn:wc:ra_dav:version-url
-V 147
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/describe/DescribeBNodeClosureFactory.html
-END
 DescribeHandler.html
 K 25
 svn:wc:ra_dav:version-url
@@ -56,4 +50,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 132
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/describe/package-tree.html
+END
+DescribeBNodeClosureFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/core/describe/DescribeBNodeClosureFactory.html
 END

@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 111
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/migrate
 END
-package-frame.html
-K 25
-svn:wc:ra_dav:version-url
-V 130
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/migrate/package-frame.html
-END
 package-use.html
 K 25
 svn:wc:ra_dav:version-url
@@ -44,4 +38,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 131
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/migrate/GraphLoadUtils.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/fuseki/org/apache/jena/fuseki/migrate/package-frame.html
 END

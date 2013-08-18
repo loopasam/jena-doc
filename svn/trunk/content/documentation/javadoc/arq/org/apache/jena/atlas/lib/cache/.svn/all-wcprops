@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 109
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache
 END
-CacheSetLRU.html
-K 25
-svn:wc:ra_dav:version-url
-V 126
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/CacheSetLRU.html
-END
-CacheWrapper.html
-K 25
-svn:wc:ra_dav:version-url
-V 127
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/CacheWrapper.html
-END
 CacheUnbounded.html
 K 25
 svn:wc:ra_dav:version-url
@@ -110,4 +98,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 124
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/CacheSync.html
+END
+CacheSetLRU.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/CacheSetLRU.html
+END
+CacheWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/org/apache/jena/atlas/lib/cache/CacheWrapper.html
 END

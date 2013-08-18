@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 121
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/ref/class-use
 END
+EvaluatorSimple.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/ref/class-use/EvaluatorSimple.html
+END
 Evaluator.html
 K 25
 svn:wc:ra_dav:version-url
@@ -38,10 +44,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 143
 /repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/ref/class-use/EvaluatorFactory.html
-END
-EvaluatorSimple.html
-K 25
-svn:wc:ra_dav:version-url
-V 142
-/repos/asf/!svn/ver/1482787/jena/site/trunk/content/documentation/javadoc/arq/com/hp/hpl/jena/sparql/engine/ref/class-use/EvaluatorSimple.html
 END
