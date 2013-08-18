@@ -26,7 +26,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
   <script src="/jena-doc/js/jena-navigation.js" type="text/javascript"></script>
-  <script src="/jena-doc/js/bootstrap.min.js"></script>
+  <script src="/jena-doc/js/bootstrap.min.js" type="text/javascript"></script>
 </head>
 
 <body>
@@ -34,7 +34,7 @@
       <div class="navbar-inner">
         <div class="container">
         <a class="brand" href="/jena-doc/index.html" style="padding-top: 6px; padding-bottom: 0px;">
-            <img class="logo-menu" src="/jena-doc/images/jena-logo/jena-logo-notext-small.png">
+            <img class="logo-menu" src="/jena-doc/images/jena-logo/jena-logo-notext-small.png" alt="jena logo">
           </a>
           <a class="brand" href="/jena-doc/index.html">Apache Jena</a>
           <div class="nav-collapse collapse">
@@ -310,10 +310,10 @@ argument is used.</p>
 assembler file for TDB is in tdb.ttl.</p>
 <p><strong>Fuseki Server Arguments</strong></p>
 <ul>
-<li><code>--help</code> <br /> Print help message.</li>
-<li><code>--port=*number*</code> <br /> Run on port <em>number</em> - default is 3030.</li>
-<li><code>--host=*name*</code> <br /> Listen only to a specific network interface.</li>
-<li><code>--update</code> <br /> Allow update. Otherwise only read requests are served (ignored if a configuration file is given).</li>
+<li><code>--help</code>          <br /> Print help message.</li>
+<li><code>--port=*number*</code> <br /> Run on port <em>number</em> (default is 3030).</li>
+<li><code>--localhost</code>     <br /> Listen only to the localhost network interface.</li>
+<li><code>--update</code>        <br /> Allow update. Otherwise only read requests are served (ignored if a configuration file is given).</li>
 </ul>
 <h2 id="fuseki-server-starting-with-an-empty-dataset">Fuseki Server starting with an empty dataset</h2>
 <div class="codehilite"><pre><span class="n">fuseki</span><span class="o">-</span><span class="n">server</span> <span class="o">--</span><span class="n">update</span> <span class="o">--</span><span class="n">mem</span> <span class="o">/</span><span class="n">ds</span>

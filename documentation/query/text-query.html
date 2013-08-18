@@ -26,7 +26,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
   <script src="/jena-doc/js/jena-navigation.js" type="text/javascript"></script>
-  <script src="/jena-doc/js/bootstrap.min.js"></script>
+  <script src="/jena-doc/js/bootstrap.min.js" type="text/javascript"></script>
 </head>
 
 <body>
@@ -34,7 +34,7 @@
       <div class="navbar-inner">
         <div class="container">
         <a class="brand" href="/jena-doc/index.html" style="padding-top: 6px; padding-bottom: 0px;">
-            <img class="logo-menu" src="/jena-doc/images/jena-logo/jena-logo-notext-small.png">
+            <img class="logo-menu" src="/jena-doc/images/jena-logo/jena-logo-notext-small.png" alt="jena logo">
           </a>
           <a class="brand" href="/jena-doc/index.html">Apache Jena</a>
           <div class="nav-collapse collapse">
@@ -369,18 +369,22 @@ service, creating the index by loading the text dataset is impractical.<br />
 The index and the dataset can be built using command line tools in two
 steps: first load the RDF data, second create an index from the existing
 RDF dataset.</p>
+<h3 id="step-1-building-a-tdb-dataset">Step 1 - Building a TDB dataset</h3>
+<p><strong>Note:</strong> If you have an existing TDB dataset then you can skip this step</p>
 <p>Build the TDB dataset:</p>
 <div class="codehilite"><pre><span class="n">java</span> <span class="o">-</span><span class="n">cp</span> <span class="err">$</span><span class="n">FUSEKI_HOME</span><span class="o">/</span><span class="n">fuseki</span><span class="o">-</span><span class="n">server</span><span class="p">.</span><span class="n">jar</span> <span class="n">tdb</span><span class="p">.</span><span class="n">tdbloader</span> <span class="o">--</span><span class="n">tdb</span><span class="o">=</span><span class="n">assembler_file</span> <span class="n">data_file</span>
 </pre></div>
 
 
-<p>using the copy of TDB included with Fuseki.  Alternatively, use one of the
-<a href="../tdb/commands.html">TDB utilities</a> <code>tdbloader</code> or <code>tdbloader2</code>:</p>
+<p>using the copy of TDB included with Fuseki.</p>
+<p>Alternatively, use one of the
+<a href="../tdb/commands.html">TDB utilities</a> <code>tdbloader</code> or <code>tdbloader2</code> which are better for bulk loading:</p>
 <div class="codehilite"><pre><span class="err">$</span><span class="n">JENA_HOME</span><span class="o">/</span><span class="n">bin</span><span class="o">/</span><span class="n">tdbloader</span> <span class="o">--</span><span class="n">loc</span><span class="o">=</span><span class="n">directory</span>  <span class="n">data_file</span>
 </pre></div>
 
 
-<p>then build the text index with the <code>jena.textindexer</code>:</p>
+<h3 id="step-2-build-the-text-index">Step 2 - Build the Text Index</h3>
+<p>You can then build the text index with the <code>jena.textindexer</code> tool:</p>
 <div class="codehilite"><pre><span class="n">java</span> <span class="o">-</span><span class="n">cp</span> <span class="err">$</span><span class="n">FUSEKI_HOME</span><span class="o">/</span><span class="n">fuseki</span><span class="o">-</span><span class="n">server</span><span class="p">.</span><span class="n">jar</span> <span class="n">jena</span><span class="p">.</span><span class="n">textindexer</span> <span class="o">--</span><span class="n">desc</span><span class="o">=</span><span class="n">assembler_file</span>
 </pre></div>
 

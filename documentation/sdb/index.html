@@ -26,7 +26,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
   <script src="/jena-doc/js/jena-navigation.js" type="text/javascript"></script>
-  <script src="/jena-doc/js/bootstrap.min.js"></script>
+  <script src="/jena-doc/js/bootstrap.min.js" type="text/javascript"></script>
 </head>
 
 <body>
@@ -34,7 +34,7 @@
       <div class="navbar-inner">
         <div class="container">
         <a class="brand" href="/jena-doc/index.html" style="padding-top: 6px; padding-bottom: 0px;">
-            <img class="logo-menu" src="/jena-doc/images/jena-logo/jena-logo-notext-small.png">
+            <img class="logo-menu" src="/jena-doc/images/jena-logo/jena-logo-notext-small.png" alt="jena logo">
           </a>
           <a class="brand" href="/jena-doc/index.html">Apache Jena</a>
           <div class="nav-collapse collapse">
@@ -102,13 +102,30 @@
 	<div class="row-fluid">
 	<div class="span12">
 	<h1 class="title">SDB - persistent triple stores using relational databases</h1>
-  <p>SDB is a component of
-<a href="http://jena.apache.org/">Jena</a> for RDF
-storage and query specifically to support SPARQL.</p>
-<p>The storage is provided by an SQL database and many databases are
-supported, both Open Source and proprietary.</p>
+  <p>SDB uses an SQL database for the storage and query of RDF data.
+Many databases are supported, both Open Source and proprietary.</p>
 <p>An SDB store can be accessed and managed with the provided command
 line scripts and via the Jena API.</p>
+<blockquote>
+<i>
+Use of SDB for new applications is not recommended.
+</i>
+</blockquote>
+
+<p><i>This component is "maintenance only".</i></p>
+<p><i><a href="../tdb/index.html">TDB</a> is faster, more scalable and better supported
+than SDB.</i></p>
+<h2 id="status">Status</h2>
+<p>As of June 2013 the Jena developers agreed to treat SDB as 
+being only maintanined where possible. 
+See <a href="http://mail-archives.apache.org/mod_mbox/jena-users/201306.mbox/%3c51B1A7FB.4070601@apache.org%3e">Future of SDB</a> thread on the mailing list.</p>
+<p>The developers intend to continue releasing SDB alongside other Jena
+components but it is not actively developed.  None of the developers
+use it within their organizations.</p>
+<p>SDB may be revived as a fully supported component if members of the
+community come forward to develop it.  The Jena team strongly recommends
+the use of <a href="../tdb/">TDB</a> instead of SDB for all new development due to
+TDBs substantially better performance and scalability.</p>
 <h2 id="documentation">Documentation</h2>
 <ul>
 <li><a href="installation.html">SDB Installation</a></li>
